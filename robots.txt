@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://noir-dexprkr.github.io/noir-room/sitemap.xml.gz
+Sitemap: https://noir-dexprkr.github.io/lcdh-index/sitemap.xml.gz
