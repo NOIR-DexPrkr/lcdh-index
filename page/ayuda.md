@@ -30,7 +30,7 @@ Te presentamos a Adriana Mendoza, la persona encargada de ayudarte.
 
 ---
 
-## Como consigo ayuda?
+## ¿Cómo consigo ayuda?
 
 Para poder pedir tu sesion necesitas entrar a nuestro discord donde podras encontrar un canal con todos los pasos necesarios.
 
