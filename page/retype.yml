@@ -1,29 +1,29 @@
 input: .
 output: .retype
-url: https://noir-dexprkr.github.io/noir-room/ # Add your website address here
+url: https://noir-dexprkr.github.io/lcdh-index/ # Add your website address here
 branding:
-  title: Noir Room
+  title: LCDH
   logo: Icon-white.png
   logoDark: Icon-dark.png
   label: Dex
   
 meta:
-  title: " | Noir Room"
+  title: " | LCDH"
   
   
 links:
   - text: Facebook 
     icon: people
-    link: https://www.facebook.com/dex.noir.room
+    link: https://www.facebook.com/groups/losconsejosdehomero/?ref=share
     target: blank
   - text: Discord
     icon: feed-rocket
-    link: https://discord.gg/hVKeY3uEru
+    link: https://discord.gg/RaJEJPQYPb
     target: blank
     
 search: 
     mode: full
-    noResultsFoundMsg: No es el termino correcto, o no tengo lo que buscas, pidelo en mi discord.
+    noResultsFoundMsg: No es el termino correcto, o no tengo lo que buscas, pidelo en discord.
     placeholder: Busca aquí
     preload: true
     
@@ -36,15 +36,15 @@ footer:
   links: 
     - text: Facebook
       icon: people
-      link: https://www.facebook.com/dex.noir.room
+      link: https://www.facebook.com/groups/losconsejosdehomero/?ref=share
       target: blank
     - text: Discord
       icon: feed-rocket
-      link: https://discord.gg/hVKeY3uEru
+      link: https://discord.gg/RaJEJPQYPb
       target: blank
+    - text: Telegram
+      icon: plain
+      link: https://t.me/LosConsejosDeHomeroGroup
     - text: Actualizado 07/11/23
       icon: sync
       link: https://www.youtube.com/watch?v=Jg5wkZ-dJXA&pp=ygUFa2FueWU%3D
-    - text: Da amor
-      icon: gift
-      link: https://www.buymeacoffee.com/noiroom
