@@ -34,6 +34,8 @@ Te presentamos a Adriana Mendoza, la persona encargada de ayudarte.
 
 Para poder pedir tu sesion necesitas entrar a nuestro discord donde podras encontrar un canal con todos los pasos necesarios.
 
+[![Unete a LCDH!](https://discordapp.com/api/guilds/1086740948744159334/embed.png?style=banner2)](https://discord.gg/RaJEJPQYPb)
+
 Te deseamos lo mejor 🤍
 
----
+-
