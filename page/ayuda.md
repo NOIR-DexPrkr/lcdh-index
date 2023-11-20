@@ -37,5 +37,3 @@ Para poder pedir tu sesion necesitas entrar a nuestro discord donde podras encon
 [![Unete a LCDH!](https://discordapp.com/api/guilds/1086740948744159334/embed.png?style=banner2)](https://discord.gg/RaJEJPQYPb)
 
 Te deseamos lo mejor 🤍
-
--
