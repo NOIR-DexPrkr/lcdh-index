@@ -1,5 +1,5 @@
 ---
-label: Programas PC
+label: Programas
 icon: device-desktop
 layout: default
 order: 1899
