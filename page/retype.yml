@@ -20,10 +20,14 @@ links:
     icon: feed-rocket
     link: https://discord.gg/RaJEJPQYPb
     target: blank
+  - text: Telegram
+    icon: paper-airplane
+    link: https://t.me/LosConsejosDeHomeroOficial
+    target: blank
     
 search: 
     mode: full
-    noResultsFoundMsg: No es el termino correcto, o no tengo lo que buscas, pidelo en discord.
+    noResultsFoundMsg: No es el termino correcto, o no tenemos lo que buscas, haz una peticion.
     placeholder: Busca aquí
     preload: true
     
@@ -32,7 +36,7 @@ editor:
 
 
 footer:
-  copyright: "&copy; Este sitio es una recopilacion de tutoriales. No estoy ligado a lo que en ellos se encuentra."
+  copyright: "&copy; Este sitio es una recopilacion de links. No estamos ligados a lo que en ellos se encuentra."
   links: 
     - text: Facebook
       icon: people
