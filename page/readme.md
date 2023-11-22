@@ -17,7 +17,7 @@ Encuentra de todo seleccionando los diferentes menus a la izquierda o usando la 
 
 ---
 
-**¿Tienes una sugerencia?** **[Mencionala por aqui](https://discord.gg/hVKeY3uEru)**
+**¿Tienes una sugerencia?** **[Mencionala por aqui](https://discord.gg/RaJEJPQYPb)**
 
 !!!info 
 [Dex Parker:](https://rentry.co/links-noir-room) *Creador del Index*
