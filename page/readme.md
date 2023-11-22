@@ -28,4 +28,4 @@ Encuentra de todo seleccionando los diferentes menus a la izquierda o usando la 
 ---
 
 > El sitio esta en construccion constante, por lo tanto seguiran llegando mas aportes.
-> **Si necesitas algo mas y no esta aqui, visitame Discord.**
+> **Si necesitas algo mas y no esta aqui, visitanos en el Discord.**
