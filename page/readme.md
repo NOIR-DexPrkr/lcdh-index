@@ -8,7 +8,7 @@ order: 3000
 
  ![](https://i.postimg.cc/x1NF5Y7F/banner-lcdh.png)
 
-# Bienvenido al index de LCDH.
+# Bienvenido al index de LCDH
 
 Aqui podras encontrar gran variedad de archivos, juegos, programas, etc, todo proporcionado por los miembros de LCDH en las distintas plataformas.
 
