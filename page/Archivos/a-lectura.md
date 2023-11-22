@@ -1,5 +1,5 @@
 ---
-label: Libros
+label: Lectura
 icon: book
 layout: default
 order: 1470

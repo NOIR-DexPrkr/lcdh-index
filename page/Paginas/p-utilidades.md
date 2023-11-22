@@ -11,11 +11,7 @@ order: 1570
 
 ---
 
-
-### **Paginas Útiles**
-
-
-**Inteligencias Artificiales**
+### **Inteligencia Artificial**
 
 
 - [IA de generación de texto](https://noiroom.tech/I-Artificial/ai-text)
@@ -25,6 +21,13 @@ order: 1570
 
 
 - [IA de generación de búsqueda](https://noiroom.tech/I-Artificial/ai-search)
+
+
+### **Paginas Útiles**
+
+
+- [Nitter:](https://nitter.1d4.us/)
+¿Quieres usar Twitter, pero no quieres iniciar sesión? Con esta página puedes hacerlo.
 
 
 ---
