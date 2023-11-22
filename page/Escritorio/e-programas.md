@@ -5,31 +5,25 @@ layout: default
 order: 1899
 ---
 
-# ![](https://i.postimg.cc/kg07sH3R/Homero-Profile-Frame.png) ᑭᖇOGᖇᗩᗰᗩS ᑭᑕ
-
-
- ![](https://cdn.discordapp.com/attachments/820118126992949298/1171619542330519663/Proyecto_nuevo_3.png?ex=655d56ba&is=654ae1ba&hm=682743035fa9179da61a92a30da767010b453d31b3580940d7dca25702b5d74e&)    
-
----
-
-!!!note
-[Buscador de programas PC](https://tiny.cc/noirpc)
-*Buscador de Programas NOIR creado por Dex Parker.🕷*
+# ![](https://i.postimg.cc/Z0ztwDJ1/banner-items-lcdh.png)
 
 ---
 
 ### **Programas de edición**
-- [Adobe CC](https://www.dexco.workers.dev/tutoriales/adobecc/)
-***Todos los programas de adobe gratis y sin complicaciones.** Tienes tres opciones para la descarga dependiendo que tan experto seas con esto de los programas parchados.*
+- [Adobe CC:](https://www.dexco.workers.dev/tutoriales/adobecc/)
+**Todos los programas de adobe gratis y sin complicaciones.** Tienes tres opciones para la descarga dependiendo que tan experto seas con esto de los programas parchados.
 
-- [Olive](https://www.olivevideoeditor.org/)
-*Editor de video de codigo abierto para profesionales y principiantes. La mejor opcion gratis.*
 
-- [Davinci Resolve 18](https://www.blackmagicdesign.com/products/davinciresolve)
-*Uno de los mejores programas de edicion de video y gratis. Tiene todo lo necesario para cualquier usuario y cualquier situacion.*
+- [Olive:](https://www.olivevideoeditor.org/)
+Editor de video de codigo abierto para profesionales y principiantes. La mejor opcion gratis.
 
-- [PhotoGIMP](https://www.dexco.workers.dev/escritorio/e-diseño/#editores-de-imagenes)
-*GIMP pero con la interfaz y algunas funciones de Photoshop y Portable.*
+
+- [Davinci Resolve 18:](https://www.blackmagicdesign.com/products/davinciresolve)
+Uno de los mejores programas de edicion de video y gratis. Tiene todo lo necesario para cualquier usuario y cualquier situacion.
+
+
+- [PhotoGIMP:](https://www.dexco.workers.dev/escritorio/e-diseño/#editores-de-imagenes)
+GIMP pero con la interfaz y algunas funciones de Photoshop y Portable.
 
 ---
 
