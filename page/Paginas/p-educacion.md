@@ -38,7 +38,7 @@ No pesan mucho, pues estan super comprimidos en un formato especial para la app.
 [!button icon="desktop-download" text="Descarga los sitios"](https://library.kiwix.org/?lang=spa)
 
 
-- [Office 365 - Con funciones online](https://noiroom.tech/Tutoriales/Win-O365)
+- [Office 365 - Con funciones online:](https://noiroom.tech/Tutoriales/Win-O365)
 Tutorial muy sencillo de como obtener el paquete de office365 sin preocuparte por un virus.
 
 

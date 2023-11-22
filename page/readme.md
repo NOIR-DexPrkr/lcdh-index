@@ -19,7 +19,8 @@ Encuentra de todo seleccionando los diferentes menus a la izquierda o usando la 
 
 **¿Tienes una sugerencia?** **[Mencionala por aqui](https://discord.gg/RaJEJPQYPb)**
 
-!!!info Con mucho cariño, de parte de:
+!!!info Con mucho cariño, hecho por:
+
 [Dex Parker:](https://rentry.co/links-noir-room) Creador del Index
 
 [Pipe:](https://rentry.co/8xrygz) Editor y colaborador del Index
