@@ -10,9 +10,9 @@ order: 1897
 ---
 
 
-!!!success Buscador de juegos hecho por Dex.
+!!!success Buscador hecho por Dex.
 
-[!button icon="codescan-checkmark" text="Buscador"](https://tiny.cc/noirpc)
+[!button icon="codescan-checkmark" text="Juegos"](https://tiny.cc/noirpc)
 !!!
 
 
@@ -24,7 +24,7 @@ order: 1897
 Obten la versión que quieras totalmente actualizable.
 
 
-- [Plantas vs Zombies 2 Version port](https://gamejolt.com/games/Xuwugames_PVZ_Void/714049)
+- [Plantas vs Zombies 2 Version Port:](https://gamejolt.com/games/Xuwugames_PVZ_Void/714049)
 Juega al clasico PvZ2 para android en PC. No es estable.
 
 
