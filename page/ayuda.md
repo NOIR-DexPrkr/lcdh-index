@@ -12,7 +12,7 @@ Bienvenido al consultorio Virtual Adriana Mendoza
 Especialista en ansiedad, depresión y más.
 TCC 👩🏽‍⚕️🧠
 
-## Conoce tu Psiquiatra
+## Conoce tu Psicologa
 
 Con ayuda de un profesional en el tema, Los consejos de Homero & Noir Room lograron un acuerdo para brindar pequeñas sesiones de ayuda a personas que lo necesiten.
 
