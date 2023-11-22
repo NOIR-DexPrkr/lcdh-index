@@ -10,9 +10,9 @@ order: 1897
 ---
 
 
-!!!success Buscador de juegos por Dex.
+!!!success Buscador de juegos hecho por Dex.
 
-[Buscador de juegos PC](https://tiny.cc/noirpc)
+[!button icon="codescan-checkmark" text="Buscador"](https://tiny.cc/noirpc)
 !!!
 
 
