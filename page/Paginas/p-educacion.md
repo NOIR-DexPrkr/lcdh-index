@@ -5,22 +5,26 @@ layout: default
 order: 1580
 ---
 
-# ![](https://i.postimg.cc/NFfScxkG/image-1.png) ᕮᗪᑌᑕᗩᑕIÓᑎ
 
--> ![](https://cdn.discordapp.com/attachments/820118126992949298/1171619542330519663/Proyecto_nuevo_3.png?ex=655d56ba&is=654ae1ba&hm=682743035fa9179da61a92a30da767010b453d31b3580940d7dca25702b5d74e&) <-   
+# ![](https://i.postimg.cc/qB103nzL/banner-items-lcdh-4.png)
+
 
 ---
 
 ## **Programas de utilidad**
 
-- [Kiwix - Web reader](https://www.kiwix.org/en/downloads/windows/)
+
+- [Kiwix - Web reader:](https://www.kiwix.org/en/downloads/windows/)
 *Lee sitios web completos sin conexión. Wikis, Enciclopedias, Foros, etc. [Descarga aqui lo sitios](https://library.kiwix.org/?lang=spa). 
 No pesan mucho, pues estan super comprimidos en un formato especial para la app.*
 
-- [Office 365 - Con funciones online](https://www.dexco.workers.dev/tutoriales/win-o365/)
+
+- [Office 365 - Con funciones online](https://noiroom.tech/Tutoriales/Win-O365)
 *Tutorial muy sencillo de como obtener el paquete de office365 sin preocuparte por un virus.*
 
+
 ---
+
 
 ### **Libros**
 
