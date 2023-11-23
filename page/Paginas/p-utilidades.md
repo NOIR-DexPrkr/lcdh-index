@@ -34,7 +34,7 @@ order: 1570
 ¿No sabes de dónde proviene una foto, video, o necesitas otras herramientas? Yandex es un buscador que te permite eso y mucho más.
 
 
-- :icon-alert: [Kemono:](https://kemono.party/artists)
+- [Kemono:](https://kemono.party/artists) :icon-alert:
 Con está página podrás ver contenido de Patreon u otras páginas de tus artistas favoritos.
 
 
