@@ -23,6 +23,18 @@ order: 1570
 - [IA de generación de búsqueda](https://noiroom.tech/I-Artificial/ai-search)
 
 
+- [Futurepedia:](https://www.futurepedia.io/)
+Extensa lista de IA la cual te permite ver si la IA es de paga, gratis, o por tiempo limitado.
+
+
+- [FakeYou:](https://fakeyou.com/)
+Te permite convertir voces en otros personajes o celebridades, entre otras opciones.
+
+
+- [Socra:](https://socra.com/)
+Te permite ponerte metas y cumplirlas gracias a una IA.
+
+
 ### **Paginas**
 
 
@@ -34,8 +46,17 @@ order: 1570
 ¿No sabes de dónde proviene una foto, video, o necesitas otras herramientas? Yandex es un buscador que te permite eso y mucho más.
 
 
+- [TempMail:](https://temp-mail.org/es/)
+Ahorrate el correo basura, y también protege el tuyo. Usa los correos temporales de esta página.
+
+
+- [FaceCheck:](https://facecheck.id/es)
+Reconoce caras a través de una sola foto. Tiene efectividad de 85%.
+
+
 - [Kemono:](https://kemono.party/artists) :icon-alert:
 Con está página podrás ver contenido de Patreon u otras páginas de tus artistas favoritos.
+
 
 
 ### **Bots de Telegram**
@@ -45,8 +66,12 @@ Con está página podrás ver contenido de Patreon u otras páginas de tus artis
 Te permite crear alertas y alarmas simples.
 
 
-- [Deezload](https://t.me/deezload2bot)
-Te permite descargar música en formato `mp3 y flac`.
+- [Deezload:](https://t.me/deezload2bot)
+Te permite descargar música en formato `mp3 y flac`, con metadatos.
+
+
+- [YoutubeDownloader:](https://t.me/youtubedownload3r_robot)
+Te permite descargar videos de YouTube en distintos formatos.
 
 
 ### **Extensión de navegador**
