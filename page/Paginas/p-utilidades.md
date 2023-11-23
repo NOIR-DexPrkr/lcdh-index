@@ -62,6 +62,10 @@ Tal cual dice su nombre, elimina el fondo de la imagen que quieras.
 Ve la velocidad de tu Internet con esta página.
 
 
+- [Wayback Machine:](https://web.archive.org/)
+La mítica página para poder ver el pasado mientras tengas el link del lugar.
+
+
 - [Kemono:](https://kemono.party/artists) :icon-alert:
 Con está página podrás ver contenido de Patreon u otras páginas de tus artistas favoritos.
 
@@ -77,12 +81,24 @@ Te permite crear alertas y alarmas simples.
 Te permite descargar música en formato `mp3 y flac`, con metadatos.
 
 
-- [YoutubeDownloader:](https://t.me/youtubedownload3r_robot)
-Te permite descargar videos de YouTube en distintos formatos.
-
-
 - [PDFBot:](https://t.me/pdfbot)
 Te permite hacer gran variedad de cosas referente a archivos PDF, pruébalo.
+
+
+- [TextTSBot:](https://t.me/TextTSBot)
+Te permite convertir de texto a voz, como un loquendo. Saluda a Marulete.
+
+
+- [VirusTotalBot](https://t.me/VirusTotalAV_bot)
+Te permite analizar archivos de hasta 320mb.
+
+
+- [Wiki](https://t.me/wiki)
+Te permite ver artículos de Wikipedia en el chat que quieras.
+
+
+- [YoutubeDownloader:](https://t.me/youtubedownload3r_robot)
+Te permite descargar videos de YouTube en distintos formatos.
 
 
 ### **Extensión de navegador**
