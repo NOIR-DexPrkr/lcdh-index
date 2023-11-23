@@ -1,6 +1,6 @@
 ---
 label: iOS
-icon: device-mobile 
+icon: cloud 
 layout: default
 order: 1789
 ---

@@ -1,6 +1,6 @@
 ---
 label: Android
-icon: dependabot
+icon: copilot
 layout: default
 order: 1787
 ---
