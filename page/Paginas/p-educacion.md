@@ -25,6 +25,14 @@ Un lugar donde la comunidad comparte sus archivos, si no encuentras algo, visita
 ¿Necesitas un libro de [Scribd](https://es.scribd.com/) pero no tienes como pagar? Visita este lugar, pega el link de tu libro y listo.
 
 
+- [Scribbr:](https://www.scribbr.com/citation/generator/apa/)
+Página que permite crear APA a través del link que le otorgas.
+
+
+- [Resoomer:](https://resoomer.com/es/)
+Resume tus proyectos con esta página, tiene limitaciones.
+
+
 ---
 
 ## **Programas de utilidad**
