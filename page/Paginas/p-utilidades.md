@@ -74,6 +74,10 @@ Te permite descargar música en formato `mp3 y flac`, con metadatos.
 Te permite descargar videos de YouTube en distintos formatos.
 
 
+- [PDFBot:](https://t.me/pdfbot)
+Te permite hacer gran variedad de cosas referente a archivos PDF, pruébalo.
+
+
 ### **Extensión de navegador**
 
 
