@@ -1,6 +1,6 @@
 ---
 label: Juegos
-icon: trophy
+icon: dependabot
 layout: default
 order: 1897
 ---

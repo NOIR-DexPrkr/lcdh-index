@@ -1,6 +1,6 @@
 ---
 label: Programas
-icon: device-desktop
+icon: package
 layout: default
 order: 1899
 ---
