@@ -58,12 +58,12 @@ Reconoce caras a través de una sola foto. Tiene efectividad de 85%.
 Tal cual dice su nombre, elimina el fondo de la imagen que quieras.
 
 
-- [Kemono:](https://kemono.party/artists) :icon-alert:
-Con está página podrás ver contenido de Patreon u otras páginas de tus artistas favoritos.
-
-
 - [Fast:](https://fast.com/es/)
 Ve la velocidad de tu Internet con esta página.
+
+
+- [Kemono:](https://kemono.party/artists) :icon-alert:
+Con está página podrás ver contenido de Patreon u otras páginas de tus artistas favoritos.
 
 
 ### **Bots de Telegram**
