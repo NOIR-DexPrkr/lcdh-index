@@ -66,23 +66,23 @@ Tienda de aplicaciones y juegos modificados. Tiene su propia app.
 +++ Photoshop
 Edición de fotos sencilla y divertida al alcance de todos.
 
-[!badge corners="pill" text="Photoshop Express"](https://modyolo.com/photoshop-express-photo-editor.html)
+[!button corners="pill" text="Photoshop Express"](https://modyolo.com/photoshop-express-photo-editor.html)
 +++ LightRoom
 Edita, organiza y comparte tus mejores fotos con esta aplicación.
 
-[!badge corners="pill" text="LightRoom"](https://modyolo.com/adobe-lightroom.html)
+[!button corners="pill" text="LightRoom"](https://modyolo.com/adobe-lightroom.html)
 +++ Premiere
 Graba, edita y comparte donde sea.
 
-[!badge corners="pill" text="Premiere Rush"](https://modyolo.com/adobe-premiere-rush.html)
+[!button corners="pill" text="Premiere Rush"](https://modyolo.com/adobe-premiere-rush.html)
 +++ Acrobat
 Visualiza, firma y anota archivos PDF.
 
-[!badge corners="pill" text="Acrobat Reader"](https://modyolo.com/adobe-reader.html)
+[!button corners="pill" text="Acrobat Reader"](https://modyolo.com/adobe-reader.html)
 +++ Scan
 Escanea cualquier cosa en un abrir y cerrar de ojos.
 
-[!badge corners="pill" text="Scan"](https://modyolo.com/adobe-scan-pdf-scanner-ocr.html)
+[!button corners="pill" text="Scan"](https://modyolo.com/adobe-scan-pdf-scanner-ocr.html)
 +++
 
 
@@ -91,19 +91,19 @@ Escanea cualquier cosa en un abrir y cerrar de ojos.
 +++ Spotify Premium
 Incluye streaming, pero NO SE PUEDE DESCARGAR MÚSICA.
 
-[!badge corners="pill" text="Presiona aquí"](https://noiroom.tech/Tutoriales/spotify-premium#para-android)
+[!button corners="pill" text="Presiona aquí"](https://noiroom.tech/Tutoriales/spotify-premium#para-android)
 +++ Descargar MP3 & FLAC
 Incluye streamings y descarga de archivos mp3 y flac.
 
 Podrás encontrar apps como Netease y Fildo.
 
-[!badge corners="pill" text="Presiona aquí"](https://noiroom.tech/Moviles/m-musica#streaming-descarga-mp3-flac)
+[!button corners="pill" text="Presiona aquí"](https://noiroom.tech/Moviles/m-musica#streaming-descarga-mp3-flac)
 +++ Descargar en APP
 Incluye streaming y descarga en la aplicación.
 
 Podrás encontrar apps como Deezer, BlackHole, Musify, etc.
 
-[!badge corners="pill" text="Presiona aquí"](https://noiroom.tech/Moviles/m-musica#streaming-descaga-inapp)
+[!button corners="pill" text="Presiona aquí"](https://noiroom.tech/Moviles/m-musica#streaming-descaga-inapp)
 +++
 
 
