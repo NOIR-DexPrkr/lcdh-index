@@ -60,7 +60,53 @@ Tienda de aplicaciones y juegos modificados. Tiene su propia app.
 Si tienes problemas para despertar, usa esta aplicación.
 
 
-- 
+- [Capcut:](https://androeed.es/files/capcut.html)
+Aplicación conocida para poder editar videos.
+
+
+- [DeepL:](https://play.google.com/store/apps/details?id=com.deepl.mobiletranslator)
+Traductor recomendado por algunos, mejor que otros.
+
+
+- [PicsArt:](https://modyolo.com/picsart-studio-1.html)
+De las mejores apps para editar en celular.
+
+
+- [Filmora GO](https://modyolo.com/filmorago.html)
+Aplicación para poder editar videos.
+
+
+- [FlipaClip:](https://modyolo.com/flipaclip.html)
+¿Quieres hacer animaciones 2D? Usa esta app.
+
+
+- [SCR Screen Recorder:](https://www.mediafire.com/file/x7k8kjd0toeh1ly/SCR+MOD_by+AndroidFaster.apk)
+Si quieres capturar la pantalla de tu dispositivo Android, usa esta, sirve incluso con 2GB de ram.
+
+
+- [InShot:](https://modyolo.com/inshot.html)
+Editor de videos conocido.
+
+
+- [KineMaster:](https://modyolo.com/kinemaster-pro.html)
+Otro editor de videos bastante conocido y completo.
+
+
+- [MagPic:](https://modyolo.com/magpic-photo-editor.html)
+Editor de fotos, no hace falta más explicación.
+
+
+- [Photomath:](https://modyolo.com/photomath-microblink.html)
+Aplicación para poder resolver problemas matemáticos de manera simple.
+
+
+- [PowerDirector:](https://modyolo.com/powerdirector.html)
+Otra más para editar videos, vaya que hay apps para elegir.
+
+
+
+
+
 
 
 
