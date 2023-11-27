@@ -75,72 +75,72 @@ Si tienes problemas para despertar, usa esta aplicación.
 - **Alternativas Youtube:**
 
 
-=== Youtube Vanced
+==- Youtube Vanced
 El clásico Youtube Vanced. Recuerda descargar ''Vanced MicroG''.
 
 [!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://revanced-apks.pages.dev/)
-=== LibreTube
+==- LibreTube
 Incluye inicio de sesión. Máxima calidad y sin anuncios.
 
 [!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://libretube.dev/)
-=== VueTube
+==- VueTube
 Incluye inicio de sesión + plugins. Está en acceso anticipado.
 
 [!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://vuetube.app/)
-=== NewPipe
+==- NewPipe
 Incluye bloqueador de anuncios.
 
 [!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://apt.izzysoft.de/fdroid/index/apk/org.polymorphicshade.newpipe)
 
-===
+==-
 
 
 - **Adobe:**
 
-=== Photoshop Express
+==- Photoshop Express
 Edición de fotos sencilla y divertida al alcance de todos.
 
 [!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://modyolo.com/photoshop-express-photo-editor.html)
-=== LightRoom
+==- LightRoom
 Edita, organiza y comparte tus mejores fotos con esta aplicación.
 
 [!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://modyolo.com/adobe-lightroom.html)
-=== Premiere Rush
+==- Premiere Rush
 Graba, edita y comparte donde sea.
 
 [!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://modyolo.com/adobe-premiere-rush.html)
-=== Acrobat Reader
+==- Acrobat Reader
 Visualiza, firma y anota archivos PDF.
 
 [!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://modyolo.com/adobe-reader.html)
-=== Scan
+==- Scan
 Escanea cualquier cosa en un abrir y cerrar de ojos.
 
 [!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://modyolo.com/adobe-scan-pdf-scanner-ocr.html)
 
-===
+==-
 
 
 - **Escuchar música:**
 
-=== Spotify Premium
+==- Spotify Premium
 Incluye streaming, pero NO SE PUEDE DESCARGAR MÚSICA.
 
 [!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://noiroom.tech/Tutoriales/spotify-premium#para-android)
-=== Descargar MP3 & FLAC
+==- Descargar MP3 & FLAC
 Incluye streamings y descarga de archivos mp3 y flac.
 
 Podrás encontrar apps como Netease y Fildo.
 
 [!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://noiroom.tech/Moviles/m-musica#streaming-descarga-mp3-flac)
-=== Descargar en APP
+==- Descargar en APP
 Incluye streaming y descarga en la aplicación.
 
 Podrás encontrar apps como Deezer, BlackHole, Musify, etc.
 
 [!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://noiroom.tech/Moviles/m-musica#streaming-descaga-inapp)
 
-===
+==-
 
 
 - [CloudStream:](https://noiroom.tech/Tutoriales/cloudstream)
