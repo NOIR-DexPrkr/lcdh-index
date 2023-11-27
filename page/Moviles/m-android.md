@@ -89,7 +89,7 @@ Escanea cualquier cosa en un abrir y cerrar de ojos.
 - **Escuchar música:**
 
 +++ Spotify Premium
-Incluye streaming, PERO NO DESCARGA DE MÚSICA.
+Incluye streaming, pero NO SE PUEDE DESCARGAR MÚSICA.
 
 [!badge corners="pill" text="Presiona aquí"](https://noiroom.tech/Tutoriales/spotify-premium#para-android)
 +++ Descargar MP3 & FLAC
@@ -101,7 +101,7 @@ Podrás encontrar apps como Netease y Fildo.
 +++ Descargar en APP
 Incluye streaming y descarga en la aplicación.
 
-Podrás encontrar aps como Deezer, BlackHole, Musify, etc.
+Podrás encontrar apps como Deezer, BlackHole, Musify, etc.
 
 [!badge corners="pill" text="Presiona aquí"](https://noiroom.tech/Moviles/m-musica#streaming-descaga-inapp)
 +++
