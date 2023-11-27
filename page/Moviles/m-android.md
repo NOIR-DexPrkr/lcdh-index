@@ -60,7 +60,7 @@ Tienda de aplicaciones y juegos modificados. Tiene su propia app.
 Si tienes problemas para despertar, usa esta aplicación.
 
 
-- []
+- 
 
 
 
@@ -75,23 +75,24 @@ Si tienes problemas para despertar, usa esta aplicación.
 - **Alternativas Youtube:**
 
 
-+++ Youtube Vanced
+=== Youtube Vanced
 El clásico Youtube Vanced. Recuerda descargar ''Vanced MicroG''.
 
 [!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://revanced-apks.pages.dev/)
-+++ LibreTube
+=== LibreTube
 Incluye inicio de sesión. Máxima calidad y sin anuncios.
 
 [!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://libretube.dev/)
-+++ VueTube
+=== VueTube
 Incluye inicio de sesión + plugins. Está en acceso anticipado.
 
 [!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://vuetube.app/)
-+++ NewPipe
+=== NewPipe
 Incluye bloqueador de anuncios.
 
 [!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://apt.izzysoft.de/fdroid/index/apk/org.polymorphicshade.newpipe)
-+++
+
+===
 
 
 - **Adobe:**
