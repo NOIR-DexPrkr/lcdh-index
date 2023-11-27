@@ -67,6 +67,27 @@ Tienda de aplicaciones y juegos modificados. Tiene su propia app.
 #### **Aplicaciones**
 
 
+
+- **Adobe:**
+
++++ Photoshop
+Edición de fotos sencilla y divertida al alcance de todos.
+[!badge corners="pill" text="Photoshop Express"](https://modyolo.com/photoshop-express-photo-editor.html)
++++ LightRoom
+Edita, organiza y comparte tus mejores fotos con esta aplicación.
+[!badge corners="pill" text="LightRoom"](https://modyolo.com/adobe-lightroom.html)
++++ Premiere
+Graba, edita y comparte donde sea.
+[!badge corners="pill" text="Premiere Rush"](https://modyolo.com/adobe-premiere-rush.html)
++++ Acrobat
+Visualiza, firma y anota archivos PDF.
+[!badge corners="pill" text="Acrobat Reader"](https://modyolo.com/adobe-reader.html)
++++ Scan
+Escanea cualquier cosa en un abrir y cerrar de ojos.
+[!badge corners="pill" text="Scan"](https://modyolo.com/adobe-scan-pdf-scanner-ocr.html)
++++
+
+
 - [Aplicaciones para escuchar musica y descargar offline:](https://noiroom.tech/Moviles/m-musica)
 Incluye mods de TIDAL, Deezer, Fildo, Netease.
 
@@ -80,21 +101,6 @@ Spotify no permite descargar musica
 
 - [CloudStream:](https://noiroom.tech/Tutoriales/cloudstream)
 Aplicacion con recopilacion de varias paginas de ver peliculas, todas en un solo lugar.
-
-
-- Adobe:
-
-+++ Photoshop
-[!badge corners="pill" text="Photoshop Express"](https://modyolo.com/photoshop-express-photo-editor.html)
-+++ LightRoom
-[!badge corners="pill" text="LightRoom"](https://modyolo.com/adobe-lightroom.html)
-+++ Premiere
-[!badge corners="pill" text="Premiere Rush"](https://modyolo.com/adobe-premiere-rush.html)
-+++ Acrobat
-[!badge corners="pill" text="Acrobat Reader"](https://modyolo.com/adobe-reader.html)
-+++ Scan
-[!badge corners="pill" text="Scan"](https://modyolo.com/adobe-scan-pdf-scanner-ocr.html)
-+++
 
 
 #### **Juegos**
