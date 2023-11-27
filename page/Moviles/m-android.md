@@ -33,7 +33,7 @@ Encuentra betas y versiones pasadas de aplicaciones y juegos.
 Encuentra betas y versiones pasadas de aplicaciones y juegos. **Algunas apps de paga se pueden encontrar aquí.**
 
 
-#### APKs Modificadas
+#### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) APKs Modificadas
 
 
 - [RockMods:](https://www.rockmods.net/)
@@ -121,7 +121,7 @@ Nuevamente otro editor de videos más.
 ### Colecciones
 
 
-#### **Aplicaciones**
+#### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Aplicaciones**
 
 
 - **Alternativas Youtube:**
@@ -199,7 +199,7 @@ Podrás encontrar apps como Deezer, BlackHole, Musify, etc.
 Aplicacion con recopilacion de varias paginas de ver peliculas, todas en un solo lugar.
 
 
-#### **Juegos**
+#### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Juegos**
 
 
 - [Todos los juegos FNAF](https://drive.google.com/file/d/13ZNJB38Ju9PgS5AKIgz87nJQwhFKOy9O/view)
