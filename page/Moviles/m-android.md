@@ -54,35 +54,68 @@ Tienda de aplicaciones y juegos modificados. Tiene su propia app.
 
 ---
 
+### Aplicaciones
+
+- [Alarmy:](https://drive.google.com/file/d/1AkO5XdAUZaICNDdJG-ybEwzQlCSEd_Il/view?usp=drivesdk)
+Si tienes problemas para despertar, usa esta aplicación.
+
+
+- []
+
+
+
+---
+
 ### Colecciones
 
 
 #### **Aplicaciones**
 
 
+- **Alternativas Youtube:**
+
+
++++ Youtube Vanced
+El clásico Youtube Vanced. Recuerda descargar ''Vanced MicroG''.
+
+[!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://revanced-apks.pages.dev/)
++++ LibreTube
+Incluye inicio de sesión. Máxima calidad y sin anuncios.
+
+[!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://libretube.dev/)
++++ VueTube
+Incluye inicio de sesión + plugins. Está en acceso anticipado.
+
+[!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://vuetube.app/)
++++ NewPipe
+Incluye bloqueador de anuncios.
+
+[!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://apt.izzysoft.de/fdroid/index/apk/org.polymorphicshade.newpipe)
++++
+
 
 - **Adobe:**
 
-+++ Photoshop
++++ Photoshop Express
 Edición de fotos sencilla y divertida al alcance de todos.
 
-[!button corners="pill" size="m" variant="success" text="Photoshop Express"](https://modyolo.com/photoshop-express-photo-editor.html)
+[!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://modyolo.com/photoshop-express-photo-editor.html)
 +++ LightRoom
 Edita, organiza y comparte tus mejores fotos con esta aplicación.
 
-[!button corners="pill" size="m" variant="success" text="LightRoom"](https://modyolo.com/adobe-lightroom.html)
-+++ Premiere
+[!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://modyolo.com/adobe-lightroom.html)
++++ Premiere Rush
 Graba, edita y comparte donde sea.
 
-[!button corners="pill" size="m" variant="success" text="Premiere Rush"](https://modyolo.com/adobe-premiere-rush.html)
-+++ Acrobat
+[!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://modyolo.com/adobe-premiere-rush.html)
++++ Acrobat Reader
 Visualiza, firma y anota archivos PDF.
 
-[!button corners="pill" size="m" variant="success" text="Acrobat Reader"](https://modyolo.com/adobe-reader.html)
+[!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://modyolo.com/adobe-reader.html)
 +++ Scan
 Escanea cualquier cosa en un abrir y cerrar de ojos.
 
-[!button corners="pill" size="m" variant="success" text="Scan"](https://modyolo.com/adobe-scan-pdf-scanner-ocr.html)
+[!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://modyolo.com/adobe-scan-pdf-scanner-ocr.html)
 +++
 
 
