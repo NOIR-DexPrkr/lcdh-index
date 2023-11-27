@@ -54,13 +54,6 @@ Tienda de aplicaciones y juegos modificados. Tiene su propia app.
 
 ---
 
-### Aplicaciones 
-
-
-
-
----
-
 ### Colecciones
 
 
@@ -93,16 +86,26 @@ Escanea cualquier cosa en un abrir y cerrar de ojos.
 +++
 
 
-- [Aplicaciones para escuchar musica y descargar offline:](https://noiroom.tech/Moviles/m-musica)
-Incluye mods de TIDAL, Deezer, Fildo, Netease.
+- **Escuchar música:**
 
++++ Spotify Premium
+Incluye streaming, PERO NO DESCARGA DE MÚSICA.
 
-- [Spotify Premium:](https://noiroom.tech/Tutoriales/spotify-premium#para-android)
-Cliente oficial de Spotify con las funciones premium activadas.
+[!badge corners="pill" text="Presiona aquí"](https://noiroom.tech/Tutoriales/spotify-premium#para-android)
++++ Descargar MP3 & FLAC
+Incluye streamings y descarga de archivos mp3 y flac.
 
-!!!danger 
-Spotify no permite descargar musica
-!!!
+Podrás encontrar apps como Netease y Fildo.
+
+[!badge corners="pill" text="Presiona aquí"](https://noiroom.tech/Moviles/m-musica#streaming-descarga-mp3-flac)
++++ Descargar en APP
+Incluye streaming y descarga en la aplicación.
+
+Podrás encontrar aps como Deezer, BlackHole, Musify, etc.
+
+[!badge corners="pill" text="Presiona aquí"](https://noiroom.tech/Moviles/m-musica#streaming-descaga-inapp)
++++
+
 
 - [CloudStream:](https://noiroom.tech/Tutoriales/cloudstream)
 Aplicacion con recopilacion de varias paginas de ver peliculas, todas en un solo lugar.
