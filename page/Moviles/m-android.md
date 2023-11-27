@@ -94,6 +94,7 @@ Aplicacion con recopilacion de varias paginas de ver peliculas, todas en un solo
 [!badge corners="pill" text="Acrobat Reader"](https://modyolo.com/adobe-reader.html)
 +++ Scan
 [!badge corners="pill" text="Scan"](https://modyolo.com/adobe-scan-pdf-scanner-ocr.html)
++++
 
 
 #### **Juegos**
