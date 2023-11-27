@@ -104,10 +104,16 @@ Aplicación para poder resolver problemas matemáticos de manera simple.
 Otra más para editar videos, vaya que hay apps para elegir.
 
 
+- [Remini:](https://modyolo.com/remini.html)
+Mejora la calidad de tus imagenes con esta gran app.
 
 
+- [Seal Downloader:](https://www.mediafire.com/file/r5rbpjkquo8ymqu/com.junkfood.seal_10914.apk/file)
+Descarga videos de tus aplicaciones favoritas como Instagram, Tiktok, etc.
 
 
+- [VideoShow:](https://modyolo.com/videoshow-pro.html)
+Nuevamente otro editor de videos más.
 
 
 ---
