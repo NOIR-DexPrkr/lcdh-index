@@ -11,7 +11,7 @@ order: 1580
 
 ---
 
-## **Páginas de utilidad**
+### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Páginas de utilidad**
 
 - [Anna's Archive:](https://annas-archive.org/)
 La biblioteca más grande de todo el Internet, busca los libros que necesites **aquí**.
@@ -35,7 +35,7 @@ Resume tus proyectos con esta página, tiene limitaciones.
 
 ---
 
-## **Programas de utilidad**
+### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Programas de utilidad**
 
 
 - [Kiwix - Web reader:](https://www.kiwix.org/en/downloads/windows/)

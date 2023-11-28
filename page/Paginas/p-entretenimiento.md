@@ -10,7 +10,7 @@ order: 1590
 
 ---
 
-### **Paginas multimedia**
+### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Paginas multimedia**
 
 
 - [Peliculas y series](https://noiroom.tech/Paginas/p-streaming#peliculas-y-series)
@@ -25,7 +25,7 @@ order: 1590
 ---
 
 
-### **Paginas de descarga**
+### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Paginas de descarga**
 
 
 - [Descarga música](https://noiroom.tech/Paginas/p-descargas#descarga-musica) 

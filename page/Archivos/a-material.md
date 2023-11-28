@@ -11,9 +11,9 @@ order: 1480
 ---
 
 
-## **Libros**
+### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Libros**
 
-#### Libros de autocuidado integral
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Libros de autocuidado integral
 
 - [El poder del Metabolismo](https://www.mediafire.com/file/d46mktdd2v1dvki/Libros_Metabolismo_para_los_papus.rar/file)
 - [Diabetes sin problema](https://www.mediafire.com/file/d46mktdd2v1dvki/Libros_Metabolismo_para_los_papus.rar/file)
@@ -29,7 +29,7 @@ order: 1480
 - [Cómo formar una relación sana](https://www.mediafire.com/file/cpmfbm0g89sxfjc/Como_forma_una_relaci%25C3%25B3n_sana.pdf/file)
 - [Cuidado de la piel, Skincare](https://drive.google.com/drive/folders/11IbBun1A1XGrHL9DuSKhvO0xC3524Dlg)
 
-#### Libros de biología
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Libros de biología
 
 - [Libros y enciclopedias de botánica](https://www.mediafire.com/file/owwl2zd46zyher4/Bot%25C3%25A1nica_para_los_papus.zip/file)
 - [Libros sobre veterinaria](https://mega.nz/file/N7s2lBxL#1V2NycrB2ex45I-3wogShIpd3SjptrgIHtZeYotI3bM)
@@ -38,21 +38,21 @@ order: 1480
 - [Libros de aves, crias y cuidados](https://drive.google.com/drive/folders/1oMgx5WVn4UNG0tO-kYctJXimnNKJyGHv)
 
 
-#### Libros sobre tecnología
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Libros sobre tecnología
 
 - [10 libros de electrónica](https://www.mediafire.com/file/6jqv5hqdr9ujnvc/Electr%25C3%25B3nica_para_los_papus.zip/file)
 - [Libros de Arduino más de 30](https://www.mediafire.com/file/sep32bs6yr69790/ARDUINO.rar/file)
 
-#### Libros sobre cocina
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Libros sobre cocina
 
 - [Libro de recetas, coctelería, etc](https://cdn.me-qr.com/pdf/13959054.pdf)
 
-#### Libros sobre manualidades
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Libros sobre manualidades
 
 - [Patrones de crochet](https://www.mediafire.com/file/qj495vk26m1li7h/Patrones_de_crochet.rar/file)
 - [Guía para tejer amigurumis](https://www.patronesamigurumi.org/uploads/super-guia-para-tejer-amigurumis.pdf)
 
-#### Libros sobre ciencias y matemáticas
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Libros sobre ciencias y matemáticas
 
 - [Libros acerca de la termodinámica](https://mega.nz/folder/ozkTQICL#BW-zEhCaoN2gJI6g_inevg)
 - [Algebra de Baldor](https://mega.nz/file/9HcwyCiI#FRug4jMt9yWDYhHDuEXo7VuUUhppIaFPWS-yNC48cn0)
@@ -60,23 +60,23 @@ order: 1480
 - [Libros de electrónica](https://mega.nz/folder/SsdSQa5K#0Jgi3F4kIkEWMD5Q1H81Cg)
 - [Geometría analítica](https://drive.google.com/drive/folders/1F684USHV_-I925mzRAjRKHt4-CkLPNuz)
 
-#### Libros sobre programación
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Libros sobre programación
 
 - [El arte de la Intrusión](https://mega.nz/file/AadiXb6Q#HDHVlssG-lc1eyQ_bgo3u8bO3wtk2j0_ay9mSpjm7_E)
 
-#### Libros de idioma
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Libros de idioma
 
 - [Manual básico de inglés](https://drive.google.com/file/d/10pH4TTeGu5szOwQLpDdjQ6b2Kc29-9oB/view?usp=drivesdk)
 - [Teoría musical](https://www.mediafire.com/file/jdh5bdn407b9lpy/teoria_musical.pdf/file)
 
-#### Libros sobre instrumentos musicales
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Libros sobre instrumentos musicales
 
 - [Introducción a la guitarra](https://drive.google.com/drive/folders/1TtMoQiUBGQcSOf86U6nzYhJxm9gkkX8M)
 - [Método Suzuki para violín](https://drive.google.com/file/d/1NEoxwxEIMbHI4O3G3mb-_8bf0waqZo9b/view)
 - [Partituras de piano sobre videojuegos, películas, etc](https://drive.google.com/drive/folders/1CizOSyQQM4-W1aMWv_MvNsVZPQQY1bsM)
 - [Guía para tocar trompeta](https://drive.google.com/file/d/1agpO364xLjrNMNFeRTKjIFh926fcRXal/view)
 
-#### Libros sobre artes visuales
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Libros sobre artes visuales
 
 - [Libros para aprender animación](https://www.mediafire.com/file/78hy317qyse21bb/Libros_de_animacion.zip/file)
 - [Libros de anatomía artística](https://drive.google.com/drive/folders/19sqyXKWqWROzEfMgY60VoKPNiaOwwd-s)
@@ -93,7 +93,7 @@ order: 1480
 - [Libro The Animators Survival Kit](https://drive.google.com/file/d/15RPQQ5GmEmAzRsRdDRKP3KHPGbwKfbxw/view)
 - [Libro cómo dibujar comics al estilo Marvel](https://www.mediafire.com/file/7n8pocvww7u6588/C%25C3%25B3mo_Dibujar_C%25C3%25B3mics_Al_Estilo_Marvel_by_Stan_Lee_y_John_Buscema_PDF.pdf/file)
 
-#### Libros de Minecraft
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Libros de Minecraft
 
 - [Diario de un aldeano hiperpringao](https://www.mediafire.com/file/uz672qzbmryiui6/_Coleccion_Minecraft-20230603T204537Z-001.zip/file)
 - [Diario de un aldeano Megapringao](https://www.mediafire.com/file/uz672qzbmryiui6/_Coleccion_Minecraft-20230603T204537Z-001.zip/file)
@@ -120,7 +120,7 @@ order: 1480
 - [Pequeño diario de un aldeano pringao 1](https://www.mediafire.com/file/uz672qzbmryiui6/_Coleccion_Minecraft-20230603T204537Z-001.zip/file)
 - [Pequeño diario de un aldeano pringao 2](https://www.mediafire.com/file/uz672qzbmryiui6/_Coleccion_Minecraft-20230603T204537Z-001.zip/file)
 
-#### Libros en general
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Libros en general
 
 - [Anatomía de las artes marciales](https://drive.google.com/file/d/1SuADKDl0RamyTHnHvNwFLq0VChw6ZHjt/view?usp=drivesdk)
 - [Libro sobre Tarot](https://drive.google.com/file/d/1-ZSaIvs3mowbyPifsICVz8OoWD5562p8/view)
@@ -134,18 +134,18 @@ order: 1480
 
 ---
 
-## **Packs de libros**
+### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Packs de libros**
 
-#### Packs de ciencias
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Packs de ciencias
 
 - [65 libros de química](https://www.mediafire.com/file/apq2bklf5ndkzmu/Quimica.zip/file)
 - [55 libros de física y matemáticas](https://www.mediafire.com/file/smp8bdhgepkeia9/Fisica_y_Matematicas_para_los_papus.rar/file)
 
-#### Packs de filosofía
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Packs de filosofía
 
 - [320 libros de filosofía](https://www.mediafire.com/file/vxjy36a9kr1x23f/pa_pensar_se%25C3%25B1ores.rar/file)
 
-#### Packs de artes visuales
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Packs de artes visuales
 
 - [+50 libros de DibujArte](https://drive.google.com/drive/folders/1zn2Qy1ozovx3UGKFpp5UOPNJVoSy62GT)
 - [60 libros de diseño gráfico](https://www.mediafire.com/file/pjtt8346szyemy2/Libros_de_Dise%25C3%25B1o.rar/file)
@@ -159,41 +159,41 @@ order: 1480
 - [Libros de arte 2](https://drive.google.com/drive/folders/1LbgqTrOVVnEcIxcTlr8zP7XCNgM2mjy7)
 - [+500 libros de dibujo](https://drive.google.com/drive/folders/15eO2zAEHwlSzc2G26SmcwV7vk_rxjSuY)
 
-#### Packs de idiomas
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Packs de idiomas
 
 - [Pack de libros, ejercicios y apuntes para aprender japonés](https://drive.google.com/drive/folders/1RM9OiQcNI9hEss4mnLwOs_YR1gTpLvo9)
 
-#### Packs sobre medicina
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Packs sobre medicina
 
 - [42GB de libros sobre distintas ramas de la medicina](https://mega.nz/folder/pM0ECBya#QHDylqTn2I8vU1koMqNAJw)
 - [Pack de libros de medicina](https://mega.nz/folder/CmYyXCJZ#hDJiF1dqRRXolrWWcIp-0g)
 - [Pack de más libros de medicina](https://mega.nz/folder/YdMW1TJD#g0K94kpdqX8bbKkq01n44Q)
 
-#### Packs de manualidades
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Packs de manualidades
 
 - [10 libros de confección y 200 manuales de patrones de confección](https://www.mediafire.com/file/yugqu5brp24vo7s/confeccion_de_ropa.rar/file)
 
-#### Packs de diseño
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Packs de diseño
 
 - [10 libros de confección y 200 manuales de patrones de confección](https://www.mediafire.com/file/yugqu5brp24vo7s/confeccion_de_ropa.rar/file)
 - [50 libros de jardinería](https://www.terabox.com/wap/share/filelist?surl=Ujbm9K7y8jS0wBfyYvgEwg)
 - [Libros de diseño y desarrollo de videojuegos](https://mega.nz/folder/n0FV0RzR#8Xff4QkvROz2oDRcg3FkYA)
 
-#### Packs sobre programación
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Packs sobre programación
 
 - [Pack de programación](https://mega.nz/folder/fpVBTYDb#AhWVJ-CFyUA5mFHKIMZJjQ)
 - [Pack de 5TB de programación](https://mega.nz/folder/a94G0RDJ#dh8zj32TNulKlRfvTy7rCg/folder/n4h2HaoL)
 - [Pack de programación, ing. civil, etc. 7TB](https://mega.nz/folder/nigDHAxb#FpbSFyZqPGXudC9Gs72-Nw)
 
-#### Packs sobre historia
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Packs sobre historia
 
 - [La guerra sucia en México](https://drive.google.com/file/d/1jR7QU5lhU26HZO3SzyPLZGpGmwHLxQ6A/view)
 
-#### Packs de cocina
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Packs de cocina
 
 
 
-### Packs en general
+### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Packs en general
 
 - [+50 libros sobre ajedrez](https://drive.google.com/drive/u/0/folders/1Mtt9-w8_VTiu4di3zNmr30RRMYVTVh1o)
 - [Más libros sobre ajedrez](https://onedrive.live.com/?authkey=V%2AQBwpmp2BU%24&id=8D12F616C7A05752%21456&cid=8D12F616C7A05752)
@@ -201,9 +201,9 @@ order: 1480
 
 ---
 
-## Cursos
+### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Cursos
 
-##### Cursos sobre idiomas
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Cursos sobre idiomas
 
 - [Cursos 20 idiomas](https://drive.google.com/drive/folders/1zLbyCO3fPOpveSNcPN_roVoHUnwqzJPU)
 - [Curso para aprender alemán](https://mega.nz/folder/RuIXVAaZ#5vF1324PiMdyE6IEu4cMXQ)
@@ -213,24 +213,24 @@ order: 1480
 - [Canal de Youtube sobre lenguaje de señas americano](https://www.youtube.com/@sign-language)
 - [Curso de idiomas variados](https://mega.nz/folder/XLJViQ5D#Om38XZy4dUPttpENMVzYcA)
 
-##### Cursos sobre instrumentos musicales
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Cursos sobre instrumentos musicales
 
 - [Cursos de guitarra](https://drive.google.com/drive/folders/17YjIviXlk_n7Vf_c0BWHJfX8aevpUD7o)
 - [Cursos de piano](https://drive.google.com/drive/folders/1mot1BbIuN3rI4oLBjjKOFRNm8JIblzFY)
 - [Cursos, diagramas, etc, sobre violín](https://drive.google.com/drive/folders/19XY828zjz2n9fAsgr-TM4IMnq1chJi56)
 - [Cursos sobre distintos instrumentos](https://drive.google.com/drive/folders/1eqy_1qprcSmninZwjPKoTtNTJ3hsIbPY)
 
-##### Cursos sobre coctelería
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Cursos sobre coctelería
 
 - [Curso de coctelería](https://mega.nz/file/N8En1Qja#uqCGcBNRZXK_26RAteA2pCzHOCDipVgkNd4M8O7lofI)
 
-##### Cursos sobre programación
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Cursos sobre programación
 
 - [800GB de cursos de programación](https://mega.nz/folder/fpVBTYDb#AhWVJ-CFyUA5mFHKIMZJjQ)
 
 - [Curso de hacking, y Linux](https://mega.nz/file/EG0DkaaC#jIVmt7Wx9Iw3n7_PZVFAvCDBoxWttqIRmvDr39y8wVg)
 
-##### Cursos sobre programas y apps
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Cursos sobre programas y apps
 
 - [Cursos sobre excel](https://drive.google.com/drive/folders/1I5qw9817Fv9tmJmLcJR8NkZ-ooHkO6Q2)
 - [Cursos sobre excel 2](https://drive.google.com/drive/folders/13bXAqmSBlQv0ZJzOoiBlk4oKuHJXt5Bb?sort=13&direction=a)
@@ -239,12 +239,12 @@ order: 1480
 - [Curso para Illustrator](https://drive.google.com/drive/folders/1yLwhYoDzsQ51hnehB2O0qZ-UocNv6Lrq)
 - [Curso de excel completo](https://www.mediafire.com/file/6wjp4l9itnby8qp/excel_para_los_papus.rar/file)
 
-##### Cursos de artes visuales
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Cursos de artes visuales
 
 - [Cursos de dibujo](https://drive.google.com/drive/folders/12hHAYRYangVF5pVrVfrJi3C-R_SYFsfz)
 - [Curso de dibujo realista](https://drive.google.com/drive/folders/1ev6QTNrT3Zu0sn2o_OMaTPowZEQoVqZn?usp=sharing)
 
-##### Cursos de diseño
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Cursos de diseño
 
 - [Curso de jardinería](https://www.mediafire.com/file/0kjebuh0lqpvrdu/xmaster_class_hotmar_jardineria.rar/file)
 - [Cursos para hacer luz digital](https://drive.google.com/drive/folders/1AOUh8D5VtxwNJPmDuYwthUyKHhIazvnR)
@@ -253,7 +253,7 @@ order: 1480
 - [Curso para hacer muebles de cemento](https://drive.google.com/file/d/1bFs7Ecl4P5wZZDU_jh5DWbqBWPqE1TF4/view)
 - [Curso de Textile Toys de Domestika](https://drive.google.com/file/d/1DePHFMWteP78jzyWqe-UhTjuf_0TD0Um/view?usp=share_link)
 
-##### Cursos en general
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Cursos en general
 
 - [1TB de cursos variados, entre ellos marketing](https://mega.nz/folder/tYo0CDSY#XdLaNiCJJf-5RJdYdXK4dA)
 - [+30 cursos variados, entre ellos reparaciones de objetos](https://drive.google.com/drive/folders/18QZrrR2UHuLuR6hen4IslwYMxPqlqESc)
@@ -266,13 +266,13 @@ order: 1480
 
 ---
 
-## Otros
+### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Otros
 
-##### Packs de imprimibles
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Packs de imprimibles
 
 - [Pack de Papercraft](https://drive.google.com/drive/folders/1nLVH0iaZXIvTGcbyTS3VsgHnJIJwgLGD)
 
-##### Diseño
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Diseño
 
 - [Pinceles para Ibis Paint X](https://pin.it/4pszlyF)
 - [Pinceles y texturas para Paint Tool Sai](https://es.brusheezy.com/libre/paint-tool-sai)

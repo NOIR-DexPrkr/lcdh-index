@@ -11,7 +11,7 @@ order: 1570
 
 ---
 
-### **Inteligencia Artificial**
+### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Inteligencia Artificial**
 
 
 - [IA de generación de texto](https://noiroom.tech/I-Artificial/ai-text)
@@ -35,7 +35,7 @@ Te permite convertir voces en otros personajes o celebridades, entre otras opcio
 Te permite ponerte metas y cumplirlas gracias a una IA.
 
 
-### **Paginas**
+### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Paginas**
 
 
 - [Nitter:](https://nitter.1d4.us/)
@@ -70,7 +70,7 @@ La mítica página para poder ver el pasado mientras tengas el link del lugar.
 Con está página podrás ver contenido de Patreon u otras páginas de tus artistas favoritos.
 
 
-### **Bots de Telegram**
+### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Bots de Telegram**
 
 
 - [AlertBot:](https://t.me/AlertBot)
@@ -101,7 +101,7 @@ Te permite ver artículos de Wikipedia en el chat que quieras.
 Te permite descargar videos de YouTube en distintos formatos.
 
 
-### **Extensión de navegador**
+### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Extensión de navegador**
 
 
 - [AdFly Skipper:](https://chromewebstore.google.com/detail/adfly-skipper/obnfifcganohemahpomajbhocfkdgmjb?pli=1)

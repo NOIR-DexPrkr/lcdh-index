@@ -18,7 +18,7 @@ order: 1897
 
 ---
 
-### **Juegos**
+### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Juegos**
 
 - [Minecraft Java & Bedrock:](https://noiroom.tech/Tutoriales/minecraft)
 Obten la versión que quieras totalmente actualizable.
@@ -30,7 +30,7 @@ Juega al clasico PvZ2 para android en PC. No es estable.
 
 ---
 
-### **Emuladores**
+### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Emuladores**
 
 - *En construcción... ![](https://images-ext-1.discordapp.net/external/4YQiWQevguiDbfOGmq5orfGp-lMulNDAHYaXL-aHh5M/https/i.imgur.com/tFp98Tp.png?width=31&height=31)*
 
