@@ -20,9 +20,9 @@ order: 1787
 
 ---
 
-### Sitios para buscar APKs
+### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Sitios para buscar APKs
 
-#### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) APKs limpias
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) APKs limpias
 
 
 - [APK Mirror:](https://www.apkmirror.com/) 
@@ -33,7 +33,7 @@ Encuentra betas y versiones pasadas de aplicaciones y juegos.
 Encuentra betas y versiones pasadas de aplicaciones y juegos. **Algunas apps de paga se pueden encontrar aquí.**
 
 
-#### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) APKs Modificadas
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) APKs Modificadas
 
 
 - [RockMods:](https://www.rockmods.net/)
@@ -54,7 +54,7 @@ Tienda de aplicaciones y juegos modificados. Tiene su propia app.
 
 ---
 
-### Aplicaciones
+### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Aplicaciones
 
 - [Alarmy:](https://drive.google.com/file/d/1AkO5XdAUZaICNDdJG-ybEwzQlCSEd_Il/view?usp=drivesdk)
 Si tienes problemas para despertar, usa esta aplicación.
@@ -118,10 +118,10 @@ Nuevamente otro editor de videos más.
 
 ---
 
-### Colecciones
+### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Colecciones
 
 
-#### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Aplicaciones**
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) **Aplicaciones**
 
 
 - **Alternativas Youtube:**
@@ -199,7 +199,7 @@ Podrás encontrar apps como Deezer, BlackHole, Musify, etc.
 Aplicacion con recopilacion de varias paginas de ver peliculas, todas en un solo lugar.
 
 
-#### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Juegos**
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) **Juegos**
 
 
 - [Todos los juegos FNAF](https://drive.google.com/file/d/13ZNJB38Ju9PgS5AKIgz87nJQwhFKOy9O/view)
