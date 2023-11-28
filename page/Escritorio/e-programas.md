@@ -49,7 +49,9 @@ Cliente de Spotify que descarga musica desde youtube con metadatos de Spotify.
 - [Spotify Premium:](https://noiroom.tech/Tutoriales/spotify-premium)
 Cliente oficial de Spotify con las funciones premium activadas con un script. 
 
-`Spotify no permite descargar musica.`
+!!!danger
+Spotify no permite descargar musica.
+!!!
 
 
 - [Coleccion de reproductores de musica:](https://noiroom.tech/Escritorio/e-musica)
