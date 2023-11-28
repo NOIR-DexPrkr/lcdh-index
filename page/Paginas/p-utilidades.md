@@ -35,7 +35,7 @@ Te permite convertir voces en otros personajes o celebridades, entre otras opcio
 Te permite ponerte metas y cumplirlas gracias a una IA.
 
 
-### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Paginas**
+### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Páginas**
 
 
 - [Nitter:](https://nitter.1d4.us/)

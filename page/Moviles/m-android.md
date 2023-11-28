@@ -211,10 +211,10 @@ Aplicacion con recopilacion de varias paginas de ver peliculas, todas en un solo
 - [Colección de Metal Slug](https://www.mediafire.com/file/z6hcwdwnq1ymsjd/Metal+Pack_4.1_Apkpure.apk/file)
 
 
-- [Coleccion de Papa Louie](https://www.mediafire.com/file/o3xflyd4jmsrzmu/Papa+Louie+To+Go.zip)
+- [Colección de Papa Louie](https://www.mediafire.com/file/o3xflyd4jmsrzmu/Papa+Louie+To+Go.zip)
 
 
-- [Coleccion de Sonic - DS](https://drive.google.com/file/d/1ekz-JUH1pr0jL19i_yrCoTxAYkfM3ZDQ/view)
+- [Colección de Sonic - DS](https://drive.google.com/file/d/1ekz-JUH1pr0jL19i_yrCoTxAYkfM3ZDQ/view)
 
 
 - [Colección de GTA](https://noiroom.tech/Escritorio/e-juegos#coleccion-gta)
