@@ -51,7 +51,7 @@ Con tan solo abrir la cámara, y apuntar el código QR, puedes escanearlo e ir a
 
 +++ :icon-device-mobile: Opción 3
 
-Usa una aplicación externa para escanear QRs, aquí te dejo para Android e iOS.
+Usa una aplicación externa para escanear QRs, aquí te la dejo para Android e iOS.
 
 [!button corners="pill" icon="issue-closed" size="s" variant="dark" text="Android"](https://play.google.com/store/apps/details?id=com.gamma.scan) [!button corners="pill" icon="issue-closed" size="s" variant="dark" text="iOS"](https://apps.apple.com/cl/app/lector-códigos-qr-y-barras/id1159068566)
 
