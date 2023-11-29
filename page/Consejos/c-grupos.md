@@ -29,15 +29,7 @@ Te recordamos que en caso de no estar en nuestros grupos en las distintas plataf
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Escanear QRs
 
 
-+++ Escanear opción 1
-
-
-Apple integró su propio lector QR en iPhone desde iOS 11 (2017), y Google introdujo su lector QR en Android para todos los smartphone compatibles en Android 9 (2018).
-
-Con tan solo abrir la cámara, y apuntar el código QR, puedes escanearlo e ir al enlace.
-
-
-+++ Escanear opción 2
++++ :icon-devices: Escanear opción 1
 
 En caso de que tu cámara no tenga la opción, o quieras escanear una imagen descargada, usa **Google Lens** o **Google**.
 
@@ -48,9 +40,20 @@ En caso de que tu cámara no tenga la opción, o quieras escanear una imagen des
 
 2- En **Lens** solo escanea, o selecciona la imagen. En **Google** selecciona la opción ![](https://i.postimg.cc/Bb9RKHJB/Proyecto-nuevo-7.png) y escanea, o selecciona la imagen.
 
-+++ Escanear opción 3
 
-sas
++++ :icon-device-mobile: Escanear opción 2
+
+
+Apple integró su propio lector QR en iPhone desde iOS 11 (2017), y Google introdujo su lector QR en Android para todos los smartphone compatibles en Android 9 (2018).
+
+Con tan solo abrir la cámara, y apuntar el código QR, puedes escanearlo e ir al enlace.
+
+
++++ :icon-device-mobile: Escanear opción 3
+
+Usa una aplicación externa para escanear QRs, aquí te dejo para Android e iOS.
+
+[!button corners="pill" icon="issue-closed" size="s" variant="dark" text="Android"](https://play.google.com/store/apps/details?id=com.gamma.scan) [!button corners="pill" icon="issue-closed" size="s" variant="dark" text="iOS"](https://apps.apple.com/cl/app/lector-códigos-qr-y-barras/id1159068566)
 
 +++
 
