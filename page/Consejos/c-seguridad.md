@@ -33,7 +33,7 @@ Cuenta con un **límite de 650mb** en caso de querer analizar un archivo. **El m
 
 Este es un servicio gratuito de análisis de malware en línea, y sirve para analizar muestras sospechosas con Falcon Sandbox, que se especializa en ejecutar malwares evasivos y avanzados.
 
-Cuenta con un **límite de 100mb** en caso de querer analizar un archivo. **Muestra también resultados de páginas como VirusTotal o MetaDefender.**
+Cuenta con un **límite de 100mb** en caso de querer analizar un archivo. **Muestra también resultados de páginas como [VirusTotal](https://lcdh.tech/consejos/c-seguridad/#virustotal) o [MetaDefender](https://lcdh.tech/consejos/c-seguridad/#metadefender).**
 
 [!button icon="shield-check" variant="success" text="Ir a la web"](https://www.hybrid-analysis.com/)
 
@@ -53,6 +53,7 @@ Cuenta con un **límite de 140mb** en caso de querer analizar un archivo.
 
 Hay otras páginas que cumplen la misma función, las cuales te pueden servir en caso de querer asegurarte sobre la fiabilidad de un archivo, url, etc. Ten en cuenta que estas páginas **necesitan que crees una cuenta, y también podrían necesitar pagos adicionales**, por eso se recomiendan las páginas anteriormente mencionadas. Aquí hay algunas otras páginas: **Polyswarm, Joe Sandbox, ANY.RUN, URLscan.io**.
 
+También puedes usar **antivirus** para analizar archivos, es una opción bastante recomendada, en especial cuando son **archivos grandes**. Puedes usar tu antivirus de confianza.
 
 
 ---
