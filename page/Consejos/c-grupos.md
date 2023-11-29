@@ -15,7 +15,7 @@ Presentamos esta sección del Index para explicar y dar a conocer determinados p
 Te recordamos que en caso de no estar en nuestros grupos en las distintas plataformas, puedes hacerlo en cualquier momento.
 
 
-[!button corners="pill" icon="person" variant="dark" text="Facebook"](https://www.facebook.com/groups/losconsejosdehomero/?ref=share) [!button corners="pill" icon="rocket" variant="dark" text="Discord"](https://discord.gg/RaJEJPQYPb) [!button corners="pill" icon="paper-airplane" variant="dark" text="Telegram"](https://t.me/LosConsejosDeHomeroGroup)
+[!button corners="pill" icon="person" size="s" variant="dark" text="Facebook"](https://www.facebook.com/groups/losconsejosdehomero/?ref=share) [!button corners="pill" size="s" icon="rocket" variant="dark" text="Discord"](https://discord.gg/RaJEJPQYPb) [!button corners="pill" size="s" icon="paper-airplane" variant="dark" text="Telegram"](https://t.me/LosConsejosDeHomeroGroup)
 
 
 ---
