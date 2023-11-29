@@ -17,7 +17,7 @@ links:
     link: https://www.facebook.com/groups/losconsejosdehomero/?ref=share
     target: blank
   - text: Discord
-    icon: feed-rocket
+    icon: rocket
     link: https://discord.gg/RaJEJPQYPb
     target: blank
   - text: Telegram
@@ -43,7 +43,7 @@ footer:
       link: https://www.facebook.com/groups/losconsejosdehomero/?ref=share
       target: blank
     - text: Discord
-      icon: feed-rocket
+      icon: rocket
       link: https://discord.gg/RaJEJPQYPb
       target: blank
     - text: Telegram
