@@ -15,7 +15,7 @@ Presentamos esta sección del Index para explicar y dar a conocer determinados p
 Te recordamos que en caso de no estar en nuestros grupos en las distintas plataformas, puedes hacerlo en cualquier momento.
 
 
-[!button corners="pill" icon="person" size="s" variant="dark" text="Facebook"](https://www.facebook.com/groups/losconsejosdehomero/?ref=share) [!button corners="pill" size="s" icon="rocket" variant="dark" text="Discord"](https://discord.gg/RaJEJPQYPb) [!button corners="pill" size="s" icon="paper-airplane" variant="dark" text="Telegram"](https://t.me/LosConsejosDeHomeroGroup)
+[!button corners="pill" icon="person" size="s" variant="info" text="Facebook"](https://www.facebook.com/groups/losconsejosdehomero/?ref=share) [!button corners="pill" size="s" icon="rocket" variant="info" text="Discord"](https://discord.gg/RaJEJPQYPb) [!button corners="pill" size="s" icon="paper-airplane" variant="info" text="Telegram"](https://t.me/LosConsejosDeHomeroGroup)
 
 
 ---
@@ -35,7 +35,7 @@ En caso de que tu cámara no tenga la opción predeterminada para escanear, o qu
 
 1- Descarga las aplicaciones, puedes hacerlo aquí.
 
-[!button corners="pill" icon="issue-closed" size="s" variant="dark" text="Lens en Android"](https://play.google.com/store/apps/details?id=com.google.ar.lens) [!button corners="pill" icon="issue-closed" size="s" variant="dark" text="Google en iOS"](https://apps.apple.com/cl/app/google/id284815942)
+[!button corners="pill" icon="issue-closed" size="s" variant="info" text="Lens en Android"](https://play.google.com/store/apps/details?id=com.google.ar.lens) [!button corners="pill" icon="issue-closed" size="s" variant="info" text="Google en iOS"](https://apps.apple.com/cl/app/google/id284815942)
 
 
 2- En **Lens** solo escanea, o selecciona la imagen. En **Google** selecciona la opción ![](https://i.postimg.cc/Bb9RKHJB/Proyecto-nuevo-7.png) y escanea, o selecciona la imagen.
@@ -53,7 +53,7 @@ Con tan solo abrir la cámara, y apuntar el código QR, puedes escanearlo e ir a
 
 Usa una aplicación externa para escanear QRs, aquí te la dejo para Android e iOS.
 
-[!button corners="pill" icon="issue-closed" size="s" variant="dark" text="Android"](https://play.google.com/store/apps/details?id=com.gamma.scan) [!button corners="pill" icon="issue-closed" size="s" variant="dark" text="iOS"](https://apps.apple.com/cl/app/lector-códigos-qr-y-barras/id1159068566)
+[!button corners="pill" icon="issue-closed" size="s" variant="info" text="Android"](https://play.google.com/store/apps/details?id=com.gamma.scan) [!button corners="pill" icon="issue-closed" size="s" variant="info" text="iOS"](https://apps.apple.com/cl/app/lector-códigos-qr-y-barras/id1159068566)
 
 +++
 
@@ -65,7 +65,7 @@ Hay muchas opciones para crear QRs, incluso algunos navegadores, páginas, entre
 
 Dentro del grupo tenemos una página/app en específico la cual entrega muchas opciones de personalización, además de otras útiles. Se llama **ME-QR**, y aquí te la dejo, junto a sus respectivas apps.
 
-[!button corners="pill" icon="issue-closed" size="s" variant="dark" text="Página"](https://me-qr.com/es) [!button corners="pill" icon="issue-closed" size="s" variant="dark" text="Android"](https://play.google.com/store/apps/details?id=com.meqr) [!button corners="pill" icon="issue-closed" size="s" variant="dark" text="iOS"](https://apps.apple.com/cl/app/me-qr-generator/id1601025694)
+[!button corners="pill" icon="issue-closed" size="s" variant="info" text="Página"](https://me-qr.com/es) [!button corners="pill" icon="issue-closed" size="s" variant="info" text="Android"](https://play.google.com/store/apps/details?id=com.meqr) [!button corners="pill" icon="issue-closed" size="s" variant="info" text="iOS"](https://apps.apple.com/cl/app/me-qr-generator/id1601025694)
 
 
 ---
@@ -75,7 +75,7 @@ Dentro del grupo tenemos una página/app en específico la cual entrega muchas o
 
 En caso de que quieras publicar en los distintos grupos de Los consejos de Homero, necesitarás usar una de las marcas de agua para tus publicaciones. Las marcas de agua seguirán aumentando constantemente, para añadir más variedad. ![](https://images-ext-1.discordapp.net/external/4YQiWQevguiDbfOGmq5orfGp-lMulNDAHYaXL-aHh5M/https/i.imgur.com/tFp98Tp.png?width=31&height=31)
 
-[!button corners="pill" size="m" variant="success" icon="cloud" text="Descarga aquí"](http://www.mediafire.com/file/i6mo1hdycpot9yq/Marcas_de_agua_LCDH.rar)
+[!button corners="pill" size="m" variant="info" icon="cloud" text="Descarga aquí"](http://www.mediafire.com/file/i6mo1hdycpot9yq/Marcas_de_agua_LCDH.rar)
 
 
 ---
