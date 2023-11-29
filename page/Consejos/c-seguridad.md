@@ -53,7 +53,7 @@ Cuenta con un **límite de 140mb** en caso de querer analizar un archivo.
 
 Hay otras páginas que cumplen la misma función, las cuales te pueden servir en caso de querer asegurarte sobre la fiabilidad de un archivo, url, etc. Ten en cuenta que estas páginas **necesitan que crees una cuenta, y también podrían necesitar pagos adicionales**, por eso se recomiendan las páginas anteriormente mencionadas. Aquí hay algunas otras páginas: **Polyswarm, Joe Sandbox, ANY.RUN, URLscan.io**.
 
-También puedes usar **antivirus** para analizar archivos, es una opción bastante recomendada, en especial cuando son **archivos grandes**. Puedes usar tu antivirus de confianza.
+También puedes usar **antivirus** para analizar archivos, es una opción bastante recomendada, en especial cuando son **archivos grandes**. Puedes usar tu antivirus de confianza, pero recuerda no ejecutar ni abrir ningún archivo extraño antes de analizarlo.
 
 
 ---
