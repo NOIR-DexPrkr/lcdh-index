@@ -57,6 +57,17 @@ Usa una aplicación externa para escanear QRs, aquí te la dejo para Android e i
 
 +++
 
+
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Crear QRs
+
+
+Hay muchas opciones para crear QRs, incluso algunos navegadores, páginas, entre otros incluyen esta opción.
+
+Dentro del grupo tenemos una página/app en específico la cual entrega muchas opciones de personalización, además de otras útiles. Aquí te la dejo, junto a sus respectivas apps.
+
+[!button corners="pill" icon="issue-closed" size="s" variant="dark" text="Página"](https://me-qr.com/es) [!button corners="pill" icon="issue-closed" size="s" variant="dark" text="Android"](https://play.google.com/store/apps/details?id=com.meqr) [!button corners="pill" icon="issue-closed" size="s" variant="dark" text="iOS"](https://apps.apple.com/cl/app/me-qr-generator/id1601025694)
+
+
 ---
 
 ### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Grupo de Facebook
