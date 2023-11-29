@@ -1,5 +1,5 @@
 ---
-label: Educacion
+label: Educación
 icon: mortar-board
 layout: default
 order: 1580
