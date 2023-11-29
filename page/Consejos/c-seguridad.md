@@ -57,3 +57,31 @@ También puedes usar **antivirus** para analizar archivos, es una opción bastan
 
 
 ---
+
+
+### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Navegar seguro
+
+¿Te interesa navegar de manera segura en el Internet, y bloquear cualquier tipo de descarga sin autorización, páginas peligrosas, entre otro?
+
+Aquí te dejo el enlace a una **guía básica** sobre navegadores, extensiones, etc.
+
+[!button icon="shield-check" variant="success" text="Navega seguro"](https://noiroom.tech/Tutoriales/navega-seguro)
+
+
+---
+
+
+### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Adguard DNS
+
+
+Un tutorial para poder bloquear anuncios en el dispositivo que quieras, incluso consolas y Smart TV.
+
+Sirve en la mayoría de dispositivos actuales, pruébalo.
+
+[!button icon="shield-check" variant="success" text="Navega seguro"](https://noiroom.tech/Tutoriales/Adguard)
+
+
+---
+
+
+
