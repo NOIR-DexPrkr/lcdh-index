@@ -23,10 +23,11 @@ Encuentra de todo seleccionando los diferentes menús a la izquierda o usando la
 
 [Dex Parker:](https://rentry.co/links-noir-room) Creador del Index
 
-[Pipe:](https://rentry.co/8xrygz) Editor y colaborador del Index
+[Pipe:](https://rentry.co/8xrygz) Co-creador y encargado del Index
 !!!
 
 ---
 
 > El sitio esta en construccion constante, por lo tanto seguiran llegando mas aportes.
+
 > **Si necesitas algo mas y no esta aqui, visitanos en el Discord.**

@@ -2,7 +2,7 @@
 label: Seguridad
 icon: shield-check
 layout: default
-order: 1990
+order: 1980
 ---
 
 # ![](https://i.postimg.cc/Y9L645VW/banner-items-lcdh.png)
