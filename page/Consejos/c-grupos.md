@@ -70,16 +70,6 @@ Dentro del grupo tenemos una página/app en específico la cual entrega muchas o
 
 ---
 
-#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Marcas de agua
-
-
-En caso de que quieras publicar en los distintos grupos de Los consejos de Homero, necesitarás usar una de las marcas de agua para tus publicaciones. Las marcas de agua seguirán aumentando constantemente, para añadir más variedad. ![](https://images-ext-1.discordapp.net/external/4YQiWQevguiDbfOGmq5orfGp-lMulNDAHYaXL-aHh5M/https/i.imgur.com/tFp98Tp.png?width=31&height=31)
-
-[!button corners="pill" size="m" variant="dark" icon="cloud" text="Descarga aquí"](https://www.mediafire.com/file/i6mo1hdycpot9yq/Marcas_de_agua_LCDH.rar)
-
-
----
-
 ### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Grupo de Facebook
 
 
@@ -94,4 +84,13 @@ Ahora te vamos a compartir plantillas para que hagas tus propias imágenes. Recu
 
 
 [!button corners="pill" size="m" variant="dark" icon="file-media" text="Plantillas para post"](https://www.canva.com/design/DAFmZx30iyU/OZucniH8GidVKTUG-zr4-A/view?utm_content=DAFmZx30iyU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview#1)   [!button corners="pill" size="m" variant="dark" icon="file-media" text="Personajes para post"](https://drive.google.com/file/d/1ZdM-k-8SOfuU0YbsVortYoB5Fvkb9USP/view)
+
+
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Marcas de agua
+
+
+Al igual que la temática, necesitarás usar una de las marcas de agua para tus publicaciones. Las marcas de agua seguirán aumentando constantemente, para añadir más variedad. ![](https://images-ext-1.discordapp.net/external/4YQiWQevguiDbfOGmq5orfGp-lMulNDAHYaXL-aHh5M/https/i.imgur.com/tFp98Tp.png?width=31&height=31)
+
+[!button corners="pill" size="m" variant="dark" icon="cloud" text="Descarga aquí"](https://www.mediafire.com/file/i6mo1hdycpot9yq/Marcas_de_agua_LCDH.rar)
+
 
