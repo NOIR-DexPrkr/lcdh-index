@@ -102,3 +102,16 @@ Cualquier tipo de enlace está prohibido en el grupo, por lo que deberás usar s
 En la sección de [creación de QRs](https://lcdh.tech/consejos/c-grupos/#crear-qrs) puedes aprender a hacerlo, en caso de que no sepas.
 
 ![](https://i.postimg.cc/cHQd3PXb/Proyecto-nuevo-12.png)
+
+
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Aportes
+
+
+Cuando vayas a crear un aporte, debes asegurarte de que esté **libre de virus**, o **sin ningún acortador monetario**. En caso de que tenga algo de estos, serás baneado o suspendido.
+
+En caso de que quieras escanear algún aporte, también debes tener cuidado con lo que descargas, y analizarlo antes.
+
+Aquí te dejo una sección entera dedicada a la seguridad, para que puedas asegurar todas tus descargas o aportes. ![](https://images-ext-1.discordapp.net/external/4YQiWQevguiDbfOGmq5orfGp-lMulNDAHYaXL-aHh5M/https/i.imgur.com/tFp98Tp.png?width=31&height=31)
+
+
+[!button corners="pill" size="m" variant="dark" icon="shield-check" text="Seguridad"](https://lcdh.tech/consejos/c-seguridad/)
