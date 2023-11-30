@@ -124,7 +124,7 @@ Nuevamente otro editor de videos más.
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) **Aplicaciones**
 
 
-##### **Alternativas Youtube:**
+##### Alternativas Youtube:
 
 
 ==- Youtube Vanced
@@ -147,7 +147,7 @@ Incluye bloqueador de anuncios.
 ==-
 
 
-##### **Adobe:**
+##### Adobe:
 
 ==- Photoshop Express
 Edición de fotos sencilla y divertida al alcance de todos.
@@ -173,7 +173,7 @@ Escanea cualquier cosa en un abrir y cerrar de ojos.
 ==-
 
 
-##### **Escuchar música:**
+##### Escuchar música:
 
 ==- Spotify Premium
 Incluye streaming, pero NO SE PUEDE DESCARGAR MÚSICA.
