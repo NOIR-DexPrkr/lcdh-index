@@ -29,7 +29,7 @@ Te recordamos que en caso de no estar en nuestros grupos en las distintas plataf
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Escanear QRs
 
 
-+++ :icon-devices: Opción 1
++++ :icon-devices: Google Lens
 
 En caso de que tu cámara no tenga la opción predeterminada para escanear, o quieras escanear una imagen descargada, usa **Google Lens** o **Google**.
 
@@ -41,7 +41,7 @@ En caso de que tu cámara no tenga la opción predeterminada para escanear, o qu
 2- En **Lens** solo escanea, o selecciona la imagen. En **Google** selecciona la opción ![](https://i.postimg.cc/Bb9RKHJB/Proyecto-nuevo-7.png) y escanea, o selecciona la imagen.
 
 
-+++ :icon-device-mobile: Opción 2
++++ :icon-device-mobile: InCamera
 
 
 Apple integró su propio lector QR en iPhone desde iOS 11 (2017), y Google introdujo su lector QR en Android para todos los smartphone compatibles en Android 9 (2018).
@@ -49,7 +49,7 @@ Apple integró su propio lector QR en iPhone desde iOS 11 (2017), y Google intro
 Con tan solo abrir la cámara, y apuntar el código QR, puedes escanearlo e ir al enlace.
 
 
-+++ :icon-device-mobile: Opción 3
++++ :icon-device-mobile: App 3ras
 
 Usa una aplicación externa para escanear QRs, aquí te la dejo para Android e iOS.
 
@@ -94,3 +94,11 @@ Al igual que la temática, necesitarás usar una de las marcas de agua para tus 
 [!button corners="pill" size="m" variant="dark" icon="cloud" text="Descarga aquí"](https://www.mediafire.com/file/i6mo1hdycpot9yq/Marcas_de_agua_LCDH.rar)
 
 
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Enlaces
+
+
+Cualquier tipo de enlace está prohibido en el grupo, por lo que deberás usar solamente QR en caso de querer pedir, aportar, etc.
+
+En la sección de [creación de QRs](https://lcdh.tech/consejos/c-grupos/#crear-qrs) puedes aprender a hacerlo, en caso de que no sepas.
+
+![](https://i.postimg.cc/MTXyKb5H/Proyecto-nuevo-11.png)
