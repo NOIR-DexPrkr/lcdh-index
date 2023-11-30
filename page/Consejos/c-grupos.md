@@ -86,7 +86,7 @@ En caso de que quieras publicar en los distintos grupos de Los consejos de Homer
 Aquí te explicaremos lo necesario para que tu estancia en el grupo de Facebook de LCDH sea la mejor, tanto como para aportar, pedir, o como quieras tú.
 
 
-#### Plantillas para publicaciones
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Plantillas para publicaciones
 
 Si quieres pedir, o aportar, será necesario **por obligación** hacer una imagen con la temática del grupo.
 
