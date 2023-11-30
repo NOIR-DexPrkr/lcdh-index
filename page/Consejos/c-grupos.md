@@ -101,4 +101,4 @@ Cualquier tipo de enlace está prohibido en el grupo, por lo que deberás usar s
 
 En la sección de [creación de QRs](https://lcdh.tech/consejos/c-grupos/#crear-qrs) puedes aprender a hacerlo, en caso de que no sepas.
 
-![](https://i.postimg.cc/MTXyKb5H/Proyecto-nuevo-11.png)
+![](https://i.postimg.cc/cHQd3PXb/Proyecto-nuevo-12.png)
