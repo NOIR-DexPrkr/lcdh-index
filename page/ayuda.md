@@ -18,7 +18,7 @@ Con ayuda de un profesional en el tema, Los consejos de Homero & Noir Room logra
 
 Te presentamos a Adriana Mendoza, la persona encargada de ayudarte.
 
-=== **Donde encontrarla?**
+=== **¿Dónde encontrarla?**
 
 - [!badge variant="contrast" icon="diff-modified" text="Instagram"](https://www.instagram.com/licadrianamendoza/)
 
@@ -33,7 +33,7 @@ Te presentamos a Adriana Mendoza, la persona encargada de ayudarte.
 ## ¿Cómo consigo ayuda?
 
 Para poder pedir tu sesion necesitas entrar a nuestro discord donde podras encontrar un canal con todos los pasos necesarios.
-*Tambien se agradece si sigues a nuestra psicologa en su [instagram](https://www.instagram.com/licadrianamendoza/) para que tu tambien la ayudes a crecer.*
+*Tambien se agradece si sigues a nuestra psicóloga en su [instagram](https://www.instagram.com/licadrianamendoza/) para que tu tambien la ayudes a crecer.*
 
 [![Unete a LCDH!](https://discordapp.com/api/guilds/1086740948744159334/embed.png?style=banner2)](https://discord.gg/RaJEJPQYPb)
 
