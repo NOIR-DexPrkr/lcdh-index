@@ -17,8 +17,10 @@ TCC 👩🏽‍⚕️🧠
 ## ¿Cómo consigo mi sesión gratis?
 
 Para poder pedir tu sesion de consejeria necesitas entrar a nuestro discord donde podras encontrar un canal con todos los pasos necesarios.     
-*Puesto que esto es gratis, se agradece si sigues a nuestra psicóloga en su [instagram](https://www.instagram.com/licadrianamendoza/) para que tu tambien la ayudes a crecer. Es lo unico que se pedira a cambio.    
-Incluso si no buscas ayuda, pero lees esto, tu follow ayudará a otros a recibir su cita gratis. 🤍*
+
+> *Puesto que esto es gratis, se agradece si sigues a nuestra psicóloga en su [instagram](https://www.instagram.com/licadrianamendoza/) para que tu tambien la ayudes a crecer. Es lo unico que se pedira a cambio.    
+> Incluso si no buscas ayuda, pero lees esto, tu follow ayudará a otros a recibir su cita gratis. 🤍*
+  
 Al final de esta pagina encontraras el link directo al discord donde hay informacion mas detallada para la cita, horarios, etc.
 
 ## Conoce tu Psicologa
