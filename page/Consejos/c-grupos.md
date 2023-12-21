@@ -107,7 +107,7 @@ En la sección de [creación de QRs](https://lcdh.tech/consejos/c-grupos/#crear-
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Aportes
 
 
-Cuando vayas a crear un aporte, debes asegurarte de que esté **libre de virus**, o **sin ningún acortador monetario**. En caso de que tenga algo de estos, serás baneado o suspendido.
+Cuando vayas a crear un aporte, debes asegurarte de que esté **libre de virus**, y **sin ningún acortador monetario**. En caso de que contenga alguno de estos, serás baneado o suspendido.
 
 En caso de que quieras escanear algún aporte, también debes tener cuidado con lo que descargas, y analizarlo antes.
 
