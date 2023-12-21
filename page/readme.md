@@ -14,6 +14,10 @@ Aquí podrás encontrar gran variedad de archivos, juegos, programas, etc, todo 
 
 Encuentra de todo seleccionando los diferentes menús a la izquierda o usando la lupa que se encuentra arriba a la derecha.
 
+**Tambien puedes usar el Drive con todos los aportes recopilados.**
+
+- [!badge variant="contrast" icon="feed-pull-request-draft" text="QR MASTER"](https://drive.google.com/drive/folders/1hN1pqFKV1eSlrWSdkVMLch4SP3Z7MTFi?usp=sharing)    
+*Recomendamos escanear con virus total estos archivos, pues, algunos son del inicio del grupo donde aun no se hacia escaneo antes de aceptar.*
 
 ---
 
