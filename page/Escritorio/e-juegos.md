@@ -10,7 +10,9 @@ order: 1897
 ---
 
 
-!!!success Buscador hecho por Dex.
+!!!success **Buscador de juegos por Dex.**
+
+*Busca aqui juegos para PC completos + DLCs*
 
 [!button icon="codescan-checkmark" text="Juegos"](https://tiny.cc/noirpc)
 !!!
