@@ -14,20 +14,20 @@ TCC 👩🏽‍⚕️🧠
 
 ---
 
-## ¿Cómo consigo mi sesión gratis?
+## ¿Cómo consigo mi consejeria gratis?
 
-Para poder pedir tu sesion de consejeria necesitas entrar a nuestro discord donde podras encontrar un canal con todos los pasos necesarios.     
+Para poder pedir tu consejeria por chat anonimo necesitas entrar a nuestro discord donde podras encontrar un canal con todos los pasos necesarios.     
 
 > *Puesto que esto es gratis, se agradece si sigues a nuestra psicóloga en su [instagram](https://www.instagram.com/licadrianamendoza/) para que tu tambien la ayudes a crecer. Es lo unico que se pedira a cambio.    
 > Incluso si no buscas ayuda, pero lees esto, tu follow ayudará a otros a recibir su cita gratis. 🤍*
   
-Al final de esta pagina encontraras el link directo al discord donde hay informacion mas detallada para la cita, horarios, etc.
-
 ## Conoce tu Psicologa
 
 Con ayuda de un profesional en el tema, Los consejos de Homero & Noir Room lograron un acuerdo para brindar pequeñas sesiones de ayuda a personas que lo necesiten.
 
 Te presentamos a Adriana Mendoza, la persona encargada de ayudarte.
+
+Al final de esta pagina encontraras el link directo al discord donde hay informacion mas detallada.
 
 === **¿Dónde encontrarla?**
 

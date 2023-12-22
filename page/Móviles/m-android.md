@@ -12,7 +12,9 @@ order: 1787
 ---
 
 
-!!!success Buscador hecho por Dex.
+!!!success Buscador de aplicaciones por Dex.
+
+*Busca juegos y apps full e incluso con mods.*
 
 [!button icon="codescan-checkmark" text="Juegos"](https://cse.google.com/cse?cx=660831ba151944e87)
 !!!
