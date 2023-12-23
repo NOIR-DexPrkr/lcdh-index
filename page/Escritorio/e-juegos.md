@@ -17,7 +17,7 @@ order: 1897
 [!button icon="codescan-checkmark" text="Juegos"](https://tiny.cc/noirpc)
 !!!
 
-![](https://i.postimg.cc/RCw4Y2V9/Proyecto-nuevo-17.png)
+![](https://i.postimg.cc/L5GPh7wm/Proyecto-nuevo-20.png)
 
 ---
 
