@@ -14,14 +14,13 @@ Aquí podrás encontrar gran variedad de archivos, juegos, programas, etc, todo 
 
 Encuentra de todo seleccionando los diferentes menús a la izquierda o usando la lupa que se encuentra arriba a la derecha.
 
-**Tambien puedes usar el Drive con todos los aportes recopilados.**
+**Tambien puedes usar el `drive de aportes`, un recopilatorio de QRs.**
 
-- [!badge variant="contrast" icon="feed-pull-request-draft" text="QR MASTER"](https://drive.google.com/drive/folders/1hN1pqFKV1eSlrWSdkVMLch4SP3Z7MTFi?usp=sharing)    
-*Recomendamos escanear con virus total estos archivos, pues, algunos son del inicio del grupo donde aun no se hacia escaneo antes de aceptar.*
+- [!badge variant="contrast" icon="feed-pull-request-draft" text="QR MASTER"](https://drive.google.com/drive/folders/1hN1pqFKV1eSlrWSdkVMLch4SP3Z7MTFi?usp=sharing)  
+
+*Recomendamos [analizar los archivos](https://lcdh.tech/consejos/c-seguridad/#analizar-archivos) antes de usarlos, pues los más antiguos no eran analizados como ahora.*
 
 ---
-
-**¿Tienes una sugerencia?** **[Mencionala por aquí](https://discord.gg/RaJEJPQYPb)**
 
 !!!info Con mucho cariño, hecho por:
 
@@ -32,6 +31,6 @@ Encuentra de todo seleccionando los diferentes menús a la izquierda o usando la
 
 ---
 
-> El sitio esta en construccion constante, por lo tanto seguiran llegando mas aportes.
+> El sitio esta en construcción constante, por lo tanto seguirán llegando más aportes.
 >
->**Si necesitas algo mas y no esta aqui, visitanos en el Discord.**
+>**Si necesitas algo más y no esta aqui, visitanos en el Discord.**
