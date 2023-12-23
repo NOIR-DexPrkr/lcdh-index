@@ -14,7 +14,7 @@ Aquí podrás encontrar gran variedad de archivos, juegos, programas, etc, todo 
 
 Encuentra de todo seleccionando los diferentes menús a la izquierda o usando la lupa que se encuentra arriba a la derecha.
 
-Tambien puedes usar el *drive de aportes*, un recopilatorio de QRs.
+**Tambien puedes usar el drive de aportes, un recopilatorio de QRs.**
 
 - [!badge variant="contrast" icon="feed-pull-request-draft" text="QR MASTER"](https://drive.google.com/drive/folders/1hN1pqFKV1eSlrWSdkVMLch4SP3Z7MTFi?usp=sharing)  
 
