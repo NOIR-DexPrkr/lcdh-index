@@ -18,7 +18,7 @@ Encuentra de todo seleccionando los diferentes menús a la izquierda o usando la
 
 - [!badge variant="contrast" icon="feed-pull-request-draft" text="QR MASTER"](https://drive.google.com/drive/folders/1hN1pqFKV1eSlrWSdkVMLch4SP3Z7MTFi?usp=sharing)  
 
-*Recomendamos [analizar los archivos](https://lcdh.tech/consejos/c-seguridad/#analizar-archivos) antes de usarlos, los más antiguos no fueron analizados.*
+Recomendamos [analizar los archivos](https://lcdh.tech/consejos/c-seguridad/#analizar-archivos) antes de usarlos, los más antiguos no fueron analizados.
 
 ---
 
