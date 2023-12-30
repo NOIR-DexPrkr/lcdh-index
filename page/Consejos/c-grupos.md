@@ -46,15 +46,16 @@ Si tu celular no incluye una opción, esta alternativa es perfecta para ti, pued
 2- Cuando estés en la app de **Google**, selecciona la opción ![](https://i.postimg.cc/Bb9RKHJB/Proyecto-nuevo-7.png) y escanea, o selecciona la imagen.
 
 
-+++ :icon-device-mobile: InCamera
++++ :icon-device-mobile: Cámara
 
-
-Apple integró su propio lector QR en iPhone desde iOS 11 (2017), y Google introdujo su lector QR en Android para todos los smartphone compatibles en Android 9 (2018).
 
 Con tan solo abrir la cámara, y apuntar el código QR, puedes escanearlo e ir al enlace.
 
 
-+++ :icon-device-mobile: App 3ras
+Apple integró su propio lector QR en iPhone desde iOS 11 (2017), y Google introdujo su lector QR en Android para todos los smartphone compatibles en Android 9 (2018).
+
+
++++ :icon-device-mobile: Aplicación
 
 Usa una aplicación externa para escanear QRs, aquí te la dejo para Android e iOS.
 
