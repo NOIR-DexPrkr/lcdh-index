@@ -36,10 +36,10 @@ order: 1897
 - [Colección de Call of Duty](https://noiroom.tech/Escritorio/e-juegos#coleccion-call-of-duty)
 
 
-- [Minecraft Java & Bedrock:](https://noiroom.tech/Tutoriales/minecraft)
+- [Minecraft Java & Bedrock](https://noiroom.tech/Tutoriales/minecraft)
 
 
-- [Plantas vs Zombies 2 Version Port:](https://gamejolt.com/games/Xuwugames_PVZ_Void/714049)
+- [Plantas vs Zombies 2 Version Port](https://gamejolt.com/games/Xuwugames_PVZ_Void/714049)
 
 
 ---
