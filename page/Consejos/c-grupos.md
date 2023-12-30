@@ -31,9 +31,9 @@ Te recordamos que en caso de no estar en nuestros grupos en las distintas plataf
 
 +++ :icon-devices: Google Lens
 
-En caso de que quieras escanear con tu **PC**, la cámara de tu celular no tenga la opción predeterminada para escanear, o quieras escanear una imagen descargada, usa **Google Lens** o **Google**.
+En caso de que quieras escanear con tu **PC**, usa esta opción. También si la cámara de tu celular no tenga la opción predeterminada para escanear, o quieras escanear una imagen descargada, puedes usar esta opción de **Google** o **Google Lens**.
 
-1- Descarga las aplicaciones, puedes hacerlo aquí. (En PC solo ve a [https://www.google.com](Google))
+1- Descarga las aplicaciones, puedes hacerlo aquí. (En PC solo ve a [Google](https://www.google.com))
 
 [!button corners="pill" icon="issue-closed" size="s" variant="contrast" text="Lens en Android"](https://play.google.com/store/apps/details?id=com.google.ar.lens) [!button corners="pill" icon="issue-closed" size="s" variant="contrast" text="Google en iOS"](https://apps.apple.com/cl/app/google/id284815942)
 
