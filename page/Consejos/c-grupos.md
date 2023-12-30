@@ -40,10 +40,10 @@ Si tu celular no incluye una opción, esta alternativa es perfecta para ti, pued
 
 1- Descarga las aplicaciones, puedes hacerlo aquí. (En PC solo ve a [Google](https://www.google.com))
 
-[!button corners="pill" icon="issue-closed" size="s" variant="contrast" text="Lens en Android"](https://play.google.com/store/apps/details?id=com.google.ar.lens) [!button corners="pill" icon="issue-closed" size="s" variant="contrast" text="Google en iOS"](https://apps.apple.com/cl/app/google/id284815942)
+[!button corners="pill" icon="issue-closed" size="s" variant="contrast" text="Android"](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox) [!button corners="pill" icon="issue-closed" size="s" variant="contrast" text="iOS"](https://apps.apple.com/cl/app/google/id284815942)
 
 
-2- En **Lens** solo escanea, o selecciona la imagen. En **Google** selecciona la opción ![](https://i.postimg.cc/Bb9RKHJB/Proyecto-nuevo-7.png) y escanea, o selecciona la imagen.
+2- Cuando estés en la app de **Google**, selecciona la opción ![](https://i.postimg.cc/Bb9RKHJB/Proyecto-nuevo-7.png) y escanea, o selecciona la imagen.
 
 
 +++ :icon-device-mobile: InCamera
