@@ -32,7 +32,11 @@ En esta sección te vamos a enseñar todo lo que necesites saber sobre los códi
 
 +++ :icon-devices: Google Lens
 
-En caso de que quieras escanear con tu **PC**, usa esta opción. También si la cámara de tu celular no tenga la opción predeterminada para escanear, o quieras escanear una imagen descargada, puedes usar esta opción de **Google** o **Google Lens**.
+Este método funciona tanto en **PC** como **Android** e **iOS**.
+
+
+Si tu celular no incluye una opción, esta alternativa es perfecta para ti, puedes usar la cámara o importar imágenes para escanearlas.
+
 
 1- Descarga las aplicaciones, puedes hacerlo aquí. (En PC solo ve a [Google](https://www.google.com))
 
