@@ -21,12 +21,13 @@ Te recordamos que en caso de no estar en nuestros grupos en las distintas plataf
 ---
 
 
-### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Escanear y crear QRs
+### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Código QR
 
-¿Sabes cómo escanear o crear QRs? Aquí te presento una pequeña sección dedicada a eso.
+¿Ya sabías que QR significa ''Quick Response''? Un dato curioso que quizás no sabías.
 
+En esta sección te vamos a enseñar todo lo que necesites saber sobre los códigos QR, ya sea para crearlos, escanearlos, etc.
 
-#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Escanear QRs
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Escanearlos
 
 
 +++ :icon-devices: Google Lens
@@ -58,7 +59,7 @@ Usa una aplicación externa para escanear QRs, aquí te la dejo para Android e i
 +++
 
 
-#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Crear QRs
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Crearlos
 
 
 Hay muchas opciones para crear QRs, incluso algunos navegadores, páginas, entre otros incluyen esta opción.
