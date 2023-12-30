@@ -23,12 +23,23 @@ order: 1897
 
 ### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Juegos**
 
+
+- [Colección de Los Sims](https://noiroom.tech/Escritorio/e-juegos#coleccion-los-sims)
+
+
+- [Colección de Age of Empires](https://noiroom.tech/Escritorio/e-juegos#coleccion-age-of-empires)
+
+
+- [Colección de Grand Theft Auto](https://noiroom.tech/Escritorio/e-juegos#coleccion-gta)
+
+
+- [Colección de Call of Duty](https://noiroom.tech/Escritorio/e-juegos#coleccion-call-of-duty)
+
+
 - [Minecraft Java & Bedrock:](https://noiroom.tech/Tutoriales/minecraft)
-Obten la versión que quieras totalmente actualizable.
 
 
 - [Plantas vs Zombies 2 Version Port:](https://gamejolt.com/games/Xuwugames_PVZ_Void/714049)
-Juega al clasico PvZ2 para android en PC. No es estable.
 
 
 ---
