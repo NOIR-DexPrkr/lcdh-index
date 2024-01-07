@@ -1,6 +1,6 @@
 ---
 label: Académico
-icon: book
+icon: pencil
 layout: default
 order: 1490
 ---
