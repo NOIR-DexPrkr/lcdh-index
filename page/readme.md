@@ -11,12 +11,11 @@ order: 3000
 ![](https://i.postimg.cc/Tw1X6rmP/Proyecto-nuevo-27.png)
 
 
-### Compilación de utilidades, archivos, aplicaciones, entre otras cosas.
-
-
 ---
 
-Aquí podrás encontrar los aportes mas relevantes realizados por los miembros o admins de LCDH en las distintas plataformas.
+
+Recopilación de archivos, aplicaciones y utilidades realizados por los miembros y el staff de LCDH.
+
 
 ---
 
