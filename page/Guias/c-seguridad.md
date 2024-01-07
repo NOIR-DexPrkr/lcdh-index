@@ -1,5 +1,5 @@
 ---
-label: Escaneo/Seguridad
+label: Seguridad
 icon: shield-check
 layout: default
 order: 1980

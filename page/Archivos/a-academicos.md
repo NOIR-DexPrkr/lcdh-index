@@ -1,12 +1,12 @@
 ---
-label: Libros
+label: Académico
 icon: book
 layout: default
-order: 1480
+order: 1470
 ---
 
 
-# ![](https://i.postimg.cc/RFcbr355/banner-items-lcdh-9.png)
+# ![](https://i.postimg.cc/NMcgvyD9/banner-items-lcdh-6.png)
 
 ---
 
@@ -29,6 +29,7 @@ order: 1480
 - [Cómo formar una relación sana](https://www.mediafire.com/file/cpmfbm0g89sxfjc/Como_forma_una_relaci%25C3%25B3n_sana.pdf/file)
 - [Cuidado de la piel, Skincare](https://drive.google.com/drive/folders/11IbBun1A1XGrHL9DuSKhvO0xC3524Dlg)
 
+
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Libros de biología
 
 - [Libros y enciclopedias de botánica](https://www.mediafire.com/file/owwl2zd46zyher4/Bot%25C3%25A1nica_para_los_papus.zip/file)
@@ -43,14 +44,17 @@ order: 1480
 - [10 libros de electrónica](https://www.mediafire.com/file/6jqv5hqdr9ujnvc/Electr%25C3%25B3nica_para_los_papus.zip/file)
 - [Libros de Arduino más de 30](https://www.mediafire.com/file/sep32bs6yr69790/ARDUINO.rar/file)
 
+
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Libros sobre cocina
 
 - [Libro de recetas, coctelería, etc](https://cdn.me-qr.com/pdf/13959054.pdf)
+
 
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Libros sobre manualidades
 
 - [Patrones de crochet](https://www.mediafire.com/file/qj495vk26m1li7h/Patrones_de_crochet.rar/file)
 - [Guía para tejer amigurumis](https://www.patronesamigurumi.org/uploads/super-guia-para-tejer-amigurumis.pdf)
+
 
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Libros sobre ciencias y matemáticas
 
@@ -60,14 +64,17 @@ order: 1480
 - [Libros de electrónica](https://mega.nz/folder/SsdSQa5K#0Jgi3F4kIkEWMD5Q1H81Cg)
 - [Geometría analítica](https://drive.google.com/drive/folders/1F684USHV_-I925mzRAjRKHt4-CkLPNuz)
 
+
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Libros sobre programación
 
 - [El arte de la Intrusión](https://mega.nz/file/AadiXb6Q#HDHVlssG-lc1eyQ_bgo3u8bO3wtk2j0_ay9mSpjm7_E)
+
 
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Libros de idioma
 
 - [Manual básico de inglés](https://drive.google.com/file/d/10pH4TTeGu5szOwQLpDdjQ6b2Kc29-9oB/view?usp=drivesdk)
 - [Teoría musical](https://www.mediafire.com/file/jdh5bdn407b9lpy/teoria_musical.pdf/file)
+
 
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Libros sobre instrumentos musicales
 
@@ -75,6 +82,7 @@ order: 1480
 - [Método Suzuki para violín](https://drive.google.com/file/d/1NEoxwxEIMbHI4O3G3mb-_8bf0waqZo9b/view)
 - [Partituras de piano sobre videojuegos, películas, etc](https://drive.google.com/drive/folders/1CizOSyQQM4-W1aMWv_MvNsVZPQQY1bsM)
 - [Guía para tocar trompeta](https://drive.google.com/file/d/1agpO364xLjrNMNFeRTKjIFh926fcRXal/view)
+
 
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Libros sobre artes visuales
 
@@ -92,6 +100,7 @@ order: 1480
 - [Libros y otras cosas sobre dibujo 3](https://www.mediafire.com/folder/sase3ge3o8h33/Dibujos+2+(PDFs)+ingles)
 - [Libro The Animators Survival Kit](https://drive.google.com/file/d/15RPQQ5GmEmAzRsRdDRKP3KHPGbwKfbxw/view)
 - [Libro cómo dibujar comics al estilo Marvel](https://www.mediafire.com/file/7n8pocvww7u6588/C%25C3%25B3mo_Dibujar_C%25C3%25B3mics_Al_Estilo_Marvel_by_Stan_Lee_y_John_Buscema_PDF.pdf/file)
+
 
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Libros de Minecraft
 
@@ -120,6 +129,7 @@ order: 1480
 - [Pequeño diario de un aldeano pringao 1](https://www.mediafire.com/file/uz672qzbmryiui6/_Coleccion_Minecraft-20230603T204537Z-001.zip/file)
 - [Pequeño diario de un aldeano pringao 2](https://www.mediafire.com/file/uz672qzbmryiui6/_Coleccion_Minecraft-20230603T204537Z-001.zip/file)
 
+
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Libros en general
 
 - [Anatomía de las artes marciales](https://drive.google.com/file/d/1SuADKDl0RamyTHnHvNwFLq0VChw6ZHjt/view?usp=drivesdk)
@@ -136,14 +146,17 @@ order: 1480
 
 ### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Packs de libros**
 
+
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Packs de ciencias
 
 - [65 libros de química](https://www.mediafire.com/file/apq2bklf5ndkzmu/Quimica.zip/file)
 - [55 libros de física y matemáticas](https://www.mediafire.com/file/smp8bdhgepkeia9/Fisica_y_Matematicas_para_los_papus.rar/file)
 
+
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Packs de filosofía
 
 - [320 libros de filosofía](https://www.mediafire.com/file/vxjy36a9kr1x23f/pa_pensar_se%25C3%25B1ores.rar/file)
+
 
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Packs de artes visuales
 
@@ -159,9 +172,11 @@ order: 1480
 - [Libros de arte 2](https://drive.google.com/drive/folders/1LbgqTrOVVnEcIxcTlr8zP7XCNgM2mjy7)
 - [+500 libros de dibujo](https://drive.google.com/drive/folders/15eO2zAEHwlSzc2G26SmcwV7vk_rxjSuY)
 
+
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Packs de idiomas
 
 - [Pack de libros, ejercicios y apuntes para aprender japonés](https://drive.google.com/drive/folders/1RM9OiQcNI9hEss4mnLwOs_YR1gTpLvo9)
+
 
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Packs sobre medicina
 
@@ -169,9 +184,11 @@ order: 1480
 - [Pack de libros de medicina](https://mega.nz/folder/CmYyXCJZ#hDJiF1dqRRXolrWWcIp-0g)
 - [Pack de más libros de medicina](https://mega.nz/folder/YdMW1TJD#g0K94kpdqX8bbKkq01n44Q)
 
+
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Packs de manualidades
 
 - [10 libros de confección y 200 manuales de patrones de confección](https://www.mediafire.com/file/yugqu5brp24vo7s/confeccion_de_ropa.rar/file)
+
 
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Packs de diseño
 
@@ -179,17 +196,30 @@ order: 1480
 - [50 libros de jardinería](https://www.terabox.com/wap/share/filelist?surl=Ujbm9K7y8jS0wBfyYvgEwg)
 - [Libros de diseño y desarrollo de videojuegos](https://mega.nz/folder/n0FV0RzR#8Xff4QkvROz2oDRcg3FkYA)
 
+
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Packs sobre programación
 
 - [Pack de programación](https://mega.nz/folder/fpVBTYDb#AhWVJ-CFyUA5mFHKIMZJjQ)
 - [Pack de 5TB de programación](https://mega.nz/folder/a94G0RDJ#dh8zj32TNulKlRfvTy7rCg/folder/n4h2HaoL)
 - [Pack de programación, ing. civil, etc. 7TB](https://mega.nz/folder/nigDHAxb#FpbSFyZqPGXudC9Gs72-Nw)
 
+
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Packs sobre historia
 
 - [La guerra sucia en México](https://drive.google.com/file/d/1jR7QU5lhU26HZO3SzyPLZGpGmwHLxQ6A/view)
 
+
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Packs de cocina
 
+
+
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Packs en general
+
+- [+50 libros sobre ajedrez](https://drive.google.com/drive/u/0/folders/1Mtt9-w8_VTiu4di3zNmr30RRMYVTVh1o)
+- [Más libros sobre ajedrez](https://onedrive.live.com/?authkey=V%2AQBwpmp2BU%24&id=8D12F616C7A05752%21456&cid=8D12F616C7A05752)
+- [Pack de libros en general](https://mega.nz/folder/zUkREIYQ#eHO_IweiBkajpNOpoRZIhA/folder/iEFUBDAZ)
+
+
+---
 
 

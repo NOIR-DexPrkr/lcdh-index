@@ -1,25 +1,16 @@
 ---
-label: Cursos/Packs
+label: Cursos
 icon: repo
 layout: default
-order: 1470
+order: 1460
 ---
 
 
-# ![](https://i.postimg.cc/QCtgfv0K/banner-items-lcdh-8.png)
+# ![](https://i.postimg.cc/ZKTCyQrB/banner-items-lcdh-5.png)
 
 
 ---
 
-
-
-### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Packs en general
-
-- [+50 libros sobre ajedrez](https://drive.google.com/drive/u/0/folders/1Mtt9-w8_VTiu4di3zNmr30RRMYVTVh1o)
-- [Más libros sobre ajedrez](https://onedrive.live.com/?authkey=V%2AQBwpmp2BU%24&id=8D12F616C7A05752%21456&cid=8D12F616C7A05752)
-- [Pack de libros en general](https://mega.nz/folder/zUkREIYQ#eHO_IweiBkajpNOpoRZIhA/folder/iEFUBDAZ)
-
----
 
 ### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Cursos
 
@@ -84,25 +75,6 @@ order: 1470
 - [Cursos de oficios](https://mega.nz/folder/dYQDAIIY#rQ3sv54Sv-zcnwQ76IK0BQ)
 - [Cursos, libros, pelis, etc](https://mega.nz/folder/s9ZEEBjY#DcYDq-2rWgwgoimuakcEdg)
 
-
----
-
----
-
-### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Otros
-
-#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Packs de imprimibles
-
-- [Pack de Papercraft](https://drive.google.com/drive/folders/1nLVH0iaZXIvTGcbyTS3VsgHnJIJwgLGD)
-
-#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Diseño
-
-- [Pinceles para Ibis Paint X](https://pin.it/4pszlyF)
-- [Pinceles y texturas para Paint Tool Sai](https://es.brusheezy.com/libre/paint-tool-sai)
-- [Texturas para Paint Tool Sai](https://mega.nz/file/VR5xFQ4B#IZ_ii5tcx7IumUod7S_SXmTkXiKbpxhBZsTH2KeXH5U)
-- [Aún más texturas para Paint Tool Sai](https://www.mediafire.com/file/uytfb9vy2kcrkhx/pinceles+bonitos+por+que+te+amo+bb.rar/file)
-- [Texturas y pinceles para pasto o manchas](https://drive.google.com/drive/folders/15CuKU8DJa6RLbMM_RxDUv32sJQJCf3uF)
-- [Recursos para creación de memes](https://mega.nz/folder/BEhVGIAT#7THR4TZow1CAlK5t-lB_GA)
 
 ---
 
