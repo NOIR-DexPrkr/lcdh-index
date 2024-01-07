@@ -1,5 +1,5 @@
 ---
-label: Grupos
+label: QRs/Publicaciones
 icon: people
 layout: default
 order: 1990

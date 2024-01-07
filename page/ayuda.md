@@ -23,7 +23,7 @@ Para poder pedir tu consejeria por chat anonimo necesitas entrar a nuestro disco
   
 ## Conoce tu Psicologa
 
-Con ayuda de un profesional en el tema, Los consejos de Homero & Noir Room lograron un acuerdo para brindar pequeñas sesiones de ayuda a personas que lo necesiten.
+Con ayuda de un profesional en el tema, Los consejos de Homero & Noir Room lograron un acuerdo para brindar pequeñas consejerias por chat a personas que lo necesiten.
 
 Te presentamos a Adriana Mendoza, la persona encargada de ayudarte.
 
