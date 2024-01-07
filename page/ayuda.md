@@ -1,5 +1,5 @@
 ---
-label: Ayuda Psicologica
+label: Ayuda psicológica
 icon: feed-heart
 layout: default
 order: 10

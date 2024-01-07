@@ -2,7 +2,7 @@
 label: Cursos
 icon: repo
 layout: default
-order: 1460
+order: 1480
 ---
 
 
