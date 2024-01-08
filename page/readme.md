@@ -22,6 +22,8 @@ order: 3000
 - **A la derecha el contenido de la pagina en que te encuentras.**
 - **Arriba a la derecha podras encontrar la lupa para buscar lo que necesites en todo el index.**
 
+**En caso de que no sepas cómo usar el index, mira el tutorial de abajo.**
+
 ---
 
 
