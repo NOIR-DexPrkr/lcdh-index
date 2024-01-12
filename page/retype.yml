@@ -24,6 +24,10 @@ links:
     icon: paper-airplane
     link: https://t.me/LosConsejosDeHomeroOficial
     target: blank
+  - text: Donaciones
+    icon: heart-fill
+    link: https://ko-fi.com/losconsejosdehomerooficial
+    target: blank
     
 search: 
     mode: full
@@ -49,6 +53,12 @@ footer:
     - text: Telegram
       icon: plain
       link: https://t.me/LosConsejosDeHomeroGroup
-    - text: Actualizado 22/12/23
+      target: blank
+    - text: Donaciones
+      icon: heart-fill
+      link: https://ko-fi.com/losconsejosdehomerooficial
+      target: blank
+    - text: Actualizado 10/01/24
       icon: sync
       link: https://www.youtube.com/watch?v=o5KSU2WRq1E
+      target: blank
