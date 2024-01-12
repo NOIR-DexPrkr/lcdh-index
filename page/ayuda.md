@@ -15,9 +15,9 @@ Un lugar donde podrás pedir ayuda y apoyo profesional.
 
 ## ¿Cómo consigo mi consejeria gratis?
 
-Para poder pedir tu consejeria por chat anonimo necesitas entrar a nuestro discord donde podras encontrar un canal con todos los pasos necesarios.     
+Para poder pedir tu consejeria por chat anónimo necesitas entrar a nuestro discord donde podrás encontrar un canal con todos los pasos necesarios.     
 
-> *Puesto que esto es gratis, se agradece si sigues a nuestro psicólogo en su [instagram](https://www.instagram.com/alberto.garciaortiz?igsh=MWluMG01a3JhOHJmaw==) o [facebook](https://www.facebook.com/profile.php?id=100065031879637&mibextid=ZbWKwL) para que tu tambien la ayudes a crecer. Es lo unico que se pedira a cambio.    
+> *Puesto que esto es gratis, se agradece si sigues a nuestro psicólogo en su [instagram](https://www.instagram.com/alberto.garciaortiz?igsh=MWluMG01a3JhOHJmaw==) o [facebook](https://www.facebook.com/profile.php?id=100065031879637&mibextid=ZbWKwL) para que tú también la ayudes a crecer. Es lo único que se pedirá a cambio.    
 > Incluso si no buscas ayuda, pero lees esto, tu follow ayudará a otros a recibir su cita gratis. 🤍*
   
 ## Conoce tus psicólogos
@@ -26,7 +26,7 @@ Con ayuda de un profesional en el tema, Los consejos de Homero & Noir Room logra
 
 Te presentamos al psicoterapeuta Alberto, quien te brindará apoyo siempre que lo necesites. 
 
-Al final de esta pagina encontraras el link directo al discord donde hay informacion mas detallada.
+Al final de esta página encontrarás el link directo al discord donde hay información más detallada.
 
 === **¿Dónde encontrarlo?**
 
