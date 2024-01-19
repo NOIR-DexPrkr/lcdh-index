@@ -97,7 +97,7 @@ Ahora te vamos a compartir plantillas para que hagas tus propias imágenes. Recu
 
 Al igual que la temática, necesitarás usar una de las marcas de agua para tus publicaciones. Las marcas de agua seguirán aumentando constantemente, para añadir más variedad. ![](https://images-ext-1.discordapp.net/external/4YQiWQevguiDbfOGmq5orfGp-lMulNDAHYaXL-aHh5M/https/i.imgur.com/tFp98Tp.png?width=31&height=31)
 
-[!button corners="pill" size="m" variant="contrast" icon="cloud" text="Descarga aquí"](https://www.mediafire.com/file/p7u869t0ej41kf0/Marcas+de+agua+LCDH.rar/file)
+[!button corners="pill" size="m" variant="contrast" icon="cloud" text="Descarga aquí"](https://drive.google.com/drive/folders/14fNuMKfZyf7YLLxVFnF345DnrfT8TZih?usp=drive_link)
 
 
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Enlaces
