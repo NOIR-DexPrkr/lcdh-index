@@ -224,7 +224,7 @@ Aplicacion con recopilacion de varias paginas de ver peliculas, todas en un solo
 - [Colección de GTA](https://noiroom.tech/Escritorio/e-juegos#coleccion-gta)
 
 
-- Plantas vs Zombies: [Original Completo](https://www.mediafire.com/file/gvr0e59pktq23zk/Plantas+contra+Zombis_8.1.0.apk/file) / [2 mod](https://an1.com/182-plants-vs-zombies-2-pvz-mod.html) /  [2: Chino](https://www.mediafire.com/file/594z4apdrht8op8/PvZ2_Chino_v2.9.4.apk/file) / [2: Reflourished](https://drive.google.com/drive/folders/1y5lVZh-flKWxpeXSFYJprzJlL4Jlcfm4)
+- Plantas vs Zombies: [Original Completo](https://www.mediafire.com/file/gvr0e59pktq23zk/Plantas+contra+Zombis_8.1.0.apk/file) / [2 mod](https://an1.com/182-plants-vs-zombies-2-pvz-mod.html) /  [2: Chino](https://archive.org/download/plants-vs.-zombies-2-chinese-edition-mod-apk-archive/Plants%20vs.%20Zombies%202%20Chinese%20Edition_2.2.5%20MOD.apk) / [2: Reflourished](https://drive.google.com/drive/folders/1y5lVZh-flKWxpeXSFYJprzJlL4Jlcfm4)
 
 
 ---
