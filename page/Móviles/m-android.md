@@ -120,12 +120,7 @@ Descarga videos de tus aplicaciones favoritas como Instagram, Tiktok, etc.
 Nuevamente otro editor de videos más.
 
 
----
-
-### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Colecciones
-
-
-#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) **Aplicaciones**
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) **Colecciones**
 
 
 ##### Alternativas Youtube:
@@ -199,11 +194,22 @@ Podrás encontrar apps como Deezer, BlackHole, Musify, etc.
 ==-
 
 
-- [CloudStream:](https://noiroom.tech/Tutoriales/cloudstream)
-Aplicacion con recopilacion de varias paginas de ver peliculas, todas en un solo lugar.
 
 
-#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) **Juegos**
+
+---
+
+
+### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Juegos
+
+
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) **Individuales**
+
+
+- [VA-11 HALL-A](https://www.mediafire.com/download/m0h0pmmolh5iun4) Un videojuego de simulación independiente de bartender con elementos visuales novedosos. Véase también su [versión de PC]().
+
+
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) **Colecciones**
 
 
 - [Todos los juegos FNAF](https://drive.google.com/file/d/13ZNJB38Ju9PgS5AKIgz87nJQwhFKOy9O/view)

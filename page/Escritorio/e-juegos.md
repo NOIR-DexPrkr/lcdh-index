@@ -24,6 +24,22 @@ order: 1897
 ### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Juegos**
 
 
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Individuales
+
+
+- [Plantas vs Zombies Void:](https://gamejolt.com/games/Xuwugames_PVZ_Void/714049) Port del videojuego Plantas vs Zombies 2, el cual incluye contenido extra, entre otros.
+
+
+- [God of War 2018:](https://www.mediafire.com/file/9p2wvvx6rghx3gy/6oW2O18.rar) En dispositivos ADM es recomendable iniciar el juego con un [launcher Vulkan](https://www.nexusmods.com/godofwar/mods/20). Si tu PC detecta algo malicioso, son falsos positivos. 
+
+
+- [VA-11 HALL-A](https://www.mediafire.com/folder/70c92n0qz1wzi/VA-11-HALL-A) Un videojuego de simulación independiente de bartender con elementos visuales novedosos. Véase también su [versión de android]().
+
+
+
+#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Colecciones
+
+
 - [Colección de Los Sims](https://noiroom.tech/Escritorio/e-juegos#coleccion-los-sims)
 
 
@@ -37,9 +53,6 @@ order: 1897
 
 
 - [Minecraft Java & Bedrock](https://noiroom.tech/Tutoriales/minecraft)
-
-
-- [Plantas vs Zombies 2 Version Port](https://gamejolt.com/games/Xuwugames_PVZ_Void/714049)
 
 
 ---
