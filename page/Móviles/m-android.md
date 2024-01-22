@@ -223,6 +223,9 @@ Podrás encontrar apps como Deezer, BlackHole, Musify, etc.
 - [Life is Strange: Before the Storm:](https://www.mediafire.com/file/g3xpy66t2bl8n4j/Life_Is_Strange_Before_The_Storm_%28Android_Full%29.zip/file) Tres años antes de Life is Strange, Chloe Price, una adolescente rebelde que entabla una inesperada amistad con Rachel Amber, una chica guapa y popular destinada al éxito.
 
 
+- [Bully Anniversary Edition](https://www.mediafire.com/file/0j2hmyq7hgb2uqn/Bully_Anniversary_Edition_2022.zip/file) Jimmy Hopkins, un adolescente expulsado de todos los colegios a los que ha asistido.
+
+
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) **Colecciones**
 
 

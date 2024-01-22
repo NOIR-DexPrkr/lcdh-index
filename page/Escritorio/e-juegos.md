@@ -42,6 +42,30 @@ order: 1897
 - [Dark Souls 2: Scholar of the First Sin:](https://www.mediafire.com/file/5v1twvcsmqa6igs/DS2-S0TF5.rar?dkey=ut5zrugjis9&r=1843) Únete al oscuro viaje y experimenta sobrecogedores encuentros con enemigos, peligros diabólicos y desafíos implacables.
 
 
+- [Mad Father:](https://www.mediafire.com/download/jja2hg3uocironx) Aya es una niña que vive sola con su padre, y todas las noches escucha gritos escalofriantes en el laboratorio de su padre.
+
+
+- [Ib:](https://www.mediafire.com/download/l8y1prhsp8cjlsk) Una niña llamada Ib visita una galería de arte con sus padres, hasta que se da cuenta que está sola, y cada vez el museo cambia aún más.
+
+
+- [60 Parsecs! :](https://mega.nz/file/aAZRXarC#IU57m4lyYuYq11Uk9LltYE9v7VnmvoVhODphmDpByXQ) ¡La era espacial atómica fue la bomba! Hasta que se convirtió en la era espacial posapocalíptica.
+
+
+- [Blasphemous:](https://www.mediafire.com/file/dsu23j2oqugekne/Bla7sphem9us0.rar/file?dkey=802wa61ngcd&r=796) Eres el Penitente, el único superviviente de la masacre de la hermandad del Lamento Mudo.
+
+
+- [Bomb Rush Cyberfunk:](https://www.mediafire.com/download/og8q6o2zcqs2scl) Red es un graffitis writer que perdió la cabeza y en su lugar tiene una cabeza cyber.
+
+
+- [Brawlhalla + DLCs:](https://www.mediafire.com/file/7fj0t03lc7fhuyg/BRAW_Setup.exe/file) Un épico juego de lucha de plataformas para hasta 8 jugadores en línea o localmente.
+
+
+- [Call of Juarez: Bound in Blood:](https://mega.nz/#!G9ElhZCa!EhlwKd4nQsZVrt1UzDA0w_xae4WFULZJ5fdXcpHtpqs) Para poder salvar a su familia, los hermanos McCall matarán a cualquiera que se interponga entre ellos y el legendario Oro de Juárez
+
+
+- [Carrion:](https://www.mediafire.com/file/od52nydh6k3nx7u/Ca1rr3ion-06.11.2022-elamigos.rar/file) Juego de terror inverso en el que asumes el papel de una criatura amorfa de origen desconocido.
+
+
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Colecciones
 
 
