@@ -66,6 +66,21 @@ order: 1897
 - [Carrion:](https://www.mediafire.com/file/od52nydh6k3nx7u/Ca1rr3ion-06.11.2022-elamigos.rar/file) Juego de terror inverso en el que asumes el papel de una criatura amorfa de origen desconocido.
 
 
+- [Cat Quest:](https://www.mediafire.com/download/48latn1uac6frt4) Cat Quest es un RPG de mundo abierto ambientado en el gatupendo mundo de los felinos.
+
+
+- [Cat Quest II:](https://www.mediafire.com/download/2hq3aevps5umyip) Cuenta la historia de dos reyes unidos contra su voluntad en un viaje zarpantástico en el que descubrirán cómo recuperar sus tronos.
+
+
+- [Cave Story:](https://www.cavestory.org/download/cave-story.php) Un extraño mundo en el que una curiosa raza de inocentes criaturas conejiles, llamadas Mimigas, campan en libertad.
+
+
+- [Clone Hero:](https://clonehero.net/releases/) Un Guitar Hero pero gratuito, bastante completo. Si quieres descargar canciones, [visita este lugar](https://chorus.fightthe.pw/).
+
+
+- [Cult of the Lamb:](https://www.mediafire.com/file/h5zyg730aeb4nua/Cult_of_the_Lamb_Cultist_Edition.rar/file) Crea tu propia secta en una tierra de falsos profetas, aventurándote en regiones diversas y misteriosas.
+
+
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Colecciones
 
 
