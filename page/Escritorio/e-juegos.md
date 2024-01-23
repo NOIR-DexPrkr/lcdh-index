@@ -59,22 +59,22 @@ Los archivos no analizados tendrán el siguiente icono: :icon-shield:
 - [Ib:](https://www.mediafire.com/download/l8y1prhsp8cjlsk) Una niña llamada Ib visita una galería de arte con sus padres, hasta que se da cuenta que está sola, y cada vez el museo cambia aún más.
 
 
-- [60 Parsecs! :](https://mega.nz/file/aAZRXarC#IU57m4lyYuYq11Uk9LltYE9v7VnmvoVhODphmDpByXQ) ¡La era espacial atómica fue la bomba! Hasta que se convirtió en la era espacial posapocalíptica.
+- :icon-shield: [60 Parsecs! :](https://mega.nz/file/aAZRXarC#IU57m4lyYuYq11Uk9LltYE9v7VnmvoVhODphmDpByXQ) ¡La era espacial atómica fue la bomba! Hasta que se convirtió en la era espacial posapocalíptica.
 
 
-- [Blasphemous:](https://www.mediafire.com/file/dsu23j2oqugekne/Bla7sphem9us0.rar/file?dkey=802wa61ngcd&r=796) Eres el Penitente, el único superviviente de la masacre de la hermandad del Lamento Mudo.
+- :icon-shield: [Blasphemous:](https://www.mediafire.com/file/dsu23j2oqugekne/Bla7sphem9us0.rar/file?dkey=802wa61ngcd&r=796) Eres el Penitente, el único superviviente de la masacre de la hermandad del Lamento Mudo.
 
 
-- [Bomb Rush Cyberfunk:](https://www.mediafire.com/download/og8q6o2zcqs2scl) Red es un graffitis writer que perdió la cabeza y en su lugar tiene una cabeza cyber.
+- :icon-shield: [Bomb Rush Cyberfunk:](https://www.mediafire.com/download/og8q6o2zcqs2scl) Red es un graffitis writer que perdió la cabeza y en su lugar tiene una cabeza cyber.
 
 
-- [Brawlhalla + DLCs:](https://www.mediafire.com/file/7fj0t03lc7fhuyg/BRAW_Setup.exe/file) Un épico juego de lucha de plataformas para hasta 8 jugadores en línea o localmente.
+- :icon-shield: [Brawlhalla + DLCs:](https://www.mediafire.com/file/7fj0t03lc7fhuyg/BRAW_Setup.exe/file) Un épico juego de lucha de plataformas para hasta 8 jugadores en línea o localmente.
 
 
-- [Call of Juarez: Bound in Blood:](https://mega.nz/#!G9ElhZCa!EhlwKd4nQsZVrt1UzDA0w_xae4WFULZJ5fdXcpHtpqs) Para poder salvar a su familia, los hermanos McCall matarán a cualquiera que se interponga entre ellos y el legendario Oro de Juárez
+- :icon-shield: [Call of Juarez: Bound in Blood:](https://mega.nz/#!G9ElhZCa!EhlwKd4nQsZVrt1UzDA0w_xae4WFULZJ5fdXcpHtpqs) Para poder salvar a su familia, los hermanos McCall matarán a cualquiera que se interponga entre ellos y el legendario Oro de Juárez
 
 
-- [Carrion:](https://www.mediafire.com/file/od52nydh6k3nx7u/Ca1rr3ion-06.11.2022-elamigos.rar/file) Juego de terror inverso en el que asumes el papel de una criatura amorfa de origen desconocido.
+- :icon-shield: [Carrion:](https://www.mediafire.com/file/od52nydh6k3nx7u/Ca1rr3ion-06.11.2022-elamigos.rar/file) Juego de terror inverso en el que asumes el papel de una criatura amorfa de origen desconocido.
 
 
 - [Cat Quest:](https://www.mediafire.com/download/48latn1uac6frt4) Cat Quest es un RPG de mundo abierto ambientado en el gatupendo mundo de los felinos.
@@ -83,13 +83,13 @@ Los archivos no analizados tendrán el siguiente icono: :icon-shield:
 - [Cat Quest II:](https://www.mediafire.com/download/2hq3aevps5umyip) Cuenta la historia de dos reyes unidos contra su voluntad en un viaje zarpantástico en el que descubrirán cómo recuperar sus tronos.
 
 
-- [Cave Story:](https://www.cavestory.org/download/cave-story.php) Un extraño mundo en el que una curiosa raza de inocentes criaturas conejiles, llamadas Mimigas, campan en libertad.
+- :icon-shield: [Cave Story:](https://www.cavestory.org/download/cave-story.php) Un extraño mundo en el que una curiosa raza de inocentes criaturas conejiles, llamadas Mimigas, campan en libertad.
 
 
 - [Clone Hero:](https://clonehero.net/releases/) Un Guitar Hero pero gratuito, bastante completo. Si quieres descargar canciones, [visita este lugar](https://chorus.fightthe.pw/).
 
 
-- [Cult of the Lamb:](https://www.mediafire.com/file/h5zyg730aeb4nua/Cult_of_the_Lamb_Cultist_Edition.rar/file) Crea tu propia secta en una tierra de falsos profetas, aventurándote en regiones diversas y misteriosas.
+- :icon-shield: [Cult of the Lamb:](https://www.mediafire.com/file/h5zyg730aeb4nua/Cult_of_the_Lamb_Cultist_Edition.rar/file) Crea tu propia secta en una tierra de falsos profetas, aventurándote en regiones diversas y misteriosas.
 
 
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Colecciones
