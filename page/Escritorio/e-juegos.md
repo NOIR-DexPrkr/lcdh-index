@@ -39,7 +39,7 @@ Algunos de ellos no están analizados por el actual staff de LCDH, pero lo estar
 - [Plantas vs Zombies Void:](https://gamejolt.com/games/Xuwugames_PVZ_Void/714049) Port del videojuego Plantas vs Zombies 2, el cual incluye contenido extra, entre otros.
 
 
-- [God of War 2018:](https://www.mediafire.com/file/9p2wvvx6rghx3gy/6oW2O18.rar) En dispositivos ADM es recomendable iniciar el juego con un [launcher Vulkan](https://www.nexusmods.com/godofwar/mods/20). Si tu PC detecta algo malicioso, son falsos positivos. 
+- [God of War 2018:](https://www.mediafire.com/file/9p2wvvx6rghx3gy/6oW2O18.rar) En dispositivos AMD es recomendable iniciar el juego con un [launcher Vulkan](https://www.nexusmods.com/godofwar/mods/20). Si tu PC detecta algo malicioso, son falsos positivos. 
 
 
 - [VA-11 HALL-A:](https://www.mediafire.com/folder/70c92n0qz1wzi/VA-11-HALL-A) Un videojuego de simulación independiente de bartender con elementos visuales novedosos. Véase también su [versión de android](https://lcdh.tech/móviles/m-android/#individuales).
