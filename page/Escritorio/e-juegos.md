@@ -23,7 +23,7 @@ order: 1897
 
 !!! Archivos no analizados
 
-Gran parte de los juegos proporcionados abajo son aportados por miembros o el staff de LCDH.
+Gran parte de los juegos proporcionados **abajo** son aportados por miembros o el staff de LCDH.
 
 Algunos de ellos no están analizados por el actual staff de LCDH, pero lo estarán en el futuro. Esto no significa que sea peligroso, **pero un análisis aseguraría su veracidad.**
 
@@ -90,6 +90,45 @@ Los archivos no analizados tendrán el siguiente icono: :icon-shield:
 
 
 - :icon-shield: [Cult of the Lamb:](https://www.mediafire.com/file/h5zyg730aeb4nua/Cult_of_the_Lamb_Cultist_Edition.rar/file) Crea tu propia secta en una tierra de falsos profetas, aventurándote en regiones diversas y misteriosas.
+
+    
+- :icon-shield: [Cuphead + DLCs:](https://steamrip.com/cuphead-free-download/) Cuphead es un juego de acción clásico estilo "dispara y corre" que se centra en combates contra jefes.
+
+
+- :icon-shield: [Death's Gambit:](https://www.mediafire.com/file/ldafipeeov40kia/Deaths.Gambit.Afterlife.v2.21.zip/file) Desafía a los guardianes inmortales del reino y supera la lucha eterna para purgar sus almas.
+
+
+- :icon-shield: [Don't Bite Me Bro! :](https://www.mediafire.com/file/33ohp615dxtg1a1/DontBiteMeBro_PC_x86.zip/file) Explora el mundo y recolecta recursos para construir y mejorar tu refugio.
+
+
+- :icon-shield: [Fable 1](https://www.mediafire.com/file/k08b5u8i6i2zx1q/Jueguini.rar/file) Ambientado en la era medieval, da una gran libertad para determinar las habilidades, la apariencia. etc.
+
+
+- :icon-shield: [Fear and Hunger](https://drive.google.com/drive/folders/1jIFUywhCN0HJoociBs8kFVSdznJhx707) Cuatro aventureros desdichados se adentran en ''La Fortaleza'' en busca de tesoros pero sólo hallan dolor.
+
+
+- :icon-shield: [Forager](https://www.mediafire.com/file/3s8od05woi8u1e5/) Mundo abierto inspirado en juegos de exploración, agricultura y crafteo como Stardew Valley, Terraria y Zelda.
+
+
+- :icon-shield: [GTA SA + Cleos](https://drive.google.com/drive/folders/1i_uOYrEOQBpmQtUo71GzJxtIXnDDvEje?usp=share_link) El clásico de clásicos, no hace falta explicarlo.
+
+
+- :icon-shield: [Halo CE](https://www.mediafire.com/file/xzl4gx95jkzmtoa/H%25CE%259BL%25CE%2598_PC.rar) Master Chief tiene la tarea de ayudar a los humanos sobrevivientes a repeler las abrumadoras fuerzas del Covenant.
+
+
+- :icon-shield: [Halo 2](https://www.mediafire.com/file/kxwzt2bmzdjfcho/H%25CE%259BL%25CE%2598_2_PC.rar) El Covenant está sediento de venganza y lanza un ataque sorpresivo a la Tierra.
+
+
+- :icon-shield: [Hollow Knight](https://www.mediafire.com/file%20/0a2mc9igg3h9i18/Hollow+knight.apk) Hollow Knight es una aventura de acción clásica en 2D ambientada en un vasto mundo interconectado.
+
+
+- :icon-shield: [Hotline Miami Collection](https://drive.google.com/file/d/1R54_Jm1bl7eeiqVmrA7N2qfwSbBTgaB3/view) Matar rusos: los juegos.
+
+
+- :icon-shield: [The Binding of Isaac Repentance](https://www.mediafire.com/file/g05bbsdo9fhibn4) Shooter de rol y acción generado aleatoriamente con fuertes elementos de roguelike.
+
+
+- :icon-shield: [Katana Zero](https://www.mediafire.com/file/2yygjyqarf3ainp/KTN0_by_BlizzBoyGames.rar/file) Juego de acción y plataformas neo-noir rebosante de personalidad, acción vertiginosa y combates de muerte instantánea.
 
 
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Colecciones
