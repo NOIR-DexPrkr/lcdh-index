@@ -23,10 +23,9 @@ order: 1897
 
 !!! Archivos no analizados
 
-Gran parte de los juegos proporcionados en este index son aportados por miembros o el staff de LCDH.
-Algunos de ellos no están analizados, pero lo estarán en el futuro. Los archivos no analizados tendrán el siguiente icono:
+Gran parte de los juegos proporcionados abajo son aportados por miembros o el staff de LCDH.
 
-:icon-shield:
+Algunos de ellos no están analizados, pero lo estarán en el futuro. Los archivos no analizados tendrán el siguiente icono: :icon-shield:
 !!!
 
 ---
