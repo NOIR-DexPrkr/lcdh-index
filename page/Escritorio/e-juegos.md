@@ -156,5 +156,9 @@ Los archivos no analizados tendrán el siguiente icono: :icon-shield:
 
 ### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Emuladores**
 
+
+- [Listado de emuladores por Gaby:](https://docs.google.com/document/d/1iAedTOKZMLvX52HpPsUdbStbrNfzFSDeAwABn-1Cs_Y/edit) Emuladores recomendados por Gaby, para distintas consolas de la generación que quieras.
+
+
 - *En construcción... ![](https://images-ext-1.discordapp.net/external/4YQiWQevguiDbfOGmq5orfGp-lMulNDAHYaXL-aHh5M/https/i.imgur.com/tFp98Tp.png?width=31&height=31)*
 
