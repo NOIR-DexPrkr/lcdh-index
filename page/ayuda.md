@@ -16,11 +16,11 @@ Un lugar donde podrás pedir ayuda y apoyo profesional.
 ## ¿Cómo consigo mi chat consejeria gratis?
 
 Para poder pedir tu consejeria por chat anónimo necesitas entrar a nuestro discord donde podrás encontrar un canal con todos los pasos necesarios.     
-
-> *Puesto que esto es gratis, se agradece si sigues a nuestros psicólogos en sus redes sociales.*
-> *Links mas abajo.*
-> *Para que tú también los ayudes a crecer. Es lo único que se pedirá a cambio.*
-> *Incluso si no buscas ayuda, pero lees esto, tu follow ayudará a otros a recibir su consejeria gratis. 🤍*
+ 
+> *Puesto que esto es gratis, se agradece si sigues a nuestros psicólogos en sus redes sociales.*      
+> *Links mas abajo.*     
+> *Para que tú también los ayudes a crecer. Es lo único que se pedirá a cambio.*     
+> *Incluso si no buscas ayuda, pero lees esto, tu follow ayudará a otros a recibir su consejeria gratis. 🤍*     
   
 ## Conoce tus psicólogos
 
@@ -45,10 +45,8 @@ En proceso de agregar...
 
 ==- Alexis Vera
 En proceso de agregar...
-Al final de esta página encontrarás el link directo al discord donde hay información más detallada.
 
 ===
-
 
 Esas son las redes de nuestro psicólogo. El contacto por estas redes implica requerir sus servicios privados.    
 *Considera seguirlos en instagram o facebook para ayudarnos a seguir con las consejerias gratis.*
