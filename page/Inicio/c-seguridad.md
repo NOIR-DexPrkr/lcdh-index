@@ -71,13 +71,33 @@ También puedes usar **antivirus** para analizar archivos, es una opción bastan
 ---
 
 
-## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Navegar seguro
+## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Navegadores
 
-¿Te interesa navegar de manera segura en el Internet, y bloquear cualquier tipo de descarga sin autorización, páginas peligrosas, entre otro?
 
-Aquí te dejo el enlace a una **guía básica** sobre navegadores, extensiones, etc.
+¿Necesitas un navegador confiable y seguro, y/o uno cómodo y práctico? Aquí te dejamos navegadores recomendados para cada propósito.
 
-[!button icon="shield-check" variant="success" text="Navega seguro"](https://noiroom.tech/Tutoriales/navega-seguro)
+
+=== Microsoft Edge
+
+Este navegador viene de manera predeterminada en los PC con Windows, y utiliza pocos recursos a comparación de otros. Ofrece muchas opciones, en la cual destacamos la IA, la cual viene de forma nativa, y está en constante expansión, te puede facilitar tareas, pedir ayuda, etc. Complementando con extensiones, puede ser de los mejores navegadores.
+
+===
+
+=== Navegadores recomendados
+
+- Yandex
+
+    - Navegador ruso con mucha muchos ajustes y bastante seguridad contra amenazas.
+    
+- Brave
+
+    - Navegador confiable con muchas opciones incorporadas nativamente.
+
+- Firefox
+
+    - Navegador rápido y seguro que ofrece varias opciones.
+
+===
 
 
 ---
