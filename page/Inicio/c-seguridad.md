@@ -120,7 +120,7 @@ También puedes usar **antivirus** para analizar archivos, es una opción bastan
 ---
 
 
-## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Extensiones**
+## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Extensiones
 
 
 Utiliza estas extensiones para protegerte en Internet, o para navegar de manera cómoda. Sirve tanto en navegadores de PC como en navegadores de celular que admitan extensiones.
