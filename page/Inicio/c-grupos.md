@@ -114,7 +114,7 @@ En caso de que quieras escanear algún aporte, también debes tener cuidado con 
 Aquí te dejo una sección entera dedicada a la seguridad, para que puedas asegurar todas tus descargas o aportes. ![](https://images-ext-1.discordapp.net/external/4YQiWQevguiDbfOGmq5orfGp-lMulNDAHYaXL-aHh5M/https/i.imgur.com/tFp98Tp.png?width=31&height=31)
 
 
-[!button corners="pill" size="m" variant="contrast" icon="shield-check" text="Seguridad"](https://lcdh.tech/consejos/c-seguridad/)
+[!button corners="pill" size="m" variant="contrast" icon="shield-check" text="Seguridad"](https://lcdh.tech/inicio/c-seguridad/)
 
 
 ---
