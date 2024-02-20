@@ -77,9 +77,9 @@ También puedes usar **antivirus** para analizar archivos, es una opción bastan
 ¿Necesitas un navegador confiable y seguro, y/o uno cómodo y práctico? Aquí te dejamos navegadores recomendados para cada propósito.
 
 
-=== [Microsoft Edge](https://www.microsoft.com/es-es/edge/download?form=MA13FJ)
+=== Microsoft Edge
 
-Este navegador viene de manera predeterminada en los PC con Windows, y utiliza pocos recursos a comparación de otros. Ofrece muchas opciones, en la cual destacamos la IA, la cual viene de forma nativa, y está en constante expansión, te puede facilitar tareas, pedir ayuda, etc. Complementando con extensiones, puede ser de los mejores navegadores.
+[Edge]((https://www.microsoft.com/es-es/edge/download?form=MA13FJ)) viene de manera predeterminada en los PC con Windows, y utiliza pocos recursos a comparación de otros. Ofrece muchas opciones, en la cual destacamos la IA, la cual viene de forma nativa, y está en constante expansión, te puede facilitar tareas, pedir ayuda, etc. Complementando con extensiones, puede ser de los mejores navegadores.
 
 ===
 
@@ -98,6 +98,23 @@ Este navegador viene de manera predeterminada en los PC con Windows, y utiliza p
 
 
 ===
+
+
++++ Android
+
+- [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)
+    - Velocidad, protección y productividad, un navegador que acepta extensiones.
+- [Brave](https://play.google.com/store/apps/details?id=com.brave.browser) 
+    - Navega de manera segura con este navegador, la vieja confiable.
+
++++ iOS15+
+
+- [Orion Browser](https://apps.apple.com/cl/app/orion-browser-by-kagi/id1484498200)
+    - Velocidad, protección y productividad, un navegador que acepta extensiones.
+- [Brave](https://apps.apple.com/cl/app/brave-navegador-web-privado/id1052879175) 
+    - Navega de manera segura con este navegador, la vieja confiable.
+
++++
 
 
 ---
