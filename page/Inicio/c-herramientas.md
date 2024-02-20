@@ -19,10 +19,8 @@ order: 1970
 
 - [FDM](https://www.freedownloadmanager.org/)
     - Una de las mejores alternativas gratuitas para usar, incluye descargas de Torrents.
-    
 - [Mortix](https://motrix.app/)    
     - App de código abierto que incluye descargas de Torrents, y está disponible en Windows, Linux y MacOS.
-    
 - [Cobalt](https://cobalt.tools/)
     - De las mejores páginas para descargar videos, audios, etc.
 
@@ -30,7 +28,6 @@ order: 1970
 
 - [qBitTorrent](https://www.qbittorrent.org/)
     - La mejor alternativa en caso de que solo quieras descargar torrents.
-    
 - [Transmission](https://transmissionbt.com/)
     - Rápido y fácil de usar, otra alternativa para descargar torrents.
 
