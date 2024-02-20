@@ -91,12 +91,8 @@ Este navegador viene de manera predeterminada en los PC con Windows, y utiliza p
 
 - [Yandex](https://browser.yandex.com/?from=morda_icon_yandex_com&banerid=3401000000)
     - Navegador ruso con mucha muchos ajustes y bastante seguridad contra amenazas.
-    
-    
 - [Brave](https://brave.com/es/download/)
     - Navegador confiable con muchas opciones incorporadas nativamente.
-
-
 - [Firefox](https://www.mozilla.org/es-CL/firefox/new/)
     - Navegador rápido y seguro que ofrece varias opciones.
 
