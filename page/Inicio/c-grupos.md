@@ -10,9 +10,11 @@ order: 1990
 ---
 
 
-Presentamos esta sección del Index para explicar y dar a conocer determinados pasos a seguir a la hora de interactuar en los grupos. Te recordamos que en caso de no estar en nuestros grupos en las distintas plataformas, puedes hacerlo en cualquier momento.
+Presentamos esta sección del Index para explicar y dar a conocer determinados pasos a seguir a la hora de interactuar en los grupos. 
 
-{.callout}
+Te recordamos que en caso de no estar en nuestros grupos en las distintas plataformas, puedes hacerlo en cualquier momento.
+
+
 [!button corners="pill" icon="person" size="s" variant="contrast" text="Facebook"](https://www.facebook.com/groups/losconsejosdehomero/?ref=share) [!button corners="pill" size="s" icon="rocket" variant="contrast" text="Discord"](https://discord.gg/RaJEJPQYPb) [!button corners="pill" size="s" icon="paper-airplane" variant="contrast" text="Telegram"](https://t.me/LosConsejosDeHomeroGroup)
 
 
