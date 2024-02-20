@@ -17,7 +17,7 @@ links:
     link: https://www.facebook.com/groups/losconsejosdehomero/?ref=share
     target: blank
   - text: Discord
-    icon: rocket
+    icon: ..static/discord.svg
     link: https://discord.gg/RaJEJPQYPb
     target: blank
   - text: Telegram
