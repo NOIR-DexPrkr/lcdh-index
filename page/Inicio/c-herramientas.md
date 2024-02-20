@@ -75,6 +75,16 @@ Aquí te dejo el enlace a una **guía básica** sobre navegadores, extensiones, 
 ---
 
 
+## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Extensión de navegador**
+
+
+- [AdFly Skipper:](https://chromewebstore.google.com/detail/adfly-skipper/obnfifcganohemahpomajbhocfkdgmjb?pli=1)
+Quita esos molestos acortadores con esta extensión. Recuerda que en LCDH están prohibidos los acortadores monetarios.
+
+
+---
+
+
 ## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Adguard DNS
 
 
@@ -86,6 +96,4 @@ Sirve en la mayoría de dispositivos actuales, pruébalo.
 
 
 ---
-
-
 
