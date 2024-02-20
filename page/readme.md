@@ -11,7 +11,9 @@ order: 3000
 ![](https://i.postimg.cc/Tw1X6rmP/Proyecto-nuevo-27.png)
 
 
+:::content-center
 **Recopilación de archivos, aplicaciones y utilidades realizados por los miembros y el staff de LCDH.**
+:::
 
 
 ---
