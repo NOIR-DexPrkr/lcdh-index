@@ -77,7 +77,7 @@ También puedes usar **antivirus** para analizar archivos, es una opción bastan
 ¿Necesitas un navegador confiable y seguro, y/o uno cómodo y práctico? Aquí te dejamos navegadores recomendados para cada propósito.
 
 
-=== Microsoft Edge
+=== [Microsoft Edge](https://www.microsoft.com/es-es/edge/download?form=MA13FJ)
 
 Este navegador viene de manera predeterminada en los PC con Windows, y utiliza pocos recursos a comparación de otros. Ofrece muchas opciones, en la cual destacamos la IA, la cual viene de forma nativa, y está en constante expansión, te puede facilitar tareas, pedir ayuda, etc. Complementando con extensiones, puede ser de los mejores navegadores.
 
@@ -89,17 +89,17 @@ Este navegador viene de manera predeterminada en los PC con Windows, y utiliza p
 ¿Te preocupa más la protección de tus datos y la seguridad de navegar? Mira los siguientes navegadores.
 
 
-- Yandex
+- [Yandex](https://browser.yandex.com/?from=morda_icon_yandex_com&banerid=3401000000)
 
     - Navegador ruso con mucha muchos ajustes y bastante seguridad contra amenazas.
     
     
-- Brave
+- [Brave](https://brave.com/es/download/)
 
     - Navegador confiable con muchas opciones incorporadas nativamente.
 
 
-- Firefox
+- [Firefox](https://www.mozilla.org/es-CL/firefox/new/)
 
     - Navegador rápido y seguro que ofrece varias opciones.
 
