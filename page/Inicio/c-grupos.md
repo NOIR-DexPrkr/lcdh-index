@@ -10,9 +10,7 @@ order: 1990
 ---
 
 
-Presentamos esta sección del Index para explicar y dar a conocer determinados pasos a seguir a la hora de interactuar en los grupos.
-
-Te recordamos que en caso de no estar en nuestros grupos en las distintas plataformas, puedes hacerlo en cualquier momento.
+Presentamos esta sección del Index para explicar y dar a conocer determinados pasos a seguir a la hora de interactuar en los grupos. Te recordamos que en caso de no estar en nuestros grupos en las distintas plataformas, puedes hacerlo en cualquier momento.
 
 
 [!button corners="pill" icon="person" size="s" variant="contrast" text="Facebook"](https://www.facebook.com/groups/losconsejosdehomero/?ref=share) [!button corners="pill" size="s" icon="rocket" variant="contrast" text="Discord"](https://discord.gg/RaJEJPQYPb) [!button corners="pill" size="s" icon="paper-airplane" variant="contrast" text="Telegram"](https://t.me/LosConsejosDeHomeroGroup)
@@ -21,13 +19,11 @@ Te recordamos que en caso de no estar en nuestros grupos en las distintas plataf
 ---
 
 
-### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Código QR
+## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Código QR
 
-¿Ya sabías que QR significa ''Quick Response''? Un dato curioso que quizás no sabías.
+En esta sección te vamos a enseñar lo necesario sobre los QR, nuestra temática principal. Podrás aprender a crearlos, escanearlos, etc.
 
-En esta sección te vamos a enseñar todo lo que necesites saber sobre los códigos QR, ya sea para crearlos, escanearlos, etc.
-
-#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Escanearlos
+### Escanearlos
 
 
 +++ :icon-devices: Google Lens
@@ -64,7 +60,7 @@ Usa una aplicación externa para escanear QRs, aquí te la dejo para Android e i
 +++
 
 
-#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Crearlos
+### Crearlos
 
 
 Hay muchas opciones para crear QRs, incluso algunos navegadores, páginas, entre otros incluyen esta opción.
@@ -76,13 +72,13 @@ Dentro del grupo tenemos una página/app en específico la cual entrega muchas o
 
 ---
 
-### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Grupo de Facebook
+## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Grupo de Facebook
 
 
 Aquí te explicaremos lo necesario para que tu estancia en el grupo de Facebook de LCDH sea la mejor, tanto como para aportar, pedir, o como quieras tú.
 
 
-#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Plantillas para publicaciones
+### Plantillas para publicaciones
 
 Si quieres pedir, o aportar, será necesario **por obligación** hacer una imagen con la temática del grupo.
 
@@ -92,7 +88,7 @@ Ahora te vamos a compartir plantillas para que hagas tus propias imágenes. Recu
 [!button corners="pill" size="m" variant="contrast" icon="file-media" text="Plantillas"](https://www.canva.com/design/DAFmZx30iyU/OZucniH8GidVKTUG-zr4-A/view?utm_content=DAFmZx30iyU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview#1)   [!button corners="pill" size="m" variant="contrast" icon="file-media" text="Personajes"](https://drive.google.com/file/d/1ZdM-k-8SOfuU0YbsVortYoB5Fvkb9USP/view)
 
 
-#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Marcas de agua
+### Marcas de agua
 
 
 Al igual que la temática, necesitarás usar una de las marcas de agua para tus publicaciones. Las marcas de agua seguirán aumentando constantemente, para añadir más variedad. ![](https://images-ext-1.discordapp.net/external/4YQiWQevguiDbfOGmq5orfGp-lMulNDAHYaXL-aHh5M/https/i.imgur.com/tFp98Tp.png?width=31&height=31)
@@ -100,17 +96,15 @@ Al igual que la temática, necesitarás usar una de las marcas de agua para tus 
 [!button corners="pill" size="m" variant="contrast" icon="cloud" text="Descarga aquí"](https://drive.google.com/drive/folders/14fNuMKfZyf7YLLxVFnF345DnrfT8TZih?usp=drive_link)
 
 
-#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Enlaces
+### Enlaces
 
 
 Cualquier tipo de enlace está prohibido en el grupo, por lo que deberás usar solamente QR en caso de querer pedir, aportar, etc.
 
 En la sección de [creación de QRs](https://lcdh.tech/consejos/c-grupos/#crear-qrs) puedes aprender a hacerlo, en caso de que no sepas.
 
-![](https://i.postimg.cc/cHQd3PXb/Proyecto-nuevo-12.png)
 
-
-#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Aportes
+### Aportes
 
 
 Cuando vayas a crear un aporte, debes asegurarte de que esté **libre de virus**, y **sin ningún acortador monetario**. En caso de que contenga alguno de estos, serás baneado o suspendido.
