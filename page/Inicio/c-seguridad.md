@@ -205,10 +205,61 @@ Bloquea los anuncios de todos los dispositivos que quieras con una configuració
 - Toca Instalar y sigue las instrucciones en pantalla.
 
 
-+++ PC
++++ Windows
 
 
+- Ve al menú Inicio → Panel de control.
 
+
+- Selecciona Red e Internet.
+
+
+- Haz clic en Centro de redes y recursos compartidos.
+
+
+- En el panel izquierdo, selecciona Cambiar la configuración del adaptador.
+
+
+- Haz clic en la red Wi-Fi a la que está conectado.
+
+
+- En la barra de opciones, selecciona Cambiar la configuración de esta conexión. Si la opción está oculta, haz clic en el icono del cheurón.
+    - Como alternativa, haga clic con el botón derecho en el icono de la conexión y seleccione Propiedades.
+
+
+- Selecciona Protocolo de Internet versión 4 (TCP/IPv4).
+
+
+- Haz clic en Propiedades.
+
+
+- Selecciona Usar las siguientes direcciones del servidor DNS.
+
+
+- Introduce las direcciones de uno de los siguientes servidores como servidor DNS preferido y servidor DNS alternativo.
+
+    - Servidores predeterminados: 94.140.14.14 | 94.140.15.15
+
+    - Servidores de protección familiar: 94.140.14.15 | 94.140.15.16
+
+
+- Haz clic en Aceptar.
+
+
+- Selecciona Protocolo de Internet versión 6 (TCP/IPv6) y haga clic en Propiedades.
+
+
+- Selecciona Usar las siguientes direcciones de servidor DNS.
+
+
+- Introduce las direcciones de uno de los siguientes servidores como servidor DNS preferido y servidor DNS alternativo.
+
+    - Servidores predeterminados: 2a10:50c0::ad1:ff | 2a10:50c0::ad2:ff
+
+    - Servidores de protección familiar: 2a10:50c0::bad1:ff | 2a10:50c0::bad2:ff
+    
+
+- Haz clic en Aceptar.
 
 
 +++
