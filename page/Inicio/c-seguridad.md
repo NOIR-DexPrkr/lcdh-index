@@ -120,15 +120,49 @@ También puedes usar **antivirus** para analizar archivos, es una opción bastan
 ---
 
 
-## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Extensión de navegador**
+## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Extensiones**
 
 
-- [AdFly Skipper:](https://chromewebstore.google.com/detail/adfly-skipper/obnfifcganohemahpomajbhocfkdgmjb?pli=1)
-Quita esos molestos acortadores con esta extensión. Recuerda que en LCDH están prohibidos los acortadores monetarios.
+=== Protección
+
+- [uBlock Origin](https://github.com/gorhill/uBlock)
+    - La mejor extensión para bloquear anuncios, sirve en distintos navegadores.
+
+- [ClearURLs](https://docs.clearurls.xyz/1.23.0/#download)
+    - Extension que te protege del seguimiento de paginas y servicios.
+
+- [Safe To Open](https://safetoopen.com/)
+    - Protegete de enlaces maliciosos.
+
+- [Privacy Badger](https://privacybadger.org/)
+    - Protégete de los rastreadores invisibles.
+
+- [FastForward](https://fastforward.team/)
+    - Salta los acortadores molestosos y peligrosos.
+
+===
+
+=== Comodidad 
+
+- [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies)
+    - Esconde las alertas de cookies de todos los sitios webs.
+
+- [SponsorBlock para YouTube](https://sponsor.ajay.app/)
+    - Salta las promociones de los videos de youtube. Reporta las promociones de otros videos.
+
+- [Clickbait Remover para YouTube](https://github.com/pietervanheijningen/clickbait-remover-for-youtube)
+    - Reemplaza las miniaturas de todos los videos por un pequeño extracto del video. 
+
+- [Return YouTube Dislike](https://returnyoutubedislike.com/)
+    - Regresa el dislike a todos los videos de YouTube.
+
+- [Violentmonkey](https://violentmonkey.github.io/)
+    - Un administrador de scripts de código abierto.
+    
+===
 
 
 ---
-
 
 ## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Adguard DNS
 
