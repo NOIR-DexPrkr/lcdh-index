@@ -15,7 +15,7 @@ order: 1970
 ¿Necesitas un administrador de descargas confiable que te facilite todo este proceso? Aquí te dejamos una lista.
 
 
-=== Administrador de descargas
++++ Administrador de descargas
 
 - [FDM](https://www.freedownloadmanager.org/)
     - Una de las mejores alternativas gratuitas para usar, incluye descargas de Torrents.
@@ -24,14 +24,14 @@ order: 1970
 - [Cobalt](https://cobalt.tools/)
     - De las mejores páginas para descargar videos, audios, etc.
 
-=== Torrents
++++ Torrents
 
 - [qBitTorrent](https://www.qbittorrent.org/)
     - La mejor alternativa en caso de que solo quieras descargar torrents.
 - [Transmission](https://transmissionbt.com/)
     - Rápido y fácil de usar, otra alternativa para descargar torrents.
 
-===
++++
 
 
 ---
