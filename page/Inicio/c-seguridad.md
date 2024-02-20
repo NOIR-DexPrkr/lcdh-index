@@ -264,6 +264,18 @@ Bloquea los anuncios de todos los dispositivos que quieras con una configuració
 
 +++
 
+==- Otras opciones
+
+Si necesitas de esta protección en otros dispositivos inteligentes, visita esta página oficial de Adguard DNS, podrás ver los demás métodos.
+
+
+:::content-center
+[!button icon="shield-check" variant="contrast" text="Adguard DNS"](https://adguard-dns.io/es/public-dns.html)
+:::
+
+
+==- 
+
 
 ---
 
