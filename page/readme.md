@@ -42,6 +42,3 @@ order: 3000
 
 ---
 
-> El sitio esta en construcción constante, por lo tanto seguirán llegando más aportes.
->
->**Si necesitas algo más y no esta aqui, visitanos en el [Discord](https://discord.gg/RaJEJPQYPb).**
