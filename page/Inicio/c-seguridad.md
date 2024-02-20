@@ -25,7 +25,9 @@ Es una plataforma web de Google que reúne cientos de herramientas de antivirus 
 
 Cuenta con un **límite de 650mb** en caso de querer analizar un archivo. **El más recomendado y usado.**
 
-[!button icon="shield-check" variant="success" text="Ir a la web"](https://www.virustotal.com/gui/home/upload)
+:::content-center
+[!button icon="shield-check" variant="contrast" text="Ir a la web"](https://www.virustotal.com/gui/home/upload)
+:::
 
 
 +++ Hybrid Analisis
@@ -33,9 +35,11 @@ Cuenta con un **límite de 650mb** en caso de querer analizar un archivo. **El m
 
 Este es un servicio gratuito de análisis de malware en línea, y sirve para analizar muestras sospechosas con Falcon Sandbox, que se especializa en ejecutar malwares evasivos y avanzados.
 
-Cuenta con un **límite de 100mb** en caso de querer analizar un archivo. **Muestra también resultados de páginas como [VirusTotal](https://lcdh.tech/consejos/c-seguridad/#virustotal) o [MetaDefender](https://lcdh.tech/consejos/c-seguridad/#metadefender).**
+Cuenta con un **límite de 100mb** en caso de querer analizar un archivo. **Muestra también resultados de páginas como VirusTotal o MetaDefender.**
 
-[!button icon="shield-check" variant="success" text="Ir a la web"](https://www.hybrid-analysis.com/)
+:::content-center
+[!button icon="shield-check" variant="contrast" text="Ir a la web"](https://www.hybrid-analysis.com/)
+:::
 
 
 +++ MetaDefender
@@ -45,7 +49,11 @@ Es un servicio gratuito que permite un análisis en línea de archivos sospechos
 
 Cuenta con un **límite de 140mb** en caso de querer analizar un archivo.
 
-[!button icon="shield-check" variant="success" text="Ir a la web"](https://metadefender.opswat.com)
+
+:::content-center
+[!button icon="shield-check" variant="contrast" text="Ir a la web"](https://metadefender.opswat.com)
+:::
+
 
 +++
 
