@@ -18,19 +18,17 @@ order: 3000
 
 ---
 
-!!!success Encuentra todo en los menús
+!!!success Aprende a usar el index
 
-- **A la izquierda se encuentran las categorias de contenido**
+- **A la izquierda podrás encontrar las categorias de contenido**
 - **A la derecha el contenido de la pagina en que te encuentras.**
-- **Arriba a la derecha podras encontrar la lupa para buscar lo que necesites en todo el index.**
+- **Arriba a la derecha encontrarás la lupa para buscar dentro del index.**
 !!!
-
-**En caso de que no sepas cómo usar el index, mira el tutorial de abajo.**
 
 ---
 
 
-[!embed](https://www.youtube.com/watch?v=bSdQj4cgvCo&feature=youtu.be)
+[!embed text="Pequeño tutorial para que aprendas a usar el index"](https://www.youtube.com/watch?v=bSdQj4cgvCo&feature=youtu.be)
 
 
 ---
