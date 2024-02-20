@@ -123,6 +123,9 @@ También puedes usar **antivirus** para analizar archivos, es una opción bastan
 ## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Extensiones**
 
 
+Utiliza estas extensiones para protegerte en Internet, o para navegar de manera cómoda. Sirve tanto en navegadores de PC como en navegadores de celular que admitan extensiones.
+
+
 === Protección
 
 - [uBlock Origin](https://github.com/gorhill/uBlock)
@@ -158,14 +161,57 @@ También puedes usar **antivirus** para analizar archivos, es una opción bastan
 
 ---
 
-## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Adguard DNS
+## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Bloquear anuncios
+
+Bloquea los anuncios de todos los dispositivos que quieras con una configuración sencilla. Puedes hacerlo tanto en tus dispositivos móviles, televisiones, consolas, etc.
 
 
-Un tutorial para poder bloquear anuncios en el dispositivo que quieras, incluso consolas y Smart TV.
+### Adguard DNS
 
-Sirve en la mayoría de dispositivos actuales, pruébalo.
 
-[!button icon="shield-check" variant="success" text="Navega seguro"](https://noiroom.tech/Tutoriales/Adguard)
++++ Android9+
+
+
+- Ve a Configuración → Red e Internet (o Wi-Fi e Internet).
+
+
+- Selecciona Avanzado → DNS privado.
+
+
+- Selecciona el nombre de host del proveedor de DNS privado. Ingresa uno de los servidores a continuación:
+
+    - Servidor predeterminado: dns.adguard-dns.com
+
+    - Servidor de protección familiar: family.adguard-dns.com
+
+
++++ iOS15+
+
+
+- Descarga una de los siguientes perfiles:
+
+
+    - [Servidor predeterminado](https://github.com/NOIR-DexPrkr/dexco-files/raw/main/uploads/iOS%20cofig%20dns/adguard-dns.mobileconfig)
+    
+    - [Servidor de protección familiar](https://github.com/NOIR-DexPrkr/dexco-files/raw/main/uploads/iOS%20cofig%20dns/adguard-dns-family.mobileconfig)
+
+
+- Abre la aplicación Ajustes en tu dispositivo.
+
+
+- Toca Perfil Descargado.
+
+
+- Toca Instalar y sigue las instrucciones en pantalla.
+
+
++++ PC
+
+
+
+
+
++++
 
 
 ---
