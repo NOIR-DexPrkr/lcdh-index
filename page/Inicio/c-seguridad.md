@@ -86,6 +86,9 @@ Este navegador viene de manera predeterminada en los PC con Windows, y utiliza p
 === Navegadores recomendados
 
 
+¿Te preocupa más la protección de tus datos y la seguridad de navegar? Mira los siguientes navegadores.
+
+
 - Yandex
 
     - Navegador ruso con mucha muchos ajustes y bastante seguridad contra amenazas.
