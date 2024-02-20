@@ -85,17 +85,21 @@ Este navegador viene de manera predeterminada en los PC con Windows, y utiliza p
 
 === Navegadores recomendados
 
+
 - Yandex
 
     - Navegador ruso con mucha muchos ajustes y bastante seguridad contra amenazas.
+    
     
 - Brave
 
     - Navegador confiable con muchas opciones incorporadas nativamente.
 
+
 - Firefox
 
     - Navegador rápido y seguro que ofrece varias opciones.
+
 
 ===
 
