@@ -18,6 +18,18 @@ order: 3000
 
 ---
 
+!!!danger Index en construcción
+
+Si ves muchos cambios constantes, o incoherencias, es porque estoy remodelando el index.
+
+Te pido paciencia, muchas gracias. 
+
+
+- Pipe 
+!!!
+
+
+
 !!!success Aprende a usar el index
 
 - **A la izquierda podrás encontrar las categorias de contenido**
