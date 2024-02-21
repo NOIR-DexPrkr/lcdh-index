@@ -74,19 +74,19 @@ También puedes usar **antivirus** para analizar archivos, es una opción bastan
 ## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Navegadores
 
 
-¿Necesitas un navegador confiable y seguro, y/o uno cómodo y práctico? Aquí te dejamos navegadores recomendados para cada propósito.
+¿Necesitas un navegador confiable, seguro, y/o cómodo y práctico? Aquí te dejo navegadores recomendados para cada propósito.
 
 
 === Microsoft Edge
 
-[Edge]((https://www.microsoft.com/es-es/edge/download?form=MA13FJ)) viene de manera predeterminada en los PC con Windows, y utiliza pocos recursos a comparación de otros. Ofrece muchas opciones, en la cual destacamos la IA, la cual viene de forma nativa, y está en constante expansión, te puede facilitar tareas, pedir ayuda, etc. Complementando con extensiones, puede ser de los mejores navegadores.
+[Edge](https://www.microsoft.com/es-es/edge/download?form=MA13FJ) viene de manera predeterminada en PCs con Windows, y utiliza pocos recursos a comparación de otros. Ofrece muchas opciones, en la cual destacamos la IA, la que viene de forma nativa, y está en constante expansión, te puede facilitar tareas entre otras cosas. Complementando con extensiones, puede ser de los mejores navegadores.
 
 ===
 
 === Navegadores recomendados
 
 
-¿Te preocupa más la protección de tus datos y la seguridad de navegar? Mira los siguientes navegadores.
+¿Te preocupa más la protección de tus datos y la seguridad al navegar? Mira los siguientes navegadores.
 
 
 - [Yandex](https://browser.yandex.com/?from=morda_icon_yandex_com&banerid=3401000000)

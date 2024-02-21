@@ -36,6 +36,34 @@ order: 1970
 
 ---
 
+## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Almacenamiento
+
+
+En caso de que necesites almacenamiento en la nube, quieres compartir archivos, entre otros, aquí te dejo una lista de páginas o apps destinadas a eso.
+
+
++++ Almacenamiento
+
+El almacenamiento gratuito se mostrará al lado de la respectiva página.
+
+- [TeraBox](https://www.terabox.com/) [!badge 1TB]
+- [STORJ](https://www.storj.io/) [!badge 25GB]
+- [MEGA](https://mega.nz/) [!badge 20GB]
+- [Google Drive](https://drive.google.com/) [!badge 15GB]
+- [Filen.io](https://filen.io/) [!badge 10GB]
+- [P Cloud](https://www.pcloud.com/) [!badge 10GB]
+- [INTERNXT](https://internxt.com/) [!badge 10GB]
+- [Ice Drive](https://icedrive.net/) [!badge 10GB]
+- [One Drive](https://onedrive.live.com/) [!badge 5GB]
+- [Yandex Disk](https://disk.yandex.com/) [!badge 5GB]
+- [Dropbox](https://www.dropbox.com/) [!badge 2GB]
+- [Proton Drive](https://proton.me/drive) [!badge 1GB]
+
++++
+
+
+
+
 
 
 
