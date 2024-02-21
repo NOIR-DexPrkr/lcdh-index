@@ -22,10 +22,10 @@ order: 3000
 
 Si ves muchos cambios constantes, o incoherencias, es porque estoy remodelando el index.
 
-Te pido paciencia, muchas gracias. 
+Te pido paciencia, es un trabajo tardado pero valdrá la pena, muchas gracias. 
 
 
-- Pipe 
+- Pipe. ![](https://images-ext-1.discordapp.net/external/4YQiWQevguiDbfOGmq5orfGp-lMulNDAHYaXL-aHh5M/https/i.imgur.com/tFp98Tp.png?width=31&height=31)
 !!!
 
 
