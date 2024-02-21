@@ -46,18 +46,18 @@ En caso de que necesites almacenamiento en la nube, quieres compartir archivos, 
 
 El almacenamiento gratuito se mostrará al lado de la respectiva página.
 
-- [TeraBox](https://www.terabox.com/) [!badge 1TB]
-- [STORJ](https://www.storj.io/) [!badge 25GB]
-- [MEGA](https://mega.nz/) [!badge 20GB]
-- [Google Drive](https://drive.google.com/) [!badge 15GB]
-- [Filen.io](https://filen.io/) [!badge 10GB]
-- [P Cloud](https://www.pcloud.com/) [!badge 10GB]
-- [INTERNXT](https://internxt.com/) [!badge 10GB]
-- [Ice Drive](https://icedrive.net/) [!badge 10GB]
-- [One Drive](https://onedrive.live.com/) [!badge 5GB]
-- [Yandex Disk](https://disk.yandex.com/) [!badge 5GB]
-- [Dropbox](https://www.dropbox.com/) [!badge 2GB]
-- [Proton Drive](https://proton.me/drive) [!badge 1GB]
+- [TeraBox](https://www.terabox.com/) [!badge size="m" text="1TB"]
+- [STORJ](https://www.storj.io/) [!badge size="m" text="25GB"]
+- [MEGA](https://mega.nz/) [!badge size="m" text="20GB"]
+- [Google Drive](https://drive.google.com/) [!badge size="m" text="15GB"]
+- [Filen.io](https://filen.io/) [!badge size="m" text="10GB"]
+- [P Cloud](https://www.pcloud.com/) [!badge size="m" text="10GB"]
+- [INTERNXT](https://internxt.com/) [!badge size="m" text="10GB"]
+- [Ice Drive](https://icedrive.net/) [!badge size="m" text="10GB"]
+- [One Drive](https://onedrive.live.com/) [!badge size="m" text="5GB"]
+- [Yandex Disk](https://disk.yandex.com/) [!badge size="m" text="5GB"]
+- [Dropbox](https://www.dropbox.com/) [!badge size="m" text="2GB"]
+- [Proton Drive](https://proton.me/drive) [!badge size="m" text="1GB"]
 
 +++
 
