@@ -1,8 +1,8 @@
 ---
-label: Utilidades
-icon: code-of-conduct
+label: Inteligencia Artificial
+icon: cpu
 layout: default
-order: 1870
+order: 1300
 ---
 
 
