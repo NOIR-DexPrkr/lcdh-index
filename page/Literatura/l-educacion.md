@@ -2,7 +2,7 @@
 label: Educación
 icon: mortar-board
 layout: default
-order: 1880
+order: 1790
 ---
 
 
