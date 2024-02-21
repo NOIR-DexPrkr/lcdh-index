@@ -100,7 +100,7 @@ También puedes usar **antivirus** para analizar archivos, es una opción bastan
 ===
 
 
-+++ Android
++++ Android8+
 
 - [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)
     - Velocidad, protección y productividad, un navegador que acepta extensiones.
