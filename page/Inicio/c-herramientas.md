@@ -74,52 +74,52 @@ Páginas para que descarguen tus archivos. Algunos se expiran después de un tie
 ---
 
 
-## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Páginas**
+## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Páginas
 
 
 Páginas útiles para distintas funciones.
 
 
-- [Nitter:](https://nitter.1d4.us/)
+- [Nitter](https://nitter.1d4.us/)
     - ¿Quieres usar Twitter, pero no quieres iniciar sesión? Con esta página puedes hacerlo.
-- [Yandex:](https://yandex.com/)
+- [Yandex](https://yandex.com/)
     - ¿No sabes de dónde proviene una foto, video, o necesitas otras herramientas? Yandex es un buscador que te permite eso y mucho más.
-- [TempMail:](https://temp-mail.org/es/)
+- [TempMail](https://temp-mail.org/es/)
     - Ahorrate el correo basura, y también protege el tuyo. Usa los correos temporales de esta página.
-- [FaceCheck:](https://facecheck.id/es)
+- [FaceCheck](https://facecheck.id/es)
     - Reconoce caras a través de una sola foto. Tiene efectividad de 85%.
-- [Remove BG:](https://www.remove.bg/es)
+- [Remove BG](https://www.remove.bg/es)
     - Tal cual dice su nombre, elimina el fondo de la imagen que quieras.
-- [Fast:](https://fast.com/es/)
+- [Fast](https://fast.com/es/)
     - Ve la velocidad de tu Internet con esta página.
-- [Wayback Machine:](https://web.archive.org/)
+- [Wayback Machine](https://web.archive.org/)
     - La mítica página para poder ver el pasado mientras tengas el link del lugar.
-- [Kemono:](https://kemono.party/artists) :icon-alert:
+- [Kemono](https://kemono.party/artists) :icon-alert:
     - Con está página podrás ver contenido de Patreon u otras páginas de tus artistas favoritos.
 
 
 ---
 
 
-## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Bots de Telegram**
+## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Bots de Telegram
 
 
 Bots útiles para distintas funciones.
 
 
-- [AlertBot:](https://t.me/AlertBot)
+- [AlertBot](https://t.me/AlertBot)
     - Te permite crear alertas y alarmas simples.
-- [Deezload:](https://t.me/deezload2bot)
+- [Deezload](https://t.me/deezload2bot)
     - Te permite descargar música en formato `mp3 y flac`, con metadatos.
-- [PDFBot:](https://t.me/pdfbot)
+- [PDFBot](https://t.me/pdfbot)
     - Te permite hacer gran variedad de cosas referente a archivos PDF, pruébalo.
-- [TextTSBot:](https://t.me/TextTSBot)
+- [TextTSBot](https://t.me/TextTSBot)
     - Te permite convertir de texto a voz, como un loquendo. Saluda a Marulete.
 - [VirusTotalBot](https://t.me/VirusTotalAV_bot)
     - Te permite analizar archivos de hasta 320mb.
 - [Wiki](https://t.me/wiki)
     - Te permite ver artículos de Wikipedia en el chat que quieras.
-- [YoutubeDownloader:](https://t.me/youtubedownload3r_robot)
+- [YoutubeDownloader](https://t.me/youtubedownload3r_robot)
     - Te permite descargar videos de YouTube en distintos formatos.
 
 
