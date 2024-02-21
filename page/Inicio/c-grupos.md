@@ -84,25 +84,30 @@ Dentro del grupo tenemos una página/app en específico la cual entrega muchas o
 Aquí te explicaremos lo necesario para que tu estancia en el grupo de Facebook de LCDH sea la mejor, tanto como para aportar, pedir, o como quieras tú.
 
 
-### Plantillas para publicaciones
+=== Plantillas para publicaciones
 
 Si quieres pedir, o aportar, será necesario **por obligación** hacer una imagen con la temática del grupo.
 
 Ahora te vamos a compartir plantillas para que hagas tus propias imágenes. Recuerda que no es necesario que uses de estas plantillas, puedes hacer las imágenes como quieras, mientras **sean con la temática del grupo**, y que **no contengan personajes o imagenes en general que puedan contener copyright**.
 
 
+:::content-center
 [!button corners="pill" size="m" variant="contrast" icon="file-media" text="Plantillas"](https://www.canva.com/design/DAFmZx30iyU/OZucniH8GidVKTUG-zr4-A/view?utm_content=DAFmZx30iyU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview#1)   [!button corners="pill" size="m" variant="contrast" icon="file-media" text="Personajes"](https://drive.google.com/file/d/1ZdM-k-8SOfuU0YbsVortYoB5Fvkb9USP/view)
+:::
 
 
-### Marcas de agua
+=== Marcas de agua
 
 
 Al igual que la temática, necesitarás usar una de las marcas de agua para tus publicaciones. Las marcas de agua seguirán aumentando constantemente, para añadir más variedad. ![](https://images-ext-1.discordapp.net/external/4YQiWQevguiDbfOGmq5orfGp-lMulNDAHYaXL-aHh5M/https/i.imgur.com/tFp98Tp.png?width=31&height=31)
 
+
+:::content-center
 [!button corners="pill" size="m" variant="contrast" icon="cloud" text="Descarga aquí"](https://drive.google.com/drive/folders/14fNuMKfZyf7YLLxVFnF345DnrfT8TZih?usp=drive_link)
+:::
 
 
-### Enlaces
+=== Enlaces
 
 
 Cualquier tipo de enlace está prohibido en el grupo, por lo que deberás usar solamente QR en caso de querer pedir, aportar, etc.
@@ -110,7 +115,7 @@ Cualquier tipo de enlace está prohibido en el grupo, por lo que deberás usar s
 En la sección de [creación de QRs](https://lcdh.tech/consejos/c-grupos/#crear-qrs) puedes aprender a hacerlo, en caso de que no sepas.
 
 
-### Aportes
+=== Aportes
 
 
 Cuando vayas a crear un aporte, debes asegurarte de que esté **libre de virus**, y **sin ningún acortador monetario**. En caso de que contenga alguno de estos, serás baneado o suspendido.
@@ -120,7 +125,12 @@ En caso de que quieras escanear algún aporte, también debes tener cuidado con 
 Aquí te dejo una sección entera dedicada a la seguridad, para que puedas asegurar todas tus descargas o aportes. ![](https://images-ext-1.discordapp.net/external/4YQiWQevguiDbfOGmq5orfGp-lMulNDAHYaXL-aHh5M/https/i.imgur.com/tFp98Tp.png?width=31&height=31)
 
 
+:::content-center
 [!button corners="pill" size="m" variant="contrast" icon="shield-check" text="Seguridad"](https://lcdh.tech/inicio/c-seguridad/)
+:::
+
+
+===
 
 
 ---
