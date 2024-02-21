@@ -50,17 +50,25 @@ El almacenamiento gratuito se mostrará al lado de la respectiva página.
 - [STORJ](https://www.storj.io/) [!badge size="xs" text="25GB"]
 - [MEGA](https://mega.nz/) [!badge size="xs" text="20GB"]
 - [Google Drive](https://drive.google.com/) [!badge size="xs" text="15GB"]
-- [Filen.io](https://filen.io/) [!badge size="xs" text="10GB"]
-- [P Cloud](https://www.pcloud.com/) [!badge size="xs" text="10GB"]
-- [INTERNXT](https://internxt.com/) [!badge size="xs" text="10GB"]
 - [Ice Drive](https://icedrive.net/) [!badge size="xs" text="10GB"]
 - [One Drive](https://onedrive.live.com/) [!badge size="xs" text="5GB"]
 - [Yandex Disk](https://disk.yandex.com/) [!badge size="xs" text="5GB"]
 - [Dropbox](https://www.dropbox.com/) [!badge size="xs" text="2GB"]
 - [Proton Drive](https://proton.me/drive) [!badge size="xs" text="1GB"]
 
-+++
++++ Alojar
 
+Páginas para que descarguen tus archivos. Algunos se expiran después de un tiempo de inactividad (última descarga).
+
+- [Mediafire](https://www.mediafire.com/)
+- [Fireload](https://www.fireload.com/)
+- [Doodrive](https://doodrive.com/)
+- [Kraken Files](https://krakenfiles.com/) [!badge size="xs" text="90 días"]
+- [Pixel Drain](https://pixeldrain.com/) [!badge size="xs" text="60 días"]
+- [MixDrop](https://mixdrop.co/) [!badge size="xs" text="60 días"]
+- [Media.cm](https://media.cm/) [!badge size="xs" text="Infinito, solo videos."]
+
++++
 
 
 
