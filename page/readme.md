@@ -47,9 +47,10 @@ Te pido paciencia, es un trabajo tardado pero valdrá la pena, muchas gracias.
 
 !!!info Con mucho cariño, hecho por:
 
+[Pipe:](https://rentry.co/8xrygz) Editor, encargado y co-creador del Index
+
 [Dex Parker:](https://rentry.co/links-noir-room) Creador del Index
 
-[Pipe:](https://rentry.co/8xrygz) Co-creador y encargado del Index
 !!!
 
 ---
