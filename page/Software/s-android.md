@@ -11,19 +11,6 @@ order: 1587
 
 ---
 
-
-!!!success Buscador de aplicaciones por Dex
-
-*Busca juegos y apps full e incluso con mods*
-
-[!button icon="codescan-checkmark" text="Juegos"](https://cse.google.com/cse?cx=660831ba151944e87)
-!!!
-
-![](https://i.postimg.cc/T1sVghLM/Proyecto-nuevo-18.png)
-
-
----
-
 ### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Sitios para buscar APKs
 
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) APKs limpias
@@ -198,65 +185,6 @@ Podrás encontrar apps como Deezer, BlackHole, Musify, etc.
 ==-
 
 
-
-
-
 ---
 
-
-### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Juegos
-
-
-#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) **Individuales**
-
-
-- [VA-11 HALL-A:](https://www.mediafire.com/download/m0h0pmmolh5iun4) Un videojuego de simulación independiente de bartender con elementos visuales novedosos. Véase también su [versión de PC](https://lcdh.tech/escritorio/e-juegos/#individuales).
-
-
-- [To the moon:](https://www.mediafire.com/file/3lit8u9uw1278yl/To_the_moon.zip/file) Trata sobre dos médicos que viajan a través de los recuerdos de un moribundo para cumplir su último deseo.
-
-
-- [Life is Strange:](https://www.mediafire.com/file/b4eha3bnbb2m1xm/Life_Is_Strange_%28Android_Full%29.zip/file) Una estudiante de fotografía descubre que tiene el poder de viajar a través del tiempo, logrando rebobinar hacia atrás y produciendo un efecto mariposa que permite cambiar el presente.
-
-
-
-- [Life is Strange: Before the Storm:](https://www.mediafire.com/file/g3xpy66t2bl8n4j/Life_Is_Strange_Before_The_Storm_%28Android_Full%29.zip/file) Tres años antes de Life is Strange, Chloe Price, una adolescente rebelde que entabla una inesperada amistad con Rachel Amber, una chica guapa y popular destinada al éxito.
-
-
-- [Bully Anniversary Edition](https://www.mediafire.com/file/0j2hmyq7hgb2uqn/Bully_Anniversary_Edition_2022.zip/file) Jimmy Hopkins, un adolescente expulsado de todos los colegios a los que ha asistido.
-
-
-#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) **Colecciones**
-
-
-- [Todos los juegos FNAF](https://drive.google.com/file/d/13ZNJB38Ju9PgS5AKIgz87nJQwhFKOy9O/view)
-
-
-- [Todos los Geometry Dash](https://www.mediafire.com/folder/2mlch9f3mnjix/Geometry+dash)
-
-
-- [Colección de Metal Slug](https://www.mediafire.com/file/z6hcwdwnq1ymsjd/Metal+Pack_4.1_Apkpure.apk/file)
-
-
-- [Colección de Papa Louie](https://www.mediafire.com/file/o3xflyd4jmsrzmu/Papa+Louie+To+Go.zip)
-
-
-- [Colección de Sonic - DS](https://drive.google.com/file/d/1ekz-JUH1pr0jL19i_yrCoTxAYkfM3ZDQ/view)
-
-
-- [Colección de GTA](https://noiroom.tech/Escritorio/e-juegos#coleccion-gta)
-
-
-- Plantas vs Zombies: [Original Completo](https://www.mediafire.com/file/gvr0e59pktq23zk/Plantas+contra+Zombis_8.1.0.apk/file) / [2 mod](https://an1.com/182-plants-vs-zombies-2-pvz-mod.html) /  [2: Chino](https://archive.org/download/plants-vs.-zombies-2-chinese-edition-mod-apk-archive/Plants%20vs.%20Zombies%202%20Chinese%20Edition_2.2.5%20MOD.apk) / [2: Reflourished](https://drive.google.com/drive/folders/1y5lVZh-flKWxpeXSFYJprzJlL4Jlcfm4)
-
-
----
-
-### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Emuladores**
-
-
-- [Listado de emuladores por Gaby:](https://docs.google.com/document/d/1iAedTOKZMLvX52HpPsUdbStbrNfzFSDeAwABn-1Cs_Y/edit) Emuladores recomendados por Gaby, para distintas consolas de la generación que quieras.
-
-
-- *En construcción... ![](https://images-ext-1.discordapp.net/external/4YQiWQevguiDbfOGmq5orfGp-lMulNDAHYaXL-aHh5M/https/i.imgur.com/tFp98Tp.png?width=31&height=31)*
 
