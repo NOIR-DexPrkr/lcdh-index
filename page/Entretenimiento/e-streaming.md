@@ -101,6 +101,7 @@ Te recomiendo que para cualquier página que vayas a usar, utiliza [extensiones]
 
 +++ Inglés
 
+Te recomiendo que para cualquier página que vayas a usar, utiliza [extensiones](https://lcdh.tech/inicio/i-seguridad/#extensiones) o [dns público](https://lcdh.tech/inicio/i-seguridad/#adguard-dns) para bloquear anuncios y páginas emergentes.
 
 - [AniWave](https://aniwave.to/)
     - Anime con sub en inglés.
