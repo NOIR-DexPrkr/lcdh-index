@@ -24,7 +24,7 @@ order: 1880
 - [Free MP3 Download](https://free-mp3-download.net/)
     - Descarga 320kbps MP3 y FLAC, gratuitamente.
 - [doubledouble.top](https://doubledouble.top/)
-    - Descarga directmamente de plataformas de streaming.
+    - Descarga directamente de plataformas de streaming.
 - [Song Lover](https://songslover.vip/)
     - Descarga álbumes completos en HQ y FLAC.
 - [Soulseek](http://www.slsknet.org/news/)
