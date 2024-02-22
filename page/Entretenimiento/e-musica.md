@@ -11,113 +11,46 @@ order: 1880
 
 ---
 
-¿Buscas música? aquí tienes música
+
+¿Quieres reproducir, descargar, o descubrir música? Esta sección es la indicada para ti, podrás descargar música en la calidad que desees, o en caso de que te sientas estancado escuchando lo mismo todos los días, podrás descubrir nueva música.
 
 
-[!embed](https://www.youtube.com/watch?v=Bm5iA4Zupek)
+## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Descargar
 
 
+=== Gratuito y sin cuentas
 
-Look at ya, look at ya, look at ya, look at ya
-Look at ya, look at ya, look at ya, look at ya
-Look at ya, look at ya, look at ya, look at ya
-Look at ya, look at ya (ladies and gentlemen)
-Look at ya, look at ya (ladies, ladies and gentlemen)
-And I always find, yeah, I always find somethin' wrong
-You been puttin' up wit' my shit just way too long
-I'm so gifted at findin' what I don't like the most
-So I think it's time (so I think it's time)
-For us to have a toast
-Let's have a toast for the douche bags
-Let's have a toast for the assholes
-Let's have a toast for the scumbags
-Every one of them that I know
-Let's have a toast for the jerk offs
-That'll never take work off
-Baby, I got a plan
-Run away fast as you can
-She find pictures in my email
-I sent this bitch a picture of my dick
-I don't know what it is with females
-But I'm not too good at that shit
-See, I could have me a good girl
-And still be addicted to them hood rats
-And I just blame everything on you
-At least you know that's what I'm good at
-And I always find
-Yeah, I always find
-Yeah, I always find somethin' wrong
-You been puttin' up wit' my shit just way too long
-I'm so gifted at findin' what I don't like the most
-So I think it's time (so I think it's time)
-For us to have a toast
-Let's have a toast for the douche bags
-Let's have a toast for the assholes
-Let's have a toast for the scumbags
-Every one of them that I know
-Let's have a toast for the jerk offs
-That'll never take work off
-Baby, I got a plan
-Run away fast as you can
-Run away from me, baby
-Run away
-Run away from me, baby
-Run away
-When it starts to get crazy, then run away
-Babe, I got a plan, run away as fast as you can
-Run away from me, baby
-Run away
-Run away from me, baby
-Run away
-When it starts to get crazy
-Why can't she just run away?
-Baby, I got a plan
-Run away as fast as you can
-Twenty-four seven, three sixty-five
-Pussy stays on my mind
-I-I-I-I did it
-Alright, alright, I admit it
-Now pick your next move
-You can leave or live wit' it
-Ichabod Crane with that mothafuckin' top off
-Split and go where?
-Back to wearin' knockoffs? Haha
-Knock it off, Neiman's, shop it off
-Let's talk over mai tais, waitress, top it off
-Hoes like vultures, wanna fly in your Freddy loafers
-You can't blame 'em, they ain't never seen Versace sofas
-Every bag, every blouse, every bracelet
-Comes with a price tag, baby, face it
-You should leave if you can't accept the basics
-Plenty hoes in the baller-nigga matrix
-Invisibly set, the Rolex is faceless
-I'm just young, rich, and tasteless
-P
-Never was much of a romantic
-I could never take the intimacy
-And I know it did damage
-'Cause the look in your eyes is killin' me
-I guess then you at an advantage
-'Cause you could blame me for everything
-And I don't know how I'ma manage
-If one day you just up and leave
-And I always find, yeah, I always find somethin' wrong
-You been puttin' up wit' my shit just way too long
-I'm so gifted at findin' what I don't like the most
-So I think it's time (so I think it's time)
-For us to have a toast
-Let's have a toast for the douche bags
-Let's have a toast for the assholes
-Let's have a toast for the scumbags
-Every one of them that I know
-Let's have a toast for the jerk offs
-That'll never take work off
-Baby, I got a plan
-Run away fast as you can
+
+- [Free MP3 Download](https://free-mp3-download.net/)
+    - Descarga 320kbps MP3 y FLAC, gratuitamente.
+- [doubledouble.top](https://doubledouble.top/)
+    - Descarga directmamente de plataformas de streaming.
+- [Song Lover](https://songslover.vip/)
+    - Descarga álbumes completos en HQ y FLAC.
+- [Soulseek](http://www.slsknet.org/news/)
+    - P2P, libre de anuncios, spywares, etc. Intercambio de archivos.
+    
+
+=== Necesita cuenta gratis o de paga
+
+
+- [Zotify](https://zotify.xyz/zotify/zotify)
+    - Un personalizable descargador de música y podcast.
+- [Tidal-DL](https://github.com/yaronzz/Tidal-Media-Downloader)
+    - Aplicación que te permite descargar vídeos y pistas de Tidal.
+- [Deemix](https://archive.org/details/deemix)
+    - Descarga música en mp3 desde Deezer.
+- [d-fi](https://notabug.org/sayem314/d-fi)
+    - Programa para descargar música desde streaming.
+
+===
+
+---
 
 
 
-!!!danger jiji bromita
 
-(estoy construyendo todo esto, no está terminado)
-!!!
+
+
+
+
