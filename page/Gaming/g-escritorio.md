@@ -1,6 +1,6 @@
 ---
 label: Escritorio
-icon: sparkle-fill
+icon: device-desktop
 layout: default
 order: 1690
 ---

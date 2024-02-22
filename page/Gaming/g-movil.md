@@ -1,6 +1,6 @@
 ---
 label: Móvil
-icon: dependabot
+icon: device-mobile
 layout: default
 order: 1680
 ---

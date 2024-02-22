@@ -1,6 +1,6 @@
 ---
 label: Emuladores
-icon: dependabot
+icon: trophy
 layout: default
 order: 1670
 ---
