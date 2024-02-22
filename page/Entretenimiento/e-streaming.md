@@ -18,7 +18,7 @@ Te presentamos esta sección para que puedas ver tus series y películas favorit
 
 +++ Español
 
-Te recomiendo que para cualquier página que vayas a usar, utiliza [extensiones](https://lcdh.tech/inicio/i-seguridad/#extensiones) o [dns público](https://lcdh.tech/inicio/i-seguridad/#adguard-dns) para bloquear anuncios y páginas emergentes.
+Te recomiendo que para cualquier página que vayas a usar, utiliza [extensiones](https://lcdh.tech/inicio/i-seguridad/#extensiones) y/o [dns público](https://lcdh.tech/inicio/i-seguridad/#adguard-dns) para bloquear anuncios y páginas emergentes.
 
 
 - [Cuevana 2](https://www.cuevana2espanol.net/)
@@ -101,7 +101,7 @@ Te recomiendo que para cualquier página que vayas a usar, utiliza [extensiones]
 
 +++ Inglés
 
-Te recomiendo que para cualquier página que vayas a usar, utiliza [extensiones](https://lcdh.tech/inicio/i-seguridad/#extensiones) o [dns público](https://lcdh.tech/inicio/i-seguridad/#adguard-dns) para bloquear anuncios y páginas emergentes.
+Te recomiendo que para cualquier página que vayas a usar, utiliza [extensiones](https://lcdh.tech/inicio/i-seguridad/#extensiones) y/o [dns público](https://lcdh.tech/inicio/i-seguridad/#adguard-dns) para bloquear anuncios y páginas emergentes.
 
 - [AniWave](https://aniwave.to/)
     - Anime con sub en inglés.
