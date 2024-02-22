@@ -17,7 +17,7 @@ order: 1690
 [!button icon="codescan-checkmark" text="Juegos"](https://tiny.cc/noirpc)
 !!!
 
-![](https://i.postimg.cc/0rgtHzb7/juegosaqui.png)
+![](https://i.postimg.cc/J0GrQ4FN/JUEGOSJUEGOS.png)
 
 ---
 

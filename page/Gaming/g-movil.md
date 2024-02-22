@@ -17,7 +17,7 @@ order: 1680
 [!button icon="codescan-checkmark" text="Juegos"](https://cse.google.com/cse?cx=660831ba151944e87)
 !!!
 
-![](https://i.postimg.cc/0rgtHzb7/juegosaqui.png)
+![](https://i.postimg.cc/J0GrQ4FN/JUEGOSJUEGOS.png)
 
 
 ---
