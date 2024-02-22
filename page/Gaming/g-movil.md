@@ -10,7 +10,7 @@ order: 1680
 ---
 
 
-!!!success Buscador de aplicaciones por Dex
+!!!success Buscador de juegos por Dex
 
 *Busca aquí juegos para Android*
 

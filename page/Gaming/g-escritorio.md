@@ -10,7 +10,7 @@ order: 1690
 ---
 
 
-!!!success **Buscador de juegos por Dex**
+!!!success Buscador de juegos por Dex
 
 *Busca aquí juegos para PC*
 
