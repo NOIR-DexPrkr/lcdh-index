@@ -1,6 +1,6 @@
 ---
-label: Música
-icon: unmute
+label: Cómic
+icon: image
 layout: default
 order: 1880
 ---
