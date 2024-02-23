@@ -1,6 +1,6 @@
 ---
 label: Colecciones
-icon: dependabot
+icon: database
 layout: default
 order: 1660
 ---

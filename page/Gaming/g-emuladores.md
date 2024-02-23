@@ -1,6 +1,6 @@
 ---
 label: Emuladores
-icon: trophy
+icon: copilot
 layout: default
 order: 1670
 ---
