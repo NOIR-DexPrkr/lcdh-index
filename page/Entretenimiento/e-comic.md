@@ -38,8 +38,26 @@ En caso de que quieras leer historietas/cómics, aquí te dejamos una selección
     - Más cómics clásicos.
 
 
-+++
++++ Inglés
 
+
+- [Comic Search Engine](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)
+    - Buscador de cómics en inglés.
+- [ReadComicOnline](https://readcomiconline.li/)
+    - Variedad de cómics en inglés.
+- [GetComics](https://getcomics.info/)
+    - Variedad de cómics en inglés.
+- [Comick](https://comick.app/home)
+    - Variedad de cómics en inglés.
+- [XoxoComics](https://xoxocomics.com/)
+    - Variedad de cómics en inglés
+- [ComicExtra](https://www.comicextra.com/)
+    - Variedad de cómics en inglés.
+- [Comics All](https://comics-all.com/)
+    - Variedad de cómics en inglés.
+
+
++++
 
 ---
 
