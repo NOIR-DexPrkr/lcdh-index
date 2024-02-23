@@ -2,7 +2,7 @@
 label: Emuladores
 icon: copilot
 layout: default
-order: 1670
+order: 1660
 ---
 
 # ![](https://i.postimg.cc/rpYCd6Vb/emuladores.png)

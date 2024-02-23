@@ -2,7 +2,7 @@
 label: Colecciones
 icon: database
 layout: default
-order: 1660
+order: 1670
 ---
 
 # ![](https://i.postimg.cc/xCKgJxXS/colecciones.png)
