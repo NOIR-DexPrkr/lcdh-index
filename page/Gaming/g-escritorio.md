@@ -19,7 +19,9 @@ order: 1680
 
 ![](https://i.postimg.cc/J0GrQ4FN/JUEGOSJUEGOS.png)
 
+
 ---
+
 
 !!! Archivos no analizados
 
@@ -30,9 +32,11 @@ Algunos de ellos no están analizados por el actual staff de LCDH, pero lo estar
 Los archivos no analizados tendrán el siguiente icono: :icon-shield:
 !!!
 
+
 ---
 
-## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Juegos**
+
+## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Juegos
 
 
 ### Individuales
@@ -101,5 +105,12 @@ Los archivos no analizados tendrán el siguiente icono: :icon-shield:
 - [Katana Zero](https://www.mediafire.com/file/2yygjyqarf3ainp/KTN0_by_BlizzBoyGames.rar/file) :icon-shield: 
     - Juego de acción y plataformas neo-noir rebosante de personalidad, acción vertiginosa y combates de muerte instantánea.
 
+
+---
+
+!!!danger NO DESCARGUES JUEGOS DE ESTOS SITIOS
+
+Apunkagames, gamedrive.org, IGG Games / PC Games Torrents, BBRepacks, LoadGames, OceanOfGames, nosTEAM, xGIROx, Seyter, SteamUnlocked / GOG Unlocked, CorePack, cracked-games, crackingpatching, RepackGames, Qoob, Pirate Bay, Kickass Torrents, y Downloadly.
+!!!
 
 ---

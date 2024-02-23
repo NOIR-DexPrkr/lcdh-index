@@ -23,6 +23,47 @@ order: 1690
 ---
 
 
+## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) APKS
+
+¿Estás buscando alguna aplicación modificada o no? Revisa estas páginas.
+
+
+=== Limpias
+
+
+- [APK Mirror:](https://www.apkmirror.com/) 
+Encuentra betas y versiones pasadas de aplicaciones y juegos.
+
+
+- [ApkPure:](https://m.apkpure.com/es/)
+Encuentra betas y versiones pasadas de aplicaciones y juegos. **Algunas apps de paga se pueden encontrar aquí.**
+
+
+=== Modificadas
+
+
+- [RockMods:](https://www.rockmods.net/)
+Aplicaciones modificadas y de paga.
+
+
+- [ModYolo:](https://modyolo.com/)
+Aplicaciones y juegos modificados y de paga.
+
+
+- [RexDL:](https://rexdl.com/)
+Aplicaciones y juegos modificados y de paga.
+
+
+- [Tienda Androeed:](https://androeed.es/)
+Tienda de aplicaciones y juegos modificados. Tiene su propia app.
+
+
+===
+
+
+---
+
+
 ## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Juegos
 
 

@@ -11,41 +11,8 @@ order: 1587
 
 ---
 
-### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Sitios para buscar APKs
 
-#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) APKs limpias
-
-
-- [APK Mirror:](https://www.apkmirror.com/) 
-Encuentra betas y versiones pasadas de aplicaciones y juegos.
-
-
-- [ApkPure:](https://m.apkpure.com/es/)
-Encuentra betas y versiones pasadas de aplicaciones y juegos. **Algunas apps de paga se pueden encontrar aquí.**
-
-
-#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) APKs Modificadas
-
-
-- [RockMods:](https://www.rockmods.net/)
-Aplicaciones modificadas y de paga.
-
-
-- [ModYolo:](https://modyolo.com/)
-Aplicaciones y juegos modificados y de paga.
-
-
-- [RexDL:](https://rexdl.com/)
-Aplicaciones y juegos modificados y de paga.
-
-
-- [Tienda Androeed:](https://androeed.es/)
-Tienda de aplicaciones y juegos modificados. Tiene su propia app.
-
-
----
-
-### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Aplicaciones
+## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Aplicaciones
 
 - [Alarmy:](https://drive.google.com/file/d/1AkO5XdAUZaICNDdJG-ybEwzQlCSEd_Il/view?usp=drivesdk)
 Si tienes problemas para despertar, usa esta aplicación.
@@ -111,10 +78,10 @@ Nuevamente otro editor de videos más.
 Esta aplicación te muestra palabras en inglés y tú debes pronunciarlas correctamente.
 
 
-#### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) **Colecciones**
+### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Colecciones
 
 
-##### Alternativas Youtube:
+#### Alternativas Youtube:
 
 
 ==- Youtube Vanced
@@ -137,7 +104,7 @@ Incluye bloqueador de anuncios.
 ==-
 
 
-##### Adobe:
+#### Adobe:
 
 ==- Photoshop Express
 Edición de fotos sencilla y divertida al alcance de todos.
@@ -163,7 +130,7 @@ Escanea cualquier cosa en un abrir y cerrar de ojos.
 ==-
 
 
-##### Escuchar música:
+#### Escuchar música:
 
 ==- Spotify Premium
 Incluye streaming, pero NO SE PUEDE DESCARGAR MÚSICA.

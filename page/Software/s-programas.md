@@ -10,7 +10,7 @@ order: 1599
 ---
 
 
-### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Programas de edición**
+## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Programas de edición
 
 - [Adobe CC:](https://noiroom.tech/Tutoriales/adobeCC)
 Todos los programas de adobe gratis y sin complicaciones. Tienes tres opciones para la descarga dependiendo que tan experto seas con esto de los programas parchados.
@@ -31,20 +31,7 @@ GIMP pero con la interfaz y algunas funciones de Photoshop y Portable.
 ---
 
 
-### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Descarga musica y video**
-
-- [Deemix - Descarga desde Deezer:](https://noiroom.tech/Tutoriales/deemix#deemix-downloader-guia-pc)
-Descarga albumes y playlists enteras en segundos desde Deezer a 128kbps. Si necesitas una calidad mas altas, puedes usar su bots de telegram o canales para conseguir ARLs premium.
-
-
-- [Descarga musica con Spotube:](https://spotube.netlify.app/)
-Cliente de Spotify que descarga musica desde youtube con metadatos de Spotify.
-
-
----
-
-
-### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Reproductores de video y musica**
+## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Reproductores de video y musica
 
 - [Spotify Premium:](https://noiroom.tech/Tutoriales/spotify-premium)
 Cliente oficial de Spotify con las funciones premium activadas con un script. 
@@ -67,8 +54,3 @@ El legendario Media Player Classic. El mejor reproductor desde windows 7. El pre
 
 
 ---
-
-### ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) **Programas de utilidad**
-
-
-*En construcción... ![](https://images-ext-1.discordapp.net/external/4YQiWQevguiDbfOGmq5orfGp-lMulNDAHYaXL-aHh5M/https/i.imgur.com/tFp98Tp.png?width=31&height=31)*
