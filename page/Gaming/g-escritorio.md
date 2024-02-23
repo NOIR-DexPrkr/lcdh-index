@@ -2,7 +2,7 @@
 label: Escritorio
 icon: device-desktop
 layout: default
-order: 1690
+order: 1680
 ---
 
 # ![](https://i.postimg.cc/Rh8ZfR6v/escritorio.png)

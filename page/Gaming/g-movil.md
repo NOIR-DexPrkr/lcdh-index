@@ -2,7 +2,7 @@
 label: Móvil
 icon: device-mobile
 layout: default
-order: 1680
+order: 1690
 ---
 
 # ![](https://i.postimg.cc/Dz89tT8y/movil.png)
