@@ -1,8 +1,8 @@
 ---
 label: Emuladores
-icon: copilot
+icon: desktop-download
 layout: default
-order: 1660
+order: 1670
 ---
 
 # ![](https://i.postimg.cc/rpYCd6Vb/emuladores.png)
