@@ -26,18 +26,6 @@ order: 1670
 ¿Necesitas roms para emular pero no sabes de dónde obtenerlas? Aquí te dejo listas sobre páginas recomendadas.
 
 
-==- Atari 2600
-
-
-- [ROMSPURE](https://romspure.cc/roms/atari-2600)
-
-- [Vimm's Lair](https://vimm.net/vault/Atari2600)
-
-- [CoolROM](https://coolrom.com.au/roms/atari2600/)
-
-- [Lategames](https://www.lategames.net/roms/atari-2600/)
-
-
 ==- NES
 
 
