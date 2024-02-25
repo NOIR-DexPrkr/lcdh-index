@@ -1,6 +1,6 @@
 ---
 label: Cómic
-icon: play
+icon: accessibility
 layout: default
 order: 1880
 ---
