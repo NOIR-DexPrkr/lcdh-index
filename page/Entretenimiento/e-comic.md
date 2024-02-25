@@ -1,6 +1,6 @@
 ---
 label: Cómic
-icon: accessibility
+icon: hubot
 layout: default
 order: 1880
 ---

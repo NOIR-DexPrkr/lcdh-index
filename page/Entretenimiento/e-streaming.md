@@ -1,6 +1,6 @@
 ---
 label: Streaming
-icon: video
+icon: play
 layout: default
 order: 1890
 ---
