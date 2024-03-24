@@ -88,7 +88,7 @@ Los archivos no analizados tendrán el siguiente icono: :icon-shield:
 - [Forager](https://www.mediafire.com/file/3s8od05woi8u1e5/) :icon-shield: 
     - Mundo abierto inspirado en juegos de exploración, agricultura y crafteo como Stardew Valley, Terraria y Zelda.
 - [GTA SA + Cleos](https://drive.google.com/drive/folders/1i_uOYrEOQBpmQtUo71GzJxtIXnDDvEje?usp=share_link) :icon-shield: 
-    - El clásico de clásicos, no hace falta explicarlo. Contraseña: Danito
+    - El clásico de clásicos, no hace falta explicarlo. **Contraseña: Danito**
 - [Halo CE](https://www.mediafire.com/file/xzl4gx95jkzmtoa/H%25CE%259BL%25CE%2598_PC.rar) :icon-shield: 
     - Master Chief tiene la tarea de ayudar a los humanos sobrevivientes a repeler las abrumadoras fuerzas del Covenant.
 - [Halo 2](https://www.mediafire.com/file/kxwzt2bmzdjfcho/H%25CE%259BL%25CE%2598_2_PC.rar) :icon-shield: 

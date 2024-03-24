@@ -73,7 +73,6 @@ order: 1480
 - [Curso de cosmética natural](https://drive.google.com/drive/folders/1Emq1rYaZCekFnbyFk6p3cvZEK7MnEIQH)
 - [Curso de Stand Up Comedy](https://drive.google.com/drive/folders/1-snZ4JqLHDpwDw9nORt3dE2utS0vsZcx)
 - [Cursos de oficios](https://mega.nz/folder/dYQDAIIY#rQ3sv54Sv-zcnwQ76IK0BQ)
-- [Cursos, libros, pelis, etc](https://mega.nz/folder/s9ZEEBjY#DcYDq-2rWgwgoimuakcEdg)
 
 
 ---
