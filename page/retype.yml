@@ -31,7 +31,7 @@ links:
     
 search: 
     mode: full
-    noResultsFoundMsg: No tenemos lo que buscas. Si es un juego o app usa los buscadores (Android: https://tiny.cc/noirapk) (PC: https://tiny.cc/noirpc) o haz una petición.
+    noResultsFoundMsg: No tenemos lo que buscas. Si es un juego o Aplicación usa los buscadores, si no haz una petición.
     placeholder: Busca aquí
     preload: true
     
