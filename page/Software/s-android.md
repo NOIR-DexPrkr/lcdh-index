@@ -135,19 +135,19 @@ Escanea cualquier cosa en un abrir y cerrar de ojos.
 ==- Spotify Premium
 Incluye streaming, pero NO SE PUEDE DESCARGAR MÚSICA.
 
-[!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://noiroom.tech/Tutoriales/spotify-premium#para-android)
+[!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://www.dexnr.online/Tutoriales/spotify-premium#spotify-premium-pc-movil)
 ==- Descargar MP3 & FLAC
 Incluye streamings y descarga de archivos mp3 y flac.
 
 Podrás encontrar apps como Netease y Fildo.
 
-[!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://noiroom.tech/Moviles/m-musica#streaming-descarga-mp3-flac)
+[!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://www.dexnr.online/Moviles/m-musica#streaming-descarga-mp3-flac)
 ==- Descargar en APP
 Incluye streaming y descarga en la aplicación.
 
 Podrás encontrar apps como Deezer, BlackHole, Musify, etc.
 
-[!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://noiroom.tech/Moviles/m-musica#streaming-descaga-inapp)
+[!button corners="pill" size="m" variant="success" text="Presiona aquí"](https://www.dexnr.online/Moviles/m-musica#streaming-descaga-inapp)
 
 ==-
 

@@ -80,7 +80,7 @@ Páginas para que descarguen tus archivos. Algunos se expiran después de un tie
 Páginas útiles para distintas funciones.
 
 
-- [Nitter](https://nitter.1d4.us/)
+- [Nitter](https://twiiit.com/)
     - ¿Quieres usar Twitter, pero no quieres iniciar sesión? Con esta página puedes hacerlo.
 - [Yandex](https://yandex.com/)
     - ¿No sabes de dónde proviene una foto, video, o necesitas otras herramientas? Yandex es un buscador que te permite eso y mucho más.

@@ -12,8 +12,8 @@ order: 1599
 
 ## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Programas de edición
 
-- [Adobe CC:](https://noiroom.tech/Tutoriales/adobeCC)
-Todos los programas de adobe gratis y sin complicaciones. Tienes tres opciones para la descarga dependiendo que tan experto seas con esto de los programas parchados.
+- [Adobe CC:](https://www.dexnr.online/Tutoriales/adobeCC)
+Todos los programas de adobe gratis y sin complicaciones. Tienes dos opciones para descarga dependiendo de tu experiencia instalando programas.
 
 
 - [Olive:](https://www.olivevideoeditor.org/)
@@ -33,7 +33,7 @@ GIMP pero con la interfaz y algunas funciones de Photoshop y Portable.
 
 ## ![](https://i.postimg.cc/fyHqs50r/Proyecto-nuevo-2.png) Reproductores de video y musica
 
-- [Spotify Premium:](https://noiroom.tech/Tutoriales/spotify-premium)
+- [Spotify Premium:](https://www.dexnr.online/Tutoriales/spotify-premium#windows)
 Cliente oficial de Spotify con las funciones premium activadas con un script. 
 
 !!!danger
@@ -41,7 +41,7 @@ Spotify no permite descargar musica.
 !!!
 
 
-- [Coleccion de reproductores de musica:](https://noiroom.tech/Escritorio/e-musica)
+- [Coleccion de reproductores de musica:](https://www.dexnr.online/Escritorio/e-musica#reproductores-de-musica)
 Lista de reproductores de musica de codigo abierto, excelentes y con mucha personalizacion, ademas de funciones geniales.
 
 

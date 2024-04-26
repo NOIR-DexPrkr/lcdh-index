@@ -21,6 +21,8 @@ order: 1870
 === Gratuito y sin cuentas
 
 
+- [Slider](https://hayqbhgr.slider.kz/)
+    - Solamente otro buscador de música.
 - [doubledouble.top](https://doubledouble.top/)
     - Descarga directamente de plataformas de streaming.
 - [Song Lover](https://songslover.vip/)

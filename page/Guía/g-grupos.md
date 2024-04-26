@@ -112,7 +112,7 @@ Al igual que la temática, necesitarás usar una de las marcas de agua para tus 
 
 Cualquier tipo de enlace está prohibido en el grupo, por lo que deberás usar solamente QR en caso de querer pedir, aportar, etc.
 
-En la sección de [creación de QRs](https://lcdh.tech/consejos/c-grupos/#crear-qrs) puedes aprender a hacerlo, en caso de que no sepas.
+En la sección de [creación de QRs](https://lcdh.tech/guía/g-grupos/#crearlos) puedes aprender a hacerlo, en caso de que no sepas.
 
 
 === Aportes
@@ -126,7 +126,7 @@ Aquí te dejo una sección entera dedicada a la seguridad, para que puedas asegu
 
 
 :::content-center
-[!button corners="pill" size="m" variant="contrast" icon="shield-check" text="Seguridad"](https://lcdh.tech/inicio/c-seguridad/)
+[!button corners="pill" size="m" variant="contrast" icon="shield-check" text="Seguridad"](https://lcdh.tech/guía/g-seguridad/)
 :::
 
 
