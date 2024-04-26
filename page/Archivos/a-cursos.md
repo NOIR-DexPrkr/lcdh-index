@@ -57,7 +57,6 @@ order: 1480
 
 #### ![](https://i.postimg.cc/s2DT9mVX/Proyecto-nuevo-5.png) Cursos de diseño
 
-- [Curso de jardinería](https://www.mediafire.com/file/0kjebuh0lqpvrdu/xmaster_class_hotmar_jardineria.rar/file)
 - [Cursos para hacer luz digital](https://drive.google.com/drive/folders/1AOUh8D5VtxwNJPmDuYwthUyKHhIazvnR)
 - [Creación de personajes](https://drive.google.com/drive/folders/1MDGtLDebryAg076QbCutDqEUUnPyr1LJ)
 - [Curso diseño gráfico](https://drive.google.com/drive/folders/1WzVLVcfKO199H18YuLtc0gSOAGWtw7HA)
