@@ -31,7 +31,7 @@ links:
     
 search: 
     mode: full
-    noResultsFoundMsg: No es el termino correcto, o no tenemos lo que buscas, haz una petición.
+    noResultsFoundMsg: No tenemos lo que buscas. Si es un juego o Aplicación usa los buscadores, si no haz una petición.
     placeholder: Busca aquí
     preload: true
     
