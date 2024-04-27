@@ -27,10 +27,10 @@ order: 3000
 
 
 
-!!!danger Mensaje de LCDH
+!!!danger Mensaje del staff de LCDH
 
 
-![](https://i.postimg.cc/vmZ26ngn/moomin-arqui.png)
+![](https://i.postimg.cc/Jh7Dpksq/escape-1.png)
 
 
 !!!
