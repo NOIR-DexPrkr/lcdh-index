@@ -11,13 +11,13 @@ order: 3000
 ![](https://i.postimg.cc/Tw1X6rmP/Proyecto-nuevo-27.png)
 
 :::content-center
-[!badge text="Tu index de confianza en un solo lugar. 🍩"]
+[!badge variant="ghost" text="Tu index de confianza en un solo lugar. 🍩"]
 :::
 
 ---
 
 
-[!embed variant="ghost" text="Pequeño tutorial para que aprendas a usar el index"](https://www.youtube.com/watch?v=bSdQj4cgvCo&feature=youtu.be)
+[!embed text="Pequeño tutorial para que aprendas a usar el index"](https://www.youtube.com/watch?v=bSdQj4cgvCo&feature=youtu.be)
 
 
 
