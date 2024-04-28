@@ -24,10 +24,6 @@ links:
     icon: paper-airplane
     link: https://t.me/LosConsejosDeHomeroOficial
     target: blank
-  - text: Donaciones
-    icon: heart-fill
-    link: https://ko-fi.com/losconsejosdehomerooficial
-    target: blank
     
 search: 
     mode: full
