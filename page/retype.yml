@@ -42,6 +42,10 @@ editor:
 footer:
   copyright: "&copy; Este sitio es una recopilacion de links, no estamos ligados al origen de estos."
   links: 
+  - text: Actualizado 28/04/24
+      icon: sync
+      link: https://www.youtube.com/watch?v=4OvhrzXu4Yo
+      target: blank
     - text: Dex
       icon: heart-fill
       link: https://rentry.co/links-noir-room
@@ -49,8 +53,4 @@ footer:
     - text: Pipe
       icon: star-fill
       link: https://rentry.co/PipeOmari
-      target: blank
-    - text: Actualizado 28/04/24
-      icon: sync
-      link: https://www.youtube.com/watch?v=4OvhrzXu4Yo
       target: blank
