@@ -30,7 +30,7 @@ order: 3000
 !!!danger Mensaje del staff de LCDH
 
 
-![](https://i.postimg.cc/Jh7Dpksq/escape-1.png)
+![](https://i.postimg.cc/QCwnp1xf/LCDH-HOLA-1.png)
 
 
 !!!
