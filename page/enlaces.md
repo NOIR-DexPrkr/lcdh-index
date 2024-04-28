@@ -1,12 +1,12 @@
 ---
-label: Links
+label: Enlaces
 icon: globe
 layout: default
 order: 2900
 ---
 
 
-# ![](https://i.postimg.cc/VkVp1ycx/links.png)
+# ![](https://i.postimg.cc/FscVz23t/enlaces.png)
 
 
 ---
@@ -17,6 +17,7 @@ order: 2900
 !!! ¿Qué son los buscadores?
 
 Los buscadores son páginas en donde podrás buscar lo que quieras.
+
 Encuentra gran variedad de links, archivos, juegos, etc, simplemente entrando al buscador que necesites.
 
 
