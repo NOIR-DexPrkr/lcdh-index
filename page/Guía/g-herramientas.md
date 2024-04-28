@@ -79,9 +79,16 @@ Páginas para que descarguen tus archivos. Algunos se expiran después de un tie
 
 Páginas útiles para distintas funciones.
 
-
+- [Sejda](https://www.sejda.com/pdf-editor)
+    - Edita tus PDFs online u offline.
+- [Invidious](http://invidious.poast.org/)
+    - Alternativa a Youtube sin anuncios.
+- [SimplyTranslate](http://translate.syncpundit.io/)
+    - El traductor de Google, pero sin acceder a él, y con la capacidad de descargar los audios.
 - [Nitter](https://twiiit.com/)
     - ¿Quieres usar Twitter, pero no quieres iniciar sesión? Con esta página puedes hacerlo.
+- [Imginn](http://imginn.com/)
+    - ¿Quieres usar Instagram, pero no quieres iniciar sesión? Con esta página puedes hacerlo.
 - [Yandex](https://yandex.com/)
     - ¿No sabes de dónde proviene una foto, video, o necesitas otras herramientas? Yandex es un buscador que te permite eso y mucho más.
 - [TempMail](https://temp-mail.org/es/)

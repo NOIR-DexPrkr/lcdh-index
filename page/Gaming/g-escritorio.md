@@ -38,7 +38,10 @@ Los archivos no analizados tendrán el siguiente icono: :icon-shield:
 
 ### Individuales
 
-
+- [Phoenix Wright: Acce Attorney TRILOGÍA](https://www.mediafire.com/file/drs0n7w9iy8dco0/phohsakhaksakxknskdnd.rar/file)
+    - Una trilogía más.
+- [PokeMMO](https://pokemmo.com/es/downloads/)
+    - Recorre las locaciones de los juegos más entrañables de la saga.
 - [Plantas vs Zombies Void](https://gamejolt.com/games/Xuwugames_PVZ_Void/714049) 
     - Port del videojuego Plantas vs Zombies 2, el cual incluye contenido extra, entre otros.
 - [God of War 2018](https://www.mediafire.com/file/9p2wvvx6rghx3gy/6oW2O18.rar) 
@@ -55,8 +58,10 @@ Los archivos no analizados tendrán el siguiente icono: :icon-shield:
     - Una niña llamada Ib visita una galería de arte con sus padres, hasta que se da cuenta que está sola, y cada vez el museo cambia aún más.
 - [60 Parsecs!](https://mega.nz/file/aAZRXarC#IU57m4lyYuYq11Uk9LltYE9v7VnmvoVhODphmDpByXQ) :icon-shield: 
     - ¡La era espacial atómica fue la bomba! Hasta que se convirtió en la era espacial posapocalíptica.
-- [Blasphemous](https://www.mediafire.com/file/dsu23j2oqugekne/Bla7sphem9us0.rar/file?dkey=802wa61ngcd&r=796) :icon-shield: 
+- [Blasphemous](https://steamrip.com/blasphemous-free-download-1h/)
     - Eres el Penitente, el único superviviente de la masacre de la hermandad del Lamento Mudo.
+- [Blasphemous 2](https://steamrip.com/blasphemous-2-free-download-1i/)
+    - La secuela del primer juego.
 - [Bomb Rush Cyberfunk](https://www.mediafire.com/download/og8q6o2zcqs2scl) :icon-shield: 
     - Red es un graffitis writer que perdió la cabeza y en su lugar tiene una cabeza cyber.
 - [Brawlhalla + DLCs](https://www.mediafire.com/file/7fj0t03lc7fhuyg/BRAW_Setup.exe/file) :icon-shield: 
@@ -77,12 +82,20 @@ Los archivos no analizados tendrán el siguiente icono: :icon-shield:
     - Crea tu propia secta en una tierra de falsos profetas, aventurándote en regiones diversas y misteriosas.
 - [Cuphead + DLCs](https://steamrip.com/cuphead-free-download/) :icon-shield: 
     - Cuphead es un juego de acción clásico estilo "dispara y corre" que se centra en combates contra jefes.
+- [COD: Black Ops 1 OPTIMIZADO](https://huggingface.co/spaces/lozanogamer/lozanogamers/resolve/main/Call%20Of%20Duty%20Black%20Ops%201%20Optimized.7z?download=true)
+    - El juego de COD pero optimizado para bajos recursos. Revisa cómo [poner el videojuego en español](https://danaliztraducciones.blogspot.com/2022/02/blog-post_23.html).
 - [Death's Gambit](https://www.mediafire.com/file/ldafipeeov40kia/Deaths.Gambit.Afterlife.v2.21.zip/file) :icon-shield: 
     - Desafía a los guardianes inmortales del reino y supera la lucha eterna para purgar sus almas.
 - [Don't Bite Me Bro!](https://www.mediafire.com/file/33ohp615dxtg1a1/DontBiteMeBro_PC_x86.zip/file) :icon-shield: 
     - Explora el mundo y recolecta recursos para construir y mejorar tu refugio.
 - [Fable 1](https://www.mediafire.com/file/k08b5u8i6i2zx1q/Jueguini.rar/file) :icon-shield: 
     - Ambientado en la era medieval, da una gran libertad para determinar las habilidades, la apariencia. etc.
+- [Fallout Tactics](https://www.mediafire.com/file/920rwhu3vslzfbb/Fallout_Tactics.zip/file)
+    - Fallout pero táctico.
+- [Fallout 1](https://www.mediafire.com/file/y9fkd4uprotp12h/Fallout_1.zip/file)
+    - Fallout pero el primer juego.
+- [Fallout 2](https://www.mediafire.com/file/nub0gmhbukseqah/Fallout_2.zip/file)
+    - Fallout pero la secuela.
 - [Fear and Hunger](https://drive.google.com/drive/folders/1jIFUywhCN0HJoociBs8kFVSdznJhx707) :icon-shield: 
     - Cuatro aventureros desdichados se adentran en ''La Fortaleza'' en busca de tesoros pero sólo hallan dolor.
 - [Forager](https://www.mediafire.com/file/3s8od05woi8u1e5/) :icon-shield: 
@@ -97,6 +110,8 @@ Los archivos no analizados tendrán el siguiente icono: :icon-shield:
     - Hollow Knight es una aventura de acción clásica en 2D ambientada en un vasto mundo interconectado.
 - [Hotline Miami Collection](https://drive.google.com/file/d/1R54_Jm1bl7eeiqVmrA7N2qfwSbBTgaB3/view) :icon-shield: 
     - Matar rusos: los juegos.
+- [Lethal Company (v.49)](https://www.mediafire.com/file/wlo3zy4uaw80936/L%25CC%25B7e%25CC%25B7t%25CC%25B7h%25CC%25B7a%25CC%25B7l%25CC%25B7_C%25CC%25B7o%25CC%25B7m%25CC%25B7p%25CC%25B7a%25CC%25B7n%25CC%25B7y%25CC%25B7.rar/file)
+    - Juego para jugar con amigos. Tienes que tener abierto Steam antes de jugarlo.
 - [The Binding of Isaac Repentance](https://www.mediafire.com/file/g05bbsdo9fhibn4) :icon-shield: 
     - Shooter de rol y acción generado aleatoriamente con fuertes elementos de roguelike.
 - [Katana Zero](https://www.mediafire.com/file/2yygjyqarf3ainp/KTN0_by_BlizzBoyGames.rar/file) :icon-shield: 

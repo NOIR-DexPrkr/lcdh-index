@@ -61,7 +61,12 @@ order: 1690
 
 ### **Individuales**
 
-
+- [CoroMON](https://www.mediafire.com/file/90p5cp63qi4u6yg/Coromon.apk/file)
+    - Fangame de Pokemon.
+- [PokeMMO](https://pokemmo.com/es/downloads/)
+    - Recorre las locaciones de los juegos más entrañables de la saga.
+- [Katana Zero](https://androeed.store/files/katana-zero-netflix.html)
+    - El videojuego de Katana Zero porteado oficialmente para android.
 - [VA-11 HALL-A](https://www.mediafire.com/download/m0h0pmmolh5iun4) 
     - Un videojuego de simulación independiente de bartender con elementos visuales novedosos. Véase también su [versión de PC](https://lcdh.tech/escritorio/e-juegos/#individuales).
 - [To the moon](https://www.mediafire.com/file/3lit8u9uw1278yl/To_the_moon.zip/file) 
