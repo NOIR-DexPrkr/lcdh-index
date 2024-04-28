@@ -1,12 +1,12 @@
 ---
-label: Buscadores
-icon: codescan-checkmark
+label: Links
+icon: globe
 layout: default
 order: 2900
 ---
 
 
-# ![](https://i.postimg.cc/XqP7dHCt/BUSCADORES.png)
+# ![](https://i.postimg.cc/VkVp1ycx/links.png)
 
 
 ---
