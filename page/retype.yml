@@ -40,25 +40,17 @@ editor:
 
 
 footer:
-  copyright: "&copy; Este sitio es una recopilacion de links. No estamos ligados a lo que en ellos se encuentra."
+  copyright: "&copy; Este sitio es una recopilacion de links, no estamos ligados al origen de estos."
   links: 
-    - text: Facebook
-      icon: people
-      link: https://www.facebook.com/groups/losconsejosdehomero/?ref=share
-      target: blank
-    - text: Discord
-      icon: rocket
-      link: https://discord.gg/RaJEJPQYPb
-      target: blank
-    - text: Telegram
-      icon: plain
-      link: https://t.me/LosConsejosDeHomeroGroup
-      target: blank
-    - text: Donaciones
+    - text: Dex
       icon: heart-fill
-      link: https://ko-fi.com/losconsejosdehomerooficial
+      link: https://rentry.co/links-noir-room
       target: blank
-    - text: Actualizado 25/04/24
+    - text: Pipe
+      icon: star-fill
+      link: https://rentry.co/PipeOmari
+      target: blank
+    - text: Actualizado 28/04/24
       icon: sync
       link: https://www.youtube.com/watch?v=4OvhrzXu4Yo
       target: blank

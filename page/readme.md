@@ -38,13 +38,3 @@ order: 3000
 
 ---
 
-!!!info Con mucho cariño, hecho por:
-
-[Pipe:](https://rentry.co/PipeOmari) Co-creador, contribuidor y encargado del index
-
-[Dex Parker:](https://rentry.co/links-noir-room) Creador del index
-
-!!!
-
----
-
