@@ -2,7 +2,7 @@
 label: Cómic
 icon: hubot
 layout: default
-order: 1880
+order: 1870
 ---
 
 
