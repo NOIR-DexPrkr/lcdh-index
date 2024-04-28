@@ -42,7 +42,7 @@ editor:
 footer:
   copyright: "&copy; Este sitio es una recopilacion de links, no estamos ligados al origen de estos."
   links: 
-  - text: Actualizado 28/04/24
+    - text: Actualizado 28/04/24
       icon: sync
       link: https://www.youtube.com/watch?v=4OvhrzXu4Yo
       target: blank
